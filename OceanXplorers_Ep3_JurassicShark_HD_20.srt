@@ -1,0 +1,3016 @@
+1
+01:00:05,168 --> 01:00:07,103
+[James Cameron] The Ocean....
+
+2
+01:00:07,202 --> 01:00:09,172
+the last frontier on earth.
+
+3
+01:00:09,438 --> 01:00:13,076
+So much is unexplored
+and unexplained.
+
+4
+01:00:13,543 --> 01:00:15,110
+To change that...
+
+5
+01:00:15,210 --> 01:00:18,246
+a kickass team of insanely
+talented specialists is
+
+6
+01:00:18,347 --> 01:00:21,016
+setting out to push the
+frontiers of what we know
+
+7
+01:00:21,117 --> 01:00:23,786
+about our oceans.
+
+8
+01:00:24,987 --> 01:00:26,222
+[Zoleka Filander] Oh my gosh.
+
+9
+01:00:26,322 --> 01:00:29,692
+[James Cameron] Zoleka Filander,
+deep sea scientist.
+
+10
+01:00:29,826 --> 01:00:31,693
+[Zoleka Filander] Being a
+deep-sea researcher means
+
+11
+01:00:31,793 --> 01:00:35,398
+having front row tickets to
+the best movie that everybody
+
+12
+01:00:35,498 --> 01:00:37,099
+wants to watch.
+
+13
+01:00:37,199 --> 01:00:38,400
+[James Cameron]
+Melissa Márquez...
+
+14
+01:00:38,501 --> 01:00:39,936
+[Melissa Márquez]
+Straight ahead, 12:00.
+
+15
+01:00:40,036 --> 01:00:41,070
+[James Cameron]
+Shark biologist.
+
+16
+01:00:41,304 --> 01:00:44,239
+[Melissa Márquez] We just saw
+what no one has seen before.
+
+17
+01:00:44,340 --> 01:00:46,208
+[James Cameron]
+Eric Stackpole...
+
+18
+01:00:46,309 --> 01:00:47,143
+[Eric Stackpole] Scan now!
+
+19
+01:00:47,242 --> 01:00:48,177
+[James Cameron] Ocean
+tech innovator.
+
+20
+01:00:48,411 --> 01:00:50,646
+[Eric Stackpole] I love
+building tools that allow us
+
+21
+01:00:50,746 --> 01:00:53,148
+to see things in ways
+we've never seen before.
+
+22
+01:00:53,248 --> 01:00:54,384
+[gasps]
+
+23
+01:00:54,483 --> 01:00:56,018
+[James Cameron] And Aldo Kane...
+
+24
+01:00:56,686 --> 01:00:58,320
+[Aldo Kane] <i>This is insane.</i>
+
+25
+01:00:58,420 --> 01:01:00,757
+[James Cameron] Former
+Royal Marine; special ops.
+
+26
+01:01:00,856 --> 01:01:03,159
+[Aldo Kane] It doesn't get
+any more cutting-edge
+
+27
+01:01:03,259 --> 01:01:04,960
+exploration than this.
+
+28
+01:01:05,061 --> 01:01:07,764
+[James Cameron]
+Their secret weapon...
+
+29
+01:01:07,864 --> 01:01:10,233
+...the <i>OceanXplorer.</i>
+
+30
+01:01:12,402 --> 01:01:14,804
+The most technologically
+advanced research vessel
+
+31
+01:01:14,903 --> 01:01:17,407
+ever built.
+
+32
+01:01:17,840 --> 01:01:20,309
+There's never been a more
+urgent need to understand
+
+33
+01:01:20,409 --> 01:01:24,313
+our ocean and the animals
+that call it home...
+
+34
+01:01:24,914 --> 01:01:29,719
+Because their lives
+and ours depend on it.
+
+35
+01:01:31,387 --> 01:01:34,356
+This time the team
+takes on a deep-sea shark.
+
+36
+01:01:34,456 --> 01:01:36,391
+[Melissa Márquez] She's huge.
+
+37
+01:01:36,492 --> 01:01:39,228
+[James Cameron] And get closer
+than they ever imagined.
+
+38
+01:01:39,327 --> 01:01:41,431
+[Melissa Márquez] Oh
+she just hit the sub.
+
+39
+01:01:41,530 --> 01:01:45,233
+[theme music plays]
+
+40
+01:01:47,302 --> 01:01:51,440
+[seagulls cawing]
+
+41
+01:01:52,275 --> 01:01:55,378
+[James Cameron] The <i>OceanXplorer</i>
+is in the Azores.
+
+42
+01:01:56,045 --> 01:02:00,983
+A group of volcanic islands
+
+43
+01:02:01,083 --> 01:02:03,385
+in the middle of
+the Atlantic Ocean,
+
+44
+01:02:03,485 --> 01:02:06,355
+1,000 miles
+west of Portugal.
+
+45
+01:02:10,293 --> 01:02:14,731
+For this mission, the team
+is heading into the deep.
+
+46
+01:02:16,264 --> 01:02:18,034
+To uncover the secrets
+of one of the ocean's
+
+47
+01:02:18,134 --> 01:02:20,936
+most elusive creatures.
+
+48
+01:02:26,509 --> 01:02:29,144
+The sixgill shark.
+
+49
+01:02:32,215 --> 01:02:36,119
+These animals live at
+depths of over 4,000 feet...
+
+50
+01:02:36,786 --> 01:02:41,090
+and are so perfectly adapted
+to the abyss, it's believed
+
+51
+01:02:41,190 --> 01:02:44,927
+they've barely evolved
+in 200 million years...
+
+52
+01:02:47,496 --> 01:02:51,333
+they're as old
+as the dinosaurs.
+
+53
+01:02:51,833 --> 01:02:53,936
+Sixgill sharks are secretive,
+
+54
+01:02:54,036 --> 01:02:55,371
+I've spent hundreds
+of hours in subs,
+
+55
+01:02:55,471 --> 01:02:57,507
+I've only ever caught glimpses.
+
+56
+01:02:57,606 --> 01:03:00,342
+They can live so deep they're
+really difficult to study,
+
+57
+01:03:00,443 --> 01:03:03,179
+so the team is here to push
+the scientific frontiers of
+
+58
+01:03:03,278 --> 01:03:05,847
+what we know about
+these animals.
+
+59
+01:03:10,018 --> 01:03:12,088
+[Captain] <i>We will be rolling</i>
+<i> the subs out in just a</i>
+
+60
+01:03:12,188 --> 01:03:14,422
+<i> couple of minutes.</i>
+
+61
+01:03:16,525 --> 01:03:18,327
+[James Cameron] To reveal the
+shark's mysteries, the team
+
+62
+01:03:18,427 --> 01:03:22,898
+will make a series of dives
+into the sixgill's world.
+
+63
+01:03:23,266 --> 01:03:24,233
+[Eric Stackpole] I've always
+been fascinated by the deep
+
+64
+01:03:24,467 --> 01:03:27,335
+because it is so unusual,
+it has this feeling of being
+
+65
+01:03:27,436 --> 01:03:31,039
+scary but your curiosity
+makes you go anyway.
+
+66
+01:03:32,240 --> 01:03:34,811
+[Captain] <i>Move into</i>
+<i> position for the sub launch.</i>
+
+67
+01:03:34,911 --> 01:03:37,280
+[James Cameron] Their ultimate
+goal is to tag a shark
+
+68
+01:03:37,380 --> 01:03:40,148
+in an ambitious plan.
+
+69
+01:03:40,248 --> 01:03:42,184
+[Zolenka Filander] Nobody has
+managed to tag a sixgill shark
+
+70
+01:03:42,284 --> 01:03:46,188
+from a sub at depth and get
+the data back, so what we're
+
+71
+01:03:46,289 --> 01:03:49,358
+doing here is really
+pushing the boundaries.
+
+72
+01:03:52,460 --> 01:03:54,429
+[Captain] <i>Ready</i>
+<i> for passengers.</i>
+
+73
+01:03:54,530 --> 01:03:57,432
+[James Cameron] Melissa Márquez
+studied sharks for her PhD,
+
+74
+01:03:57,532 --> 01:04:02,003
+but she's never come
+face to face with a sixgill.
+
+75
+01:04:02,905 --> 01:04:05,340
+[Melissa Márquez] I'm gonna be
+a little intimidated if I've got
+
+76
+01:04:05,440 --> 01:04:07,510
+a sixgill coming
+straight at us in the sub.
+
+77
+01:04:07,610 --> 01:04:10,445
+I mean these big animals and
+it definitely, if it wants to
+
+78
+01:04:10,545 --> 01:04:13,983
+clamp on to some part of the
+sub and shake us around a bit.
+
+79
+01:04:14,083 --> 01:04:14,851
+Just through here?
+
+80
+01:04:15,351 --> 01:04:18,153
+[Pilot] Just this way, up the
+steps, sit here hands either
+
+81
+01:04:18,253 --> 01:04:20,255
+side and lower yourself down.
+
+82
+01:04:20,356 --> 01:04:21,257
+[Melissa Márquez] So yeah
+a little bit nervous of getting
+
+83
+01:04:21,590 --> 01:04:25,327
+up close and personal with them
+but really, really excited.
+
+84
+01:04:25,961 --> 01:04:28,864
+[James Cameron] The team is
+joining forces with Jorge Fontes
+
+85
+01:04:28,965 --> 01:04:31,300
+and Pedro Afonso,
+
+86
+01:04:31,400 --> 01:04:34,536
+shark scientists from the
+University of the Azores.
+
+87
+01:04:34,769 --> 01:04:37,005
+[Pedro Afonso] There's
+amazingly little known about
+
+88
+01:04:37,106 --> 01:04:40,108
+these creatures, in spite
+of the fact that they are
+
+89
+01:04:40,208 --> 01:04:42,143
+the top predator.
+
+90
+01:04:42,244 --> 01:04:43,646
+Right can I...
+
+91
+01:04:43,746 --> 01:04:46,181
+[Pilot] Yeah, just put your
+feet there and then down
+
+92
+01:04:46,282 --> 01:04:47,349
+on to the seat.
+
+93
+01:04:47,449 --> 01:04:48,083
+It's good.
+
+94
+01:04:48,650 --> 01:04:49,217
+[James Cameron] The first
+mission is to observe these
+
+95
+01:04:49,918 --> 01:04:53,255
+well-adapted sixgills, which
+survive in a cold, dark world
+
+96
+01:04:53,356 --> 01:04:56,425
+of intense pressure and to get
+an idea of how many there are
+
+97
+01:04:56,525 --> 01:04:58,893
+in this area.
+
+98
+01:04:59,628 --> 01:05:01,630
+[OceanX Crew] Clear!
+
+99
+01:05:02,063 --> 01:05:04,132
+[Pilot] Neptune hatch secure,
+life support running,
+
+100
+01:05:04,233 --> 01:05:06,369
+safety brief complete,
+ready for the water.
+
+101
+01:05:10,106 --> 01:05:11,206
+[Pedro Afonso] It's
+really happening.
+
+102
+01:05:11,306 --> 01:05:12,574
+[Melissa Márquez] It is.
+
+103
+01:05:12,675 --> 01:05:13,675
+[Pilot] You ever
+been in a sub before?
+
+104
+01:05:13,775 --> 01:05:17,512
+[Pedro Afonso] Nope, my first.
+
+105
+01:05:17,947 --> 01:05:20,449
+[James Cameron] It's 10:30 pm.
+
+106
+01:05:20,548 --> 01:05:23,385
+Pedro knows where the sharks
+hang out at night, but until
+
+107
+01:05:23,485 --> 01:05:26,688
+now he hasn't had a
+chance to go there.
+
+108
+01:05:29,291 --> 01:05:31,293
+[Pilot] <i>Ok bridge all ready.</i>
+
+109
+01:05:31,559 --> 01:05:34,329
+[OceanX Crew] <i>All stations</i>
+<i> SO, launching Neptune.</i>
+
+110
+01:05:44,773 --> 01:05:46,375
+[James Cameron] We know that
+the sharks spend their days in
+
+111
+01:05:46,474 --> 01:05:50,112
+the depths of the ocean, and
+that every sunset they start
+
+112
+01:05:50,211 --> 01:05:51,981
+an epic three hour journey
+
+113
+01:05:52,081 --> 01:05:56,351
+nearly 1,800 feet up
+to this island ledge.
+
+114
+01:06:03,159 --> 01:06:06,661
+Melissa and Pedro are
+hoping to meet them there.
+
+115
+01:06:09,197 --> 01:06:12,635
+[Melissa Márquez] Down here
+light barely penetrates,
+
+116
+01:06:12,735 --> 01:06:15,670
+and temperatures are
+just above freezing.
+
+117
+01:06:16,639 --> 01:06:18,074
+[Pilot] See the bottom?
+
+118
+01:06:18,173 --> 01:06:20,275
+-Yep, yep.
+-Yeah, really close
+
+119
+01:06:20,376 --> 01:06:23,411
+[Pedro Afonso] Now we see it.
+
+120
+01:06:30,619 --> 01:06:34,023
+OK here we go.
+
+121
+01:06:36,625 --> 01:06:39,128
+[Melissa Márquez] Just so much
+biomass here, there's got to
+
+122
+01:06:39,228 --> 01:06:42,597
+be some sort of
+nutrient rich water here,
+
+123
+01:06:42,697 --> 01:06:43,632
+some sort of upwelling,
+
+124
+01:06:43,898 --> 01:06:48,436
+to explain just how much we've
+got going on right now.
+
+125
+01:06:50,606 --> 01:06:52,407
+[James Cameron] Melissa and
+Pedro will stake out this
+
+126
+01:06:52,507 --> 01:06:55,311
+ledge for eight hours.
+
+127
+01:07:00,715 --> 01:07:05,420
+Just 20 minutes in, a shape
+emerges out of the darkness.
+
+128
+01:07:10,860 --> 01:07:12,427
+[Melissa Márquez] Shark,
+shark, shark,
+
+129
+01:07:12,527 --> 01:07:15,597
+[Pilot] OK, here we go...
+Port side, port side.
+
+130
+01:07:15,697 --> 01:07:18,166
+[James Cameron]
+A sixgill shark.
+
+131
+01:07:22,103 --> 01:07:25,273
+[Melissa Márquez] That's huge!
+
+132
+01:07:25,907 --> 01:07:29,778
+Adult, definitely an adult,
+about 15 feet long.
+
+133
+01:07:30,346 --> 01:07:33,581
+[Pedro Afonso] Female, no yeah
+
+134
+01:07:33,681 --> 01:07:35,583
+[Melissa Márquez] Yeah female.
+
+135
+01:07:35,684 --> 01:07:37,753
+[James Cameron] Males are
+identified by their claspers,
+
+136
+01:07:37,853 --> 01:07:41,489
+their sexual organs
+under the pelvic fin.
+
+137
+01:07:44,393 --> 01:07:48,697
+[Melissa Márquez] It's so
+interesting,
+
+138
+01:07:48,797 --> 01:07:52,467
+that she's so sluggish.
+
+139
+01:07:52,835 --> 01:07:55,838
+Guess she is conserving her
+energy, I mean it's cold out
+
+140
+01:07:55,938 --> 01:07:59,541
+there, it's only 39 degrees.
+
+141
+01:08:02,545 --> 01:08:04,380
+[James Cameron] The sixgill
+is different from almost
+
+142
+01:08:04,480 --> 01:08:06,548
+all modern sharks.
+
+143
+01:08:06,648 --> 01:08:11,586
+It has six pairs of gills,
+instead of the more normal five.
+
+144
+01:08:11,686 --> 01:08:16,391
+A relic from the ancient
+conditions they evolved in.
+
+145
+01:08:16,958 --> 01:08:20,362
+[Pedro Afonso] They really look
+like a prehistoric creature.
+
+146
+01:08:20,462 --> 01:08:23,298
+[Melissa Márquez] Literally
+unchanged since the Jurassic,
+
+147
+01:08:23,399 --> 01:08:26,100
+perfectly adapted.
+
+148
+01:08:26,569 --> 01:08:30,104
+Sixgill sharks are the
+masters of the deep,
+
+149
+01:08:30,206 --> 01:08:32,307
+they've got specialized eyes
+that actually allow them to see
+
+150
+01:08:32,408 --> 01:08:35,444
+in really low light
+conditions down there
+
+151
+01:08:35,543 --> 01:08:37,712
+and that area is pretty hypoxic,
+
+152
+01:08:37,813 --> 01:08:39,547
+so there's
+not that much oxygen.
+
+153
+01:08:39,648 --> 01:08:43,351
+So their blood is actually
+adapted to being able to
+
+154
+01:08:43,452 --> 01:08:46,154
+extract more oxygen from its
+surroundings, so these animals
+
+155
+01:08:46,255 --> 01:08:48,623
+can actually
+thrive down there.
+
+156
+01:08:52,595 --> 01:08:54,529
+[James Cameron] This close
+encounter is a good start,
+
+157
+01:08:54,630 --> 01:08:58,734
+but we need to know more
+about these Jurassic sharks.
+
+158
+01:09:03,204 --> 01:09:05,173
+[James Cameron] No one knows
+how many sixgills are living
+
+159
+01:09:05,274 --> 01:09:08,277
+here so Melissa and Pedro
+are carrying out a population
+
+160
+01:09:08,377 --> 01:09:11,579
+survey throughout the night.
+
+161
+01:09:12,381 --> 01:09:13,849
+[Pedro Afonso] Think it
+is, yes, it's coming.
+
+162
+01:09:13,948 --> 01:09:15,417
+[Melissa Márquez] Do you see it?
+
+163
+01:09:15,518 --> 01:09:16,519
+Oh yes, yes there it is.
+
+164
+01:09:16,618 --> 01:09:19,555
+[Pedro Afonso] Yep.
+It's coming.
+
+165
+01:09:21,657 --> 01:09:23,359
+[Melissa Márquez] Ohhh shark.
+
+166
+01:09:23,458 --> 01:09:24,426
+[Pedro Afonso] Shark?
+
+167
+01:09:24,527 --> 01:09:26,595
+[Melissa Márquez] Yep.
+
+168
+01:09:27,029 --> 01:09:30,899
+[Pedro Afonso] A small one...
+
+169
+01:09:31,000 --> 01:09:35,637
+Ah... not so small.
+
+170
+01:09:35,738 --> 01:09:37,706
+[Melissa Márquez]
+No, not so small.
+
+171
+01:09:37,805 --> 01:09:39,175
+These sharks were showing
+
+172
+01:09:39,274 --> 01:09:41,510
+all different types
+of personalities.
+
+173
+01:09:41,609 --> 01:09:44,246
+She's under.
+She's under.
+
+174
+01:09:44,712 --> 01:09:46,582
+[Pilot] A hell of a big shark.
+
+175
+01:09:46,681 --> 01:09:49,717
+[Melissa Márquez] Some were
+really interested in the sub.
+
+176
+01:09:52,421 --> 01:09:53,622
+[Pedro Afonso]
+That's a big tail.
+
+177
+01:09:53,720 --> 01:09:56,358
+[Melissa Márquez]
+Woohoo, it's really close.
+
+178
+01:09:56,457 --> 01:09:58,793
+[Pedro Afonso] You
+can feel the power.
+
+179
+01:10:00,729 --> 01:10:04,198
+[Melissa Márquez] Some
+wanted nothing to do with it.
+
+180
+01:10:05,134 --> 01:10:08,436
+[James Cameron] As the hours
+go by, they count 11 sixgills,
+
+181
+01:10:08,537 --> 01:10:12,574
+one juvenile male
+and ten females.
+
+182
+01:10:14,577 --> 01:10:16,345
+[Melissa Márquez] It's
+interesting that we haven't
+
+183
+01:10:16,444 --> 01:10:19,814
+really seen any males here,
+just that one, it's mostly
+
+184
+01:10:19,914 --> 01:10:24,386
+just been females, no boys
+allowed, females only hangout.
+
+185
+01:10:25,186 --> 01:10:27,555
+[James Cameron] Shark mating
+be violent and outside the
+
+186
+01:10:27,655 --> 01:10:30,826
+breeding season many species
+of shark carry out segregation
+
+187
+01:10:30,926 --> 01:10:35,229
+of the sexes, it looks like
+this could be happening here.
+
+188
+01:10:36,030 --> 01:10:39,667
+Our team has confirmed that
+this is a sixgill hotspot.
+
+189
+01:10:39,768 --> 01:10:42,738
+Now the likely reason they
+come here is to feed,
+
+190
+01:10:42,837 --> 01:10:44,739
+but how are they hunting?
+
+191
+01:10:44,840 --> 01:10:47,509
+To find that out the team is
+attempting to tag a sixgill
+
+192
+01:10:47,609 --> 01:10:50,412
+from a sub.
+
+193
+01:10:53,948 --> 01:10:57,353
+The submersible team has
+fitted the tag deployment rig.
+
+194
+01:10:58,487 --> 01:11:00,855
+[Pilot] Set of lasers here,
+and that will give you an
+
+195
+01:11:00,956 --> 01:11:04,525
+approximate position
+within a few centimeters.
+
+196
+01:11:04,827 --> 01:11:06,628
+[Zolenka Filander] The
+whole team is feeling tons of
+
+197
+01:11:06,729 --> 01:11:08,997
+pressure, because there's
+so many things that could
+
+198
+01:11:09,097 --> 01:11:11,766
+go wrong, when doing
+this from a sub.
+
+199
+01:11:11,867 --> 01:11:14,403
+[Eric Stackpole] Everything's
+got to line up perfectly to
+
+200
+01:11:14,502 --> 01:11:17,305
+make sure we get this
+once in a lifetime shot.
+
+201
+01:11:17,805 --> 01:11:19,641
+[James Cameron] There's only
+been one previous attempt to
+
+202
+01:11:19,742 --> 01:11:23,811
+tag a sixgill from a sub, but
+the data was never recovered.
+
+203
+01:11:25,046 --> 01:11:26,047
+For this mission,
+
+204
+01:11:26,180 --> 01:11:29,752
+Pedro and Jorge have developed
+a hi-tech prototype.
+
+205
+01:11:30,618 --> 01:11:32,820
+[Pedro Afonso] These
+electronic tags allow us to go
+
+206
+01:11:32,921 --> 01:11:36,591
+much further into a window
+onto their behavior,
+
+207
+01:11:36,692 --> 01:11:41,063
+they combine very, very fine
+scale sensors that tell you
+
+208
+01:11:41,162 --> 01:11:44,399
+the movements of the animals.
+
+209
+01:11:44,699 --> 01:11:46,868
+[James Cameron] Succeeding
+in this mission, will mean
+
+210
+01:11:46,969 --> 01:11:50,072
+getting even
+closer to the sharks.
+
+211
+01:11:54,576 --> 01:11:58,579
+All the planning has come down
+to this dive, the pressure is on
+
+212
+01:11:58,680 --> 01:12:03,085
+for Melissa and sixgill
+researcher Jorge Fontes.
+
+213
+01:12:03,551 --> 01:12:05,087
+[Jorge Fones] We just need to
+find the right shark with the
+
+214
+01:12:05,186 --> 01:12:06,854
+right attitude.
+
+215
+01:12:06,954 --> 01:12:09,390
+That has to be confident and
+get in the right place at the
+
+216
+01:12:09,490 --> 01:12:12,728
+right time, so the
+tension builds up.
+
+217
+01:12:12,961 --> 01:12:14,930
+[James Cameron] The tagging
+system is carefully primed,
+
+218
+01:12:15,029 --> 01:12:16,664
+ready for firing.
+
+219
+01:12:16,765 --> 01:12:19,001
+[OceanX Crew]
+I think we're good.
+
+220
+01:12:19,667 --> 01:12:21,737
+[Eric Stackpole] Ok
+guys what do you think?
+
+221
+01:12:21,837 --> 01:12:23,372
+[OceanX Crew] <i>Yeah looks good.</i>
+
+222
+01:12:23,471 --> 01:12:24,439
+[Eric Stackpole] This is
+gonna be shark bait, this is
+
+223
+01:12:24,739 --> 01:12:27,341
+basically the way that we're
+gonna get the sixgills to come
+
+224
+01:12:27,443 --> 01:12:28,877
+towards the sub...
+
+225
+01:12:28,976 --> 01:12:32,581
+Oh god that's gross...
+I'm gonna smell for days.
+
+226
+01:12:32,715 --> 01:12:34,550
+[OceanX Crew] <i>All stations,</i>
+<i> all stations SO.</i>
+
+227
+01:12:34,649 --> 01:12:37,051
+<i> Launching Neptune.</i>
+
+228
+01:12:44,726 --> 01:12:46,795
+[James Cameron] The sub is
+diving in parallel with the ROV,
+
+229
+01:12:46,895 --> 01:12:50,798
+the Remotely Operated Vehicle,
+
+230
+01:12:51,466 --> 01:12:54,569
+which sends a live
+feed back to the control room,
+
+231
+01:12:54,670 --> 01:12:58,073
+where the rest of the
+team can watch and hope.
+
+232
+01:12:58,172 --> 01:13:01,377
+[Eric Stackpole]
+There it is, lower right.
+
+233
+01:13:01,676 --> 01:13:03,045
+[Zolenka Filander] Observing
+animals in the deep is
+
+234
+01:13:03,145 --> 01:13:06,381
+one thing, but trying
+to tag one at depth,
+
+235
+01:13:06,481 --> 01:13:09,851
+that's a different
+ball game altogether.
+
+236
+01:13:13,221 --> 01:13:15,757
+[James Cameron] As the sub
+descends to the sharks' hangout,
+
+237
+01:13:15,858 --> 01:13:19,528
+they encounter a
+shoal of boarfish.
+
+238
+01:13:25,734 --> 01:13:27,802
+[Melissa Márquez] Wow.
+
+239
+01:13:27,903 --> 01:13:30,572
+[Pilot] Woah, look at that.
+
+240
+01:13:32,039 --> 01:13:34,777
+[Melissa Márquez] It's a
+really dense aggregation,
+
+241
+01:13:34,877 --> 01:13:37,679
+the lights of the sub could be
+illuminating the plankton they
+
+242
+01:13:37,779 --> 01:13:40,681
+feed on and
+they've come in to eat.
+
+243
+01:13:41,082 --> 01:13:43,819
+[Jorge Fones] These guys
+are bait fish, everybody
+
+244
+01:13:43,918 --> 01:13:46,587
+eats these guys.
+
+245
+01:13:48,556 --> 01:13:50,525
+[Melissa Márquez] Have you
+ever seen so many fishies?
+
+246
+01:13:50,626 --> 01:13:53,595
+[Pilot] At very very few
+places, this is pretty wild.
+
+247
+01:13:56,698 --> 01:13:58,000
+[Eric Stackpole] These
+boarfish are everywhere.
+
+248
+01:13:58,100 --> 01:14:01,103
+[Zolenka Filander] Yeah.
+Feeding frenzy.
+
+249
+01:14:01,603 --> 01:14:04,972
+[Eric Stackpole] Is it just cos
+of the bait, it's got to be.
+
+250
+01:14:06,641 --> 01:14:09,811
+[Zolenka Filander]
+Could be the lights.
+
+251
+01:14:16,217 --> 01:14:18,520
+[Pilot] <i>Control, Neptune I have</i>
+<i>you loud and clear</i>
+
+252
+01:14:18,619 --> 01:14:20,788
+<i> on bottom 255 meters.</i>
+
+253
+01:14:20,889 --> 01:14:22,858
+[Control] <i>Copy Neptune.</i>
+
+254
+01:14:27,996 --> 01:14:30,599
+[Pilot] OK I'm
+gonna hand that to you.
+
+255
+01:14:31,699 --> 01:14:34,069
+[James Cameron] It's midnight
+and the sharks have completed
+
+256
+01:14:34,168 --> 01:14:36,704
+their journeys from the deep,
+
+257
+01:14:36,805 --> 01:14:39,073
+but will they come
+towards the sub?
+
+258
+01:14:40,876 --> 01:14:47,716
+[♪ mysterious music]
+
+259
+01:14:48,115 --> 01:14:50,853
+[Melissa Márquez]
+Come on big mamma.
+
+260
+01:14:56,925 --> 01:15:03,731
+[♪ mysterious music]
+
+261
+01:15:04,065 --> 01:15:07,970
+Hey, you guys we got a shark,
+yeah coming in coming in,
+
+262
+01:15:08,069 --> 01:15:10,072
+it's coming this way.
+
+263
+01:15:10,171 --> 01:15:10,972
+[Zolenka Filander] Wow.
+
+264
+01:15:11,105 --> 01:15:13,742
+[Eric Stackpole] OK
+well here we are.
+
+265
+01:15:16,310 --> 01:15:17,679
+[Melissa Márquez] I love how
+she's really just taking her
+
+266
+01:15:17,779 --> 01:15:20,983
+time just
+assessing the situation.
+
+267
+01:15:23,150 --> 01:15:26,020
+[Eric Stackpole] It doesn't seem
+super excited about the bait.
+
+268
+01:15:26,488 --> 01:15:28,789
+[Zolenka Filander] I
+wonder what's distracting it.
+
+269
+01:15:30,292 --> 01:15:33,628
+[Melissa Márquez] Come this way.
+
+270
+01:15:34,662 --> 01:15:37,131
+[Pedro Afonso] Come on.
+
+271
+01:15:40,034 --> 01:15:42,270
+[James Cameron] This adult
+female has detected a morsel
+
+272
+01:15:42,371 --> 01:15:47,109
+of fallen bait, and avoids
+going up to the sub to feed.
+
+273
+01:15:48,877 --> 01:15:51,947
+[Melissa Márquez] Oh
+you're kidding me.
+
+274
+01:15:54,917 --> 01:15:57,618
+You cheeky girl.
+
+275
+01:16:00,221 --> 01:16:03,190
+[Eric Stackpole] The sub team
+must be so frustrated right now.
+
+276
+01:16:03,292 --> 01:16:04,760
+[Zolenka Filander]
+I'm frustrated.
+
+277
+01:16:04,859 --> 01:16:06,261
+[laughs].
+
+278
+01:16:14,970 --> 01:16:17,905
+[Melissa Márquez] I have
+lost sight of her.
+
+279
+01:16:22,377 --> 01:16:24,746
+Oh big shark!
+
+280
+01:16:28,649 --> 01:16:29,818
+There's two.
+
+281
+01:16:29,917 --> 01:16:31,853
+[Eric Stackpole] Oh
+there's two of them now.
+
+282
+01:16:31,953 --> 01:16:34,855
+Oh my gosh.
+
+283
+01:16:34,957 --> 01:16:38,627
+[Jorge Fones] Well that might
+get them competing for the bait.
+
+284
+01:16:41,162 --> 01:16:42,997
+[James Cameron] Sixgills will
+congregate if there's food
+
+285
+01:16:43,097 --> 01:16:47,002
+around, and that can lead
+to aggressive behavior.
+
+286
+01:16:49,371 --> 01:16:51,206
+[Melissa Márquez] OK we've got
+that second one right there.
+
+287
+01:16:51,305 --> 01:16:52,373
+[Jorge Fones] OK.
+
+288
+01:16:52,474 --> 01:16:53,942
+[slam]
+
+289
+01:16:54,042 --> 01:16:55,777
+[Melissa Márquez] Woah,
+she just hit the sub.
+
+290
+01:16:55,877 --> 01:16:56,877
+[Pilot] It just hit the sub.
+
+291
+01:16:56,979 --> 01:16:58,046
+[Jorge Fones]
+He's under the sub.
+
+292
+01:16:58,145 --> 01:16:59,881
+[Melissa Márquez] Ohh it is mad.
+
+293
+01:16:59,981 --> 01:17:01,350
+[whistles].
+
+294
+01:17:01,449 --> 01:17:03,652
+[James Cameron] With a shark
+in direct competition, this
+
+295
+01:17:03,752 --> 01:17:07,622
+female has made it clear
+she is large and in charge.
+
+296
+01:17:10,725 --> 01:17:11,993
+[Pilot] You're not armed.
+
+297
+01:17:12,094 --> 01:17:14,061
+When you want to be
+armed you let me know.
+
+298
+01:17:14,162 --> 01:17:15,229
+[Jorge Fones]
+This is a good time.
+
+299
+01:17:15,329 --> 01:17:15,997
+It would be a good time now.
+
+300
+01:17:16,198 --> 01:17:17,698
+[Melissa Márquez]
+Come on come on.
+
+301
+01:17:17,798 --> 01:17:19,033
+[Pilot] Ok lasers are on.
+
+302
+01:17:19,134 --> 01:17:21,168
+[Jorge Fones] Number one right?
+
+303
+01:17:21,269 --> 01:17:23,805
+[Pilot] Alright, it's armed.
+
+304
+01:17:26,108 --> 01:17:28,377
+[Eric Stackpole] OK this
+could be it.
+
+305
+01:17:29,444 --> 01:17:32,680
+[Melissa Márquez] Alright
+it's heading this way.
+
+306
+01:17:34,282 --> 01:17:35,317
+[Jorge Fones] Slow.
+
+307
+01:17:35,516 --> 01:17:36,984
+[Eric Stackpole] He's gonna
+take it, he's gonna take it,
+
+308
+01:17:37,085 --> 01:17:38,286
+take the shot.
+
+309
+01:17:38,386 --> 01:17:39,820
+[click]
+
+310
+01:17:39,921 --> 01:17:42,890
+[Jorge Fones] Ah damn it.
+
+311
+01:17:42,990 --> 01:17:45,860
+[Eric Stackpole] Oh!
+
+312
+01:17:46,194 --> 01:17:48,329
+[Melissa Márquez] Huh,
+I can't believe it.
+
+313
+01:17:50,032 --> 01:17:53,734
+[James Cameron] Jorge overshot
+by a matter of inches.
+
+314
+01:17:54,368 --> 01:17:57,104
+[Melissa Márquez]
+We're not done!
+
+315
+01:17:57,204 --> 01:17:59,807
+[Pilot] We have one spare.
+
+316
+01:17:59,908 --> 01:18:02,144
+[James Cameron] If they
+can't get this tag on,
+
+317
+01:18:02,243 --> 01:18:05,180
+they will fail in their mission.
+
+318
+01:18:11,485 --> 01:18:14,256
+[Melissa Márquez]
+Oh there we go.
+
+319
+01:18:16,291 --> 01:18:18,225
+[James Cameron] Another sixgill,
+
+320
+01:18:19,060 --> 01:18:23,064
+this one is alone and
+she's focused on the bait.
+
+321
+01:18:23,198 --> 01:18:24,800
+[Jorge Fones]
+Smell that nice blood.
+
+322
+01:18:24,899 --> 01:18:30,738
+-Yeah there you go.
+-Yeah!
+
+323
+01:18:30,838 --> 01:18:31,972
+[James Cameron] The shark
+needs to follow the end of the
+
+324
+01:18:32,106 --> 01:18:37,445
+pole to the bait, and line up
+precisely in the laser beam.
+
+325
+01:18:38,145 --> 01:18:41,015
+[Jorge Fones]
+This is a big shark.
+
+326
+01:18:44,853 --> 01:18:47,322
+[Eric Stackpole]
+This is it, you got this.
+
+327
+01:18:49,925 --> 01:18:52,127
+[Pilot] Wait until
+you see the lasers.
+
+328
+01:18:52,226 --> 01:18:54,061
+[Eric Stackpole] This is it.
+
+329
+01:18:54,162 --> 01:18:56,497
+[Melissa Márquez] Right here
+come this way this way this way.
+
+330
+01:19:01,502 --> 01:19:03,171
+[click]
+
+331
+01:19:03,270 --> 01:19:05,106
+[Pilot] Nice one.
+
+332
+01:19:05,207 --> 01:19:06,774
+Camera tag away,
+camera tag away.
+
+333
+01:19:06,875 --> 01:19:09,877
+[Melissa Márquez] You did it!
+
+334
+01:19:09,978 --> 01:19:11,813
+[Eric Stackpole] They got it.
+It's tagged.
+
+335
+01:19:11,912 --> 01:19:13,981
+-Oh yeah.
+-Hey, hey.
+
+336
+01:19:14,082 --> 01:19:16,150
+[slap, laughing]
+
+337
+01:19:16,251 --> 01:19:17,452
+[Zolenka Filander] Wow.
+
+338
+01:19:18,119 --> 01:19:19,820
+[James Cameron]
+The tag is suspended
+
+339
+01:19:19,921 --> 01:19:22,023
+six feet above the shark,
+
+340
+01:19:22,289 --> 01:19:24,326
+they can now,
+for the first time,
+
+341
+01:19:24,426 --> 01:19:27,462
+follow its movements in
+detail through the deep.
+
+342
+01:19:29,831 --> 01:19:31,065
+[Eric Stackpole] Here, here's
+a shark coming right towards us
+
+343
+01:19:31,166 --> 01:19:32,234
+and I think that's the tag.
+
+344
+01:19:32,333 --> 01:19:34,435
+This is the one we were
+holding just moments ago...
+
+345
+01:19:34,536 --> 01:19:36,872
+this was in our
+lab up on the desk.
+
+346
+01:19:36,971 --> 01:19:38,340
+[Pedro Afonso]
+That's really cool.
+
+347
+01:19:38,439 --> 01:19:40,141
+[Eric Stackpole] I'm really
+excited, we've successfully
+
+348
+01:19:40,242 --> 01:19:41,510
+tagged a shark,
+
+349
+01:19:41,609 --> 01:19:44,779
+and if all the electronics
+are working properly,
+
+350
+01:19:44,880 --> 01:19:46,914
+and the software's working
+properly, we're recording data
+
+351
+01:19:47,015 --> 01:19:50,417
+that basically no one
+has ever had before.
+
+352
+01:19:52,287 --> 01:19:55,457
+[James Cameron] But the
+shark is in no rush to leave.
+
+353
+01:19:57,259 --> 01:19:59,027
+[Pilot] You're
+back for more huh?
+
+354
+01:19:59,127 --> 01:20:01,563
+[Melissa Márquez] You can,
+you can have some fish yes.
+
+355
+01:20:04,332 --> 01:20:07,301
+[Zolenka Filander] Look at
+her eye, look at it roll back.
+
+356
+01:20:07,668 --> 01:20:11,305
+Sixgill sharks don't have that
+nictitating membrane so they
+
+357
+01:20:11,405 --> 01:20:14,943
+need a way to somewhat protect
+their eye, just in case the
+
+358
+01:20:15,042 --> 01:20:17,979
+prey fights back.
+
+359
+01:20:20,948 --> 01:20:23,484
+[James Cameron] The tag
+won't hurt the shark...
+
+360
+01:20:23,585 --> 01:20:26,488
+its sensors record speed,
+depth and movement,
+
+361
+01:20:26,587 --> 01:20:28,823
+for the next 12 hours,
+
+362
+01:20:28,923 --> 01:20:31,960
+then it detaches and
+floats to the surface.
+
+363
+01:20:36,965 --> 01:20:39,333
+But if the team
+can't recover it,
+
+364
+01:20:39,434 --> 01:20:42,570
+they won't find out how
+the sixgills are hunting.
+
+365
+01:20:46,474 --> 01:20:49,211
+[seagulls cawing]
+
+366
+01:20:53,480 --> 01:20:55,350
+[James Cameron] The next day,
+the tag has surfaced and
+
+367
+01:20:55,449 --> 01:20:58,854
+pinged a satellite
+with its GPS coordinates.
+
+368
+01:20:59,621 --> 01:21:02,524
+[Aldo Kane] So I'm going out
+to collect the tag, if I can't
+
+369
+01:21:02,623 --> 01:21:05,426
+get the tag, then all that
+data will be lost,
+
+370
+01:21:05,527 --> 01:21:09,463
+and that means all the hard
+work of tagging the shark
+
+371
+01:21:09,564 --> 01:21:13,134
+will be in vain.
+
+372
+01:21:16,971 --> 01:21:18,539
+[James Cameron] The precious
+tag is being swept dangerously
+
+373
+01:21:18,640 --> 01:21:21,909
+close to the cliffs.
+
+374
+01:21:22,277 --> 01:21:23,411
+[Pedro Afonso] Guys.
+
+375
+01:21:23,511 --> 01:21:26,314
+Keep your eyes
+on the water now.
+
+376
+01:21:28,315 --> 01:21:31,386
+[Aldo Kane] Tag, tag.
+
+377
+01:21:32,220 --> 01:21:34,890
+[Driver] OK Aldo I'll get on
+the starboard side of it so
+
+378
+01:21:34,989 --> 01:21:36,224
+you grab it on portside.
+
+379
+01:21:36,323 --> 01:21:38,460
+[Aldo Kane] Yeah.
+Do you see it?
+
+380
+01:21:38,560 --> 01:21:41,162
+[Driver] Yeah seen.
+
+381
+01:21:41,262 --> 01:21:43,564
+[Jorge Fones] Oh man
+this is close huh?
+
+382
+01:21:43,664 --> 01:21:45,667
+[James Cameron] Aldo has one
+chance to pluck the tag
+
+383
+01:21:45,766 --> 01:21:47,903
+from the swell.
+
+384
+01:21:52,407 --> 01:21:54,609
+[Jorge Fones] Alright. Alright.
+
+385
+01:21:54,708 --> 01:21:56,211
+[Aldo Kane] There we go.
+
+386
+01:21:56,310 --> 01:21:57,412
+[Jorge Fones] Good job, man.
+
+387
+01:21:57,511 --> 01:21:59,346
+[Aldo Kane] Good job.
+
+388
+01:21:59,480 --> 01:22:01,649
+[James Cameron] The tag has
+been successfully retrieved,
+
+389
+01:22:01,750 --> 01:22:04,519
+but what's it
+going to show us?
+
+390
+01:22:12,594 --> 01:22:15,396
+The information from the
+sixgill tag has been processed
+
+391
+01:22:15,497 --> 01:22:19,167
+and the results are
+ready to be revealed.
+
+392
+01:22:19,701 --> 01:22:20,702
+[Melissa Márquez] What
+have you got for us?
+
+393
+01:22:20,868 --> 01:22:21,903
+[Eric Stackpole] I have
+got some of the best footage
+
+394
+01:22:22,002 --> 01:22:25,939
+captured from our many
+hours of shark exploration.
+
+395
+01:22:26,041 --> 01:22:29,243
+Shall we hit it maestro,
+ok here we go.
+
+396
+01:22:29,344 --> 01:22:32,146
+So this obviously is
+the light from the sub
+
+397
+01:22:32,247 --> 01:22:34,082
+as seen from the shark.
+
+398
+01:22:34,181 --> 01:22:36,518
+[Melissa Márquez]
+That's the sea floor.
+
+399
+01:22:37,585 --> 01:22:39,287
+[Eric Stackpole] And I noticed
+in some other parts of the
+
+400
+01:22:39,386 --> 01:22:41,189
+footage, you can actually see
+the fish scattering...
+
+401
+01:22:41,288 --> 01:22:42,056
+[Melissa Márquez] Yeah.
+
+402
+01:22:42,256 --> 01:22:44,626
+[Eric Stackpole] As
+the shark moved through.
+
+403
+01:22:44,725 --> 01:22:46,394
+This is kind of how the
+shark sees it, you know so
+
+404
+01:22:46,493 --> 01:22:49,631
+you almost get, you get in
+the mind of the shark.
+
+405
+01:22:49,730 --> 01:22:51,032
+There's Jorge.
+
+406
+01:22:51,131 --> 01:22:52,233
+[laughs].
+
+407
+01:22:52,399 --> 01:22:54,368
+[Melissa Márquez] I've taken
+so many pictures of sharks in
+
+408
+01:22:54,469 --> 01:22:57,572
+my studies, now a
+shark's taking my picture!
+
+409
+01:22:58,672 --> 01:23:01,710
+[Eric Stackpole] Now it's
+chomping down on the bait.
+
+410
+01:23:01,909 --> 01:23:03,979
+[Jorge Fones] The motion
+sensors on the tag will detect
+
+411
+01:23:04,078 --> 01:23:07,148
+when the shark is eating,
+even if you don't have video.
+
+412
+01:23:07,247 --> 01:23:08,350
+[Eric Stackpole] Oh right
+because it's bobbing
+
+413
+01:23:08,449 --> 01:23:10,452
+up and down.
+
+414
+01:23:10,551 --> 01:23:12,287
+[James Cameron] But can the
+other sensors reveal how the
+
+415
+01:23:12,386 --> 01:23:14,622
+shark may be hunting here?
+
+416
+01:23:14,722 --> 01:23:17,759
+[Jorge Fones] Here on the
+top line, will be depth.
+
+417
+01:23:17,859 --> 01:23:19,426
+So we can see that from here
+
+418
+01:23:19,527 --> 01:23:21,296
+he was going away from
+the sub for periods,
+
+419
+01:23:21,395 --> 01:23:22,997
+because he's going deeper and
+then he's coming back up,
+
+420
+01:23:23,097 --> 01:23:24,498
+then he's going deeper,
+he's coming back up.
+
+421
+01:23:24,599 --> 01:23:26,634
+So, he's roaming,
+he's exploring.
+
+422
+01:23:26,734 --> 01:23:30,070
+Then you can see as we go over,
+that this is a big climb.
+
+423
+01:23:30,171 --> 01:23:30,939
+[Melissa Márquez] Yep.
+
+424
+01:23:31,439 --> 01:23:33,341
+[Jorge Fones] You know it's
+climbed up to 200 meters, then
+
+425
+01:23:33,440 --> 01:23:36,243
+it goes back down again, and
+then the nice thing is towards
+
+426
+01:23:36,344 --> 01:23:39,113
+the end of the deployment it
+just starts going down and
+
+427
+01:23:39,213 --> 01:23:40,247
+this is when...
+sun is about to rise.
+
+428
+01:23:40,347 --> 01:23:41,416
+[Melissa Márquez] Sunrises.
+
+429
+01:23:41,582 --> 01:23:42,649
+[Eric Stackpole] So as the
+sun's coming up the last thing
+
+430
+01:23:42,817 --> 01:23:45,720
+we see this shark doing is going
+down deeper into the abyss.
+
+431
+01:23:45,819 --> 01:23:46,688
+[Jorge Fones] Straight down.
+
+432
+01:23:46,954 --> 01:23:50,225
+Here you have speed, so you
+can see speed changed
+
+433
+01:23:50,324 --> 01:23:52,193
+you know, varied a little bit.
+
+434
+01:23:52,292 --> 01:23:54,729
+[Eric Stackpole] Do you see a
+few places like here and here
+
+435
+01:23:54,828 --> 01:23:56,597
+where the speed increases
+rapidly for a moment.
+
+436
+01:23:56,698 --> 01:23:58,233
+What do you think
+happened there?
+
+437
+01:23:58,332 --> 01:23:59,434
+[Melissa Márquez]
+Could it be predation?
+
+438
+01:23:59,533 --> 01:24:00,368
+[Jorge Fones] Could be.
+
+439
+01:24:00,769 --> 01:24:01,368
+[Eric Stackpole] And you know
+it's interesting that it's
+
+440
+01:24:01,903 --> 01:24:03,637
+coming up because I know
+a lot of these predators,
+
+441
+01:24:03,738 --> 01:24:05,372
+they look for silhouettes.
+
+442
+01:24:05,472 --> 01:24:07,074
+I mean I guess there's no
+light at this point I thought
+
+443
+01:24:07,175 --> 01:24:07,975
+maybe it could...
+
+444
+01:24:08,475 --> 01:24:10,211
+[Jorge Fones] Maybe enough for
+them, you know, just moonlight
+
+445
+01:24:10,310 --> 01:24:12,413
+is enough for them to
+see a silhouette...
+
+446
+01:24:12,514 --> 01:24:13,247
+[Eric Stackpole] Wow.
+
+447
+01:24:13,680 --> 01:24:14,481
+[Jorge Fones] Because they
+have very sensitive eyes.
+
+448
+01:24:14,882 --> 01:24:15,417
+[Eric Stackpole] So, so it
+could have come from below,
+
+449
+01:24:16,150 --> 01:24:18,819
+seen its prey come up, eaten
+it, that's what this spike is
+
+450
+01:24:18,920 --> 01:24:20,454
+then it's gone back
+down or something.
+
+451
+01:24:20,555 --> 01:24:22,457
+[Jorge Fones] It could be.
+
+452
+01:24:22,556 --> 01:24:24,792
+[James Cameron] The shark's
+upward movements are intriguing
+
+453
+01:24:24,893 --> 01:24:28,095
+and may be helped
+by its huge oil filled liver,
+
+454
+01:24:28,195 --> 01:24:30,731
+that accounts for over
+20% of its body mass
+
+455
+01:24:30,832 --> 01:24:33,068
+and makes it buoyant.
+
+456
+01:24:33,167 --> 01:24:37,471
+This buoyancy could be
+behind its hunting strategy.
+
+457
+01:24:37,939 --> 01:24:38,907
+[Melissa Márquez] Some
+scientists suggest that
+
+458
+01:24:39,207 --> 01:24:41,775
+sixgills are ambush predators
+gliding up to capture their
+
+459
+01:24:41,876 --> 01:24:43,845
+prey, they just
+hit 'em from below.
+
+460
+01:24:43,944 --> 01:24:45,814
+[Eric Stackpole] Yeah I mean
+we know from their gut content
+
+461
+01:24:45,913 --> 01:24:47,515
+that they're
+mostly eating things
+
+462
+01:24:47,614 --> 01:24:48,682
+that are way faster
+than they are.
+
+463
+01:24:48,783 --> 01:24:49,417
+[Jorge Fones] Yeah.
+
+464
+01:24:50,018 --> 01:24:50,318
+[Eric Stackpole] So stealth
+gliding to sneak up on their
+
+465
+01:24:50,685 --> 01:24:52,654
+prey makes a lot of sense.
+
+466
+01:24:52,753 --> 01:24:54,689
+[James Cameron] The tag
+results suggest an interesting
+
+467
+01:24:54,788 --> 01:24:57,492
+hypothesis on how the
+shark may be hunting,
+
+468
+01:24:57,591 --> 01:24:59,527
+but our guys
+need more information.
+
+469
+01:24:59,627 --> 01:25:03,497
+Can they capture footage of a
+sixgill actually predating?
+
+470
+01:25:04,099 --> 01:25:06,600
+To give themselves the best
+chance, they have to time
+
+471
+01:25:06,701 --> 01:25:09,837
+their dive perfectly to
+when there's maximum prey.
+
+472
+01:25:10,838 --> 01:25:14,708
+We know that at night many
+creatures come up to feed.
+
+473
+01:25:15,009 --> 01:25:19,747
+A mass vertical migration occurs
+in all the world's oceans,
+
+474
+01:25:20,347 --> 01:25:22,684
+triggered by the
+rise of plankton,
+
+475
+01:25:22,783 --> 01:25:26,154
+fish, jellies and
+squid travel through
+
+476
+01:25:26,253 --> 01:25:28,389
+the ocean's twilight zone,
+
+477
+01:25:28,489 --> 01:25:31,493
+and following them,
+larger creatures.
+
+478
+01:25:39,501 --> 01:25:42,703
+If they can hit the peak
+of this vertical migration,
+
+479
+01:25:42,804 --> 01:25:45,439
+Melissa and Pedro may have
+a chance of recording
+
+480
+01:25:45,539 --> 01:25:48,510
+a sixgill on the hunt.
+
+481
+01:25:48,676 --> 01:25:51,279
+[Pedro Afonso] Keep that
+biologist's sharp eye on
+
+482
+01:25:51,378 --> 01:25:52,514
+the camera, yeah?
+
+483
+01:25:52,613 --> 01:25:53,280
+[Melissa Márquez] No pressure.
+
+484
+01:25:53,881 --> 01:25:55,582
+[James Cameron] Aldo's also
+preparing a dive, but his will
+
+485
+01:25:55,682 --> 01:25:57,918
+be in the shallows, to
+understand the scale of the
+
+486
+01:25:58,019 --> 01:26:02,323
+vertical migration in
+the Azores.
+
+487
+01:26:03,557 --> 01:26:05,859
+As a former special ops
+Royal Marine,
+
+488
+01:26:05,960 --> 01:26:07,862
+Aldo is the only
+member of the team
+
+489
+01:26:07,962 --> 01:26:10,698
+with the experience to
+lead this night dive.
+
+490
+01:26:10,899 --> 01:26:12,900
+[Aldo Kane] When you have moving
+boats and diving operations
+
+491
+01:26:13,001 --> 01:26:15,936
+and then you add into the
+mix nighttime operations
+
+492
+01:26:16,037 --> 01:26:19,908
+you can quickly and
+easily lose control of things.
+
+493
+01:26:20,341 --> 01:26:22,644
+[James Cameron] It's 11:30pm,
+
+494
+01:26:22,743 --> 01:26:25,180
+only if they've timed
+their dive perfectly,
+
+495
+01:26:25,279 --> 01:26:28,649
+will they fully experience
+the vertical migration.
+
+496
+01:26:31,319 --> 01:26:37,292
+[OceanX Crew] OK guys are
+you ready, so 3, 2, 1 go.
+
+497
+01:26:38,359 --> 01:26:40,929
+[splashing]
+
+498
+01:26:45,766 --> 01:26:48,336
+[James Cameron] Guided in the
+darkness by his dive computer,
+
+499
+01:26:48,435 --> 01:26:51,439
+Aldo descends 60 feet.
+
+500
+01:26:53,006 --> 01:26:54,742
+Immediately he's engulfed by
+
+501
+01:26:54,841 --> 01:26:57,311
+the smallest creatures
+in the ocean,
+
+502
+01:26:57,412 --> 01:27:00,614
+the plankton, that underlie
+the entire food chain.
+
+503
+01:27:05,953 --> 01:27:07,555
+[Aldo Kane] <i>This is the</i>
+<i> vertical migration that</i>
+
+504
+01:27:07,654 --> 01:27:10,257
+<i> we're talking about,</i>
+
+505
+01:27:10,358 --> 01:27:12,560
+<i> all of these fish coming in</i>
+<i> to feed on the plankton</i>
+
+506
+01:27:12,659 --> 01:27:15,863
+<i> which has made its way</i>
+<i> up to the surface.</i>
+
+507
+01:27:18,498 --> 01:27:21,903
+<i> It's amazing, look at all the</i>
+<i> fish coming in below us now.</i>
+
+508
+01:27:23,904 --> 01:27:25,573
+[James Cameron] Tonight,
+the rise of the plankton is
+
+509
+01:27:25,672 --> 01:27:28,342
+followed by something else...
+
+510
+01:27:29,010 --> 01:27:31,912
+purple stinger jellyfish.
+
+511
+01:27:32,012 --> 01:27:33,914
+[Aldo Kane] <i>It's amazing</i>
+<i> seeing them all migrating</i>
+
+512
+01:27:34,015 --> 01:27:36,618
+<i> up to the surface.</i>
+
+513
+01:27:37,318 --> 01:27:39,686
+[James Cameron] What appears
+to be a few at first,
+
+514
+01:27:39,787 --> 01:27:42,756
+grows into a mass bloom.
+
+515
+01:27:51,698 --> 01:27:55,336
+[Aldo Kane] <i>I've never</i>
+<i> seen anything like this.</i>
+
+516
+01:27:55,770 --> 01:27:59,907
+<i> This is literally thousands</i>
+<i> and thousands of jellies.</i>
+
+517
+01:28:03,645 --> 01:28:07,981
+<i> It's one of the strangest</i>
+<i> things I've ever seen,</i>
+
+518
+01:28:08,082 --> 01:28:12,987
+<i>they're just stunningly</i>
+<i>beautiful, ha-ha in its own way.</i>
+
+519
+01:28:17,958 --> 01:28:20,795
+[James Cameron] The vertical
+migration is at its peak.
+
+520
+01:28:23,730 --> 01:28:26,868
+The deeper waters are now
+rich with shoals of fish,
+
+521
+01:28:27,935 --> 01:28:31,405
+and the ledge where the sharks
+make their nightly visits,
+
+522
+01:28:31,506 --> 01:28:34,309
+is a hive of activity.
+
+523
+01:28:35,643 --> 01:28:38,313
+It's dinner time.
+
+524
+01:28:38,912 --> 01:28:41,548
+[Pedro Afonso]
+It's an Angler fish.
+
+525
+01:28:42,949 --> 01:28:44,752
+See that's the lure, look.
+
+526
+01:28:44,851 --> 01:28:45,619
+[Melissa Márquez] Oh yeah.
+
+527
+01:28:45,819 --> 01:28:46,587
+[Pedro Afonso] He's
+lifting the lure right.
+
+528
+01:28:46,720 --> 01:28:48,488
+[Melissa Márquez]
+Yeah, yeah, yeah.
+
+529
+01:28:48,588 --> 01:28:49,457
+[Pedro Afonso] See
+he's waving the lure.
+
+530
+01:28:49,556 --> 01:28:50,257
+[Melissa Márquez] Yeah.
+
+531
+01:28:50,824 --> 01:28:52,960
+[Pedro Afonso] That's what he
+uses to attract the prey, then.
+
+532
+01:28:57,465 --> 01:29:00,467
+A bunch of rays around.
+
+533
+01:29:03,604 --> 01:29:05,840
+[Melissa Márquez]
+That's so cool.
+
+534
+01:29:07,774 --> 01:29:10,811
+We just saw a predation.
+
+535
+01:29:11,412 --> 01:29:13,547
+[James Cameron] Conger eels
+rely on the vertical migration
+
+536
+01:29:13,648 --> 01:29:15,783
+for food.
+
+537
+01:29:16,650 --> 01:29:19,720
+[Pedro Afonso] They're in
+feeding mode, that's for sure.
+
+538
+01:29:19,820 --> 01:29:22,122
+[Melissa Márquez] Yeah.
+
+539
+01:29:22,489 --> 01:29:26,394
+Actually, being down in the
+sub and putting faces to the
+
+540
+01:29:26,493 --> 01:29:29,863
+animals that make up this
+migration, you've got fish
+
+541
+01:29:29,963 --> 01:29:33,067
+eating smaller fish, you've
+got the skates and the rays
+
+542
+01:29:33,167 --> 01:29:35,470
+burying themselves and
+eating their own fish.
+
+543
+01:29:35,569 --> 01:29:38,872
+This happens on a massive
+scale, every single night in
+
+544
+01:29:38,972 --> 01:29:41,743
+our ocean and the fact that
+I got to kind of sit in the
+
+545
+01:29:41,842 --> 01:29:45,380
+middle of it and observe
+it all is mind-blowing.
+
+546
+01:29:48,949 --> 01:29:50,984
+[James Cameron] These large
+creatures are perfect prey for
+
+547
+01:29:51,085 --> 01:29:55,823
+sixgills, but can the team film
+the sharks actually hunting?
+
+548
+01:30:00,228 --> 01:30:05,500
+[♪ mysterious music]
+
+549
+01:30:05,600 --> 01:30:06,768
+This female has completed
+
+550
+01:30:06,868 --> 01:30:09,470
+her three hour journey
+up from the depths.
+
+551
+01:30:16,077 --> 01:30:17,145
+[Melissa Márquez] There we go,
+
+552
+01:30:17,244 --> 01:30:18,578
+now it's coming a
+little bit closer.
+
+553
+01:30:18,679 --> 01:30:20,981
+Yeah cos I got her on camera.
+
+554
+01:30:21,082 --> 01:30:23,784
+[Pedro Afonso] Yeah she is.
+
+555
+01:30:24,752 --> 01:30:28,155
+[James Cameron] She's
+staying close to the seafloor.
+
+556
+01:30:33,761 --> 01:30:38,698
+[♪ mysterious music]
+
+557
+01:30:38,800 --> 01:30:42,435
+[Pilot] Something's
+got her interest.
+
+558
+01:30:43,171 --> 01:30:45,972
+[James Cameron] A conger eel.
+
+559
+01:30:56,783 --> 01:31:02,957
+[♪ mysterious music]
+
+560
+01:31:04,792 --> 01:31:07,862
+The conger eel escapes,
+
+561
+01:31:09,063 --> 01:31:11,131
+but this sixgill is on the prowl
+
+562
+01:31:11,231 --> 01:31:15,168
+and she's not the only one
+interested in the seabed.
+
+563
+01:31:15,435 --> 01:31:16,636
+[Melissa Márquez]
+Oop, there we go.
+
+564
+01:31:16,737 --> 01:31:19,039
+[Pilot] Yeah, yeah.
+
+565
+01:31:23,010 --> 01:31:25,645
+[Melissa Márquez] She's
+really low to the ground.
+
+566
+01:31:26,847 --> 01:31:29,182
+[James Cameron] Like all sharks,
+sixgills have highly sensitive
+
+567
+01:31:29,283 --> 01:31:32,019
+electrical sensors
+around the nose,
+
+568
+01:31:32,118 --> 01:31:36,556
+which can detect the smallest
+muscle twitch of its prey.
+
+569
+01:31:40,862 --> 01:31:44,532
+She may be seeking rays
+hiding out under the sand.
+
+570
+01:31:53,341 --> 01:31:57,078
+Suddenly she makes a move.
+
+571
+01:31:57,545 --> 01:32:00,914
+She thrusts with her tail,
+to get on top of the prey.
+
+572
+01:32:07,721 --> 01:32:10,591
+[Melissa Márquez] Do you
+see anything in its mouth?
+
+573
+01:32:10,757 --> 01:32:12,225
+[James Cameron] Capturing
+this behavior on camera
+
+574
+01:32:12,326 --> 01:32:14,929
+is incredibly special
+
+575
+01:32:15,029 --> 01:32:16,863
+and will help the
+team understand how
+
+576
+01:32:16,963 --> 01:32:19,766
+this top predator hunts.
+
+577
+01:32:23,770 --> 01:32:28,909
+[Pedro Afonso] Oh man
+that is quite something.
+
+578
+01:32:30,978 --> 01:32:32,846
+See why we want to
+study these guys?
+
+579
+01:32:32,947 --> 01:32:34,614
+[Melissa Márquez]
+Yeah of course.
+
+580
+01:32:34,715 --> 01:32:38,819
+As a scientist you always hope
+you get to experience the
+
+581
+01:32:38,920 --> 01:32:41,055
+rare and extraordinary,
+
+582
+01:32:41,154 --> 01:32:44,057
+it doesn't get much
+rarer than this.
+
+583
+01:32:46,726 --> 01:32:49,029
+[Aldo Kane] That footage is
+incredible, has that been
+
+584
+01:32:49,130 --> 01:32:50,163
+filmed before?
+
+585
+01:32:50,430 --> 01:32:52,233
+[Melissa Márquez] No we don't
+think so, which makes it even
+
+586
+01:32:52,332 --> 01:32:55,770
+more exciting, because it's
+probably a first for science
+
+587
+01:32:55,869 --> 01:32:59,273
+and you know you don't
+really get that that often.
+
+588
+01:32:59,372 --> 01:33:01,609
+You know the data from the tag
+was telling us one thing,
+
+589
+01:33:01,708 --> 01:33:03,877
+but our own eyes are
+telling us something
+
+590
+01:33:03,978 --> 01:33:04,945
+completely different.
+
+591
+01:33:05,279 --> 01:33:06,380
+[Eric Stackpole] Right on the
+tag data I assumed it was like
+
+592
+01:33:06,546 --> 01:33:09,015
+an ambush predator where it
+sees maybe like the silhouette
+
+593
+01:33:09,115 --> 01:33:11,018
+from below, it
+snatches its prey.
+
+594
+01:33:11,118 --> 01:33:12,219
+[Melissa Márquez] But that's
+not what we saw here,
+
+595
+01:33:12,420 --> 01:33:16,690
+it's using its positive buoyancy
+to actually lift up its rear end
+
+596
+01:33:16,791 --> 01:33:19,225
+so its nose eventually
+actually points down in to the
+
+597
+01:33:19,327 --> 01:33:23,797
+sand once it finds prey and
+with that really powerful tail
+
+598
+01:33:23,898 --> 01:33:26,199
+grind down into the sand.
+
+599
+01:33:26,300 --> 01:33:29,036
+[Aldo Kane] So it's using its
+positive buoyancy to,
+
+600
+01:33:29,136 --> 01:33:33,608
+to glide up the gradient and
+then pin whatever it is,
+
+601
+01:33:33,707 --> 01:33:35,743
+the ray, down in to the sea bed.
+
+602
+01:33:35,842 --> 01:33:37,645
+[Melissa Márquez] That's it
+and that's not to negate the
+
+603
+01:33:37,744 --> 01:33:40,247
+theory that we got from the
+tag it just means they might
+
+604
+01:33:40,347 --> 01:33:43,117
+be using different hunting
+tactics for different prey.
+
+605
+01:33:43,216 --> 01:33:48,088
+It's mind blowing to see a
+brand new to science data point
+
+606
+01:33:48,189 --> 01:33:50,157
+that we didn't have
+for these animals before.
+
+607
+01:33:50,256 --> 01:33:51,759
+[Eric Stackpole] I'd call this
+a pretty successful mission.
+
+608
+01:33:51,859 --> 01:33:55,328
+[Melissa Márquez]
+Oh 100%! 100%.
+
+609
+01:33:56,396 --> 01:33:58,899
+[James Cameron] In their
+time here, the team has gained
+
+610
+01:33:59,000 --> 01:34:02,703
+important new insights into the
+lives of the sixgill sharks.
+
+611
+01:34:06,039 --> 01:34:09,710
+They've observed how they're
+perfectly adapted to the abyss.
+
+612
+01:34:09,877 --> 01:34:11,045
+[Melissa Márquez] It's so
+interesting seeing them be
+
+613
+01:34:11,145 --> 01:34:13,279
+so sluggish.
+
+614
+01:34:13,581 --> 01:34:16,417
+[James Cameron] Discovered
+their different personalities.
+
+615
+01:34:16,516 --> 01:34:19,119
+[Melissa Márquez]
+You cheeky girl.
+
+616
+01:34:19,220 --> 01:34:20,921
+[James Cameron] And confirmed
+that a large population of
+
+617
+01:34:21,021 --> 01:34:23,123
+females live here.
+
+618
+01:34:23,224 --> 01:34:24,859
+[Melissa Márquez] Only a
+handful of people have been
+
+619
+01:34:24,958 --> 01:34:28,962
+able to see these sharks
+from a sub, at depth,
+
+620
+01:34:29,063 --> 01:34:32,766
+with their own eyes, I feel
+really lucky to be one of them.
+
+621
+01:34:32,867 --> 01:34:34,769
+[Eric Stackpole]
+There it is, lower right.
+
+622
+01:34:34,868 --> 01:34:36,337
+[James Cameron] By
+successfully tagging a sixgill
+
+623
+01:34:36,436 --> 01:34:37,904
+from a sub...
+
+624
+01:34:38,005 --> 01:34:39,840
+-You did it!
+-Oh yeah.
+
+625
+01:34:39,939 --> 01:34:41,207
+[James Cameron] They've
+gained a whole new set
+
+626
+01:34:41,307 --> 01:34:43,077
+of scientific data.
+
+627
+01:34:43,176 --> 01:34:44,011
+[Eric Stackpole]
+This is awesome guys.
+
+628
+01:34:44,444 --> 01:34:46,980
+What we've done has paved the
+way for sixgill research and
+
+629
+01:34:47,081 --> 01:34:49,817
+it has been awesome to be
+a part of this mission.
+
+630
+01:34:50,283 --> 01:34:51,952
+[James Cameron] They've
+explored these rich waters of
+
+631
+01:34:52,052 --> 01:34:53,921
+the Azores at night.
+
+632
+01:34:54,020 --> 01:34:57,158
+[Aldo Kane] It's one of the
+strangest things I've ever seen.
+
+633
+01:34:57,858 --> 01:35:00,728
+Being in the middle of
+that vertical migration
+
+634
+01:35:00,828 --> 01:35:03,797
+was just unbelievable.
+
+635
+01:35:04,097 --> 01:35:05,865
+[James Cameron] The
+greatest achievement,
+
+636
+01:35:05,966 --> 01:35:09,869
+has been capturing the
+sixgill's predation behavior.
+
+637
+01:35:11,471 --> 01:35:14,240
+[Zolenka Filander] We know so
+little about the residents of
+
+638
+01:35:14,341 --> 01:35:17,978
+the deep, but today we have
+gained some valuable insights
+
+639
+01:35:18,078 --> 01:35:22,015
+on how these prehistoric
+animals have survived.
+
+640
+01:35:24,918 --> 01:35:26,487
+[James Cameron] Some of the
+sixgill's secrets have been
+
+641
+01:35:26,587 --> 01:35:30,757
+uncovered, but there's still
+so much more to learn
+
+642
+01:35:30,858 --> 01:35:34,161
+about these mysterious
+sharks of the abyss.
+
