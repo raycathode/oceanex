@@ -1,2432 +1,2432 @@
 1
-00:00:05,168 --> 00:00:07,103
+00:00:02,168 --> 00:00:04,103
 [James Cameron] The Ocean....
 
 2
-00:00:07,202 --> 00:00:09,172
+00:00:04,202 --> 00:00:06,172
 the last frontier on earth.
 
 3
-00:00:09,438 --> 00:00:13,076
+00:00:06,438 --> 00:00:10,076
 So much is unexplored
 and unexplained.
 
 4
-00:00:13,543 --> 00:00:15,110
+00:00:10,543 --> 00:00:12,110
 To change that...
 
 5
-00:00:15,210 --> 00:00:18,246
+00:00:12,210 --> 00:00:15,246
 a kickass team of insanely
 talented specialists is
 
 6
-00:00:18,347 --> 00:00:21,016
+00:00:15,347 --> 00:00:18,016
 setting out to push the
 frontiers of what we know
 
 7
-00:00:21,117 --> 00:00:23,786
+00:00:18,117 --> 00:00:20,786
 about our oceans.
 
 8
-00:00:24,987 --> 00:00:26,222
+00:00:21,987 --> 00:00:23,222
 [Zoleka Filander] Oh my gosh.
 
 9
-00:00:26,322 --> 00:00:29,692
+00:00:23,322 --> 00:00:26,692
 [James Cameron] Zoleka Filander,
 deep sea scientist.
 
 10
-00:00:29,826 --> 00:00:31,693
+00:00:26,826 --> 00:00:28,693
 [Zoleka Filander] Being a
 deep-sea researcher means
 
 11
-00:00:31,793 --> 00:00:35,398
+00:00:28,793 --> 00:00:32,398
 having front row tickets to
 the best movie that everybody
 
 12
-00:00:35,498 --> 00:00:37,099
+00:00:32,498 --> 00:00:34,099
 wants to watch.
 
 13
-00:00:37,199 --> 00:00:38,400
+00:00:34,199 --> 00:00:35,400
 [James Cameron]
 Melissa Márquez...
 
 14
-00:00:38,501 --> 00:00:39,936
+00:00:35,501 --> 00:00:36,936
 [Melissa Márquez]
 Straight ahead, 12:00.
 
 15
-00:00:40,036 --> 00:00:41,070
+00:00:37,036 --> 00:00:38,070
 [James Cameron]
 Shark biologist.
 
 16
-00:00:41,304 --> 00:00:44,239
+00:00:38,304 --> 00:00:41,239
 [Melissa Márquez] We just saw
 what no one has seen before.
 
 17
-00:00:44,340 --> 00:00:46,208
+00:00:41,340 --> 00:00:43,208
 [James Cameron]
 Eric Stackpole...
 
 18
-00:00:46,309 --> 00:00:47,143
+00:00:43,309 --> 00:00:44,143
 [Eric Stackpole] Scan now!
 
 19
-00:00:47,242 --> 00:00:48,177
+00:00:44,242 --> 00:00:45,177
 [James Cameron] Ocean
 tech innovator.
 
 20
-00:00:48,411 --> 00:00:50,646
+00:00:45,411 --> 00:00:47,646
 [Eric Stackpole] I love
 building tools that allow us
 
 21
-00:00:50,746 --> 00:00:53,148
+00:00:47,746 --> 00:00:50,148
 to see things in ways
 we've never seen before.
 
 22
-00:00:53,248 --> 00:00:54,384
+00:00:50,248 --> 00:00:51,384
 [gasps]
 
 23
-00:00:54,483 --> 00:00:56,018
+00:00:51,483 --> 00:00:53,018
 [James Cameron] And Aldo Kane...
 
 24
-00:00:56,686 --> 00:00:58,320
+00:00:53,686 --> 00:00:55,320
 [Aldo Kane] <i>This is insane.</i>
 
 25
-00:00:58,420 --> 00:01:00,757
+00:00:55,420 --> 00:00:57,757
 [James Cameron] Former
 Royal Marine; special ops.
 
 26
-00:01:00,856 --> 00:01:03,159
+00:00:57,856 --> 00:01:00,159
 [Aldo Kane] It doesn't get
 any more cutting-edge
 
 27
-00:01:03,259 --> 00:01:04,960
+00:01:00,259 --> 00:01:01,960
 exploration than this.
 
 28
-00:01:05,061 --> 00:01:07,764
+00:01:02,061 --> 00:01:04,764
 [James Cameron]
 Their secret weapon...
 
 29
-00:01:07,864 --> 00:01:10,233
+00:01:04,864 --> 00:01:07,233
 ...the <i>OceanXplorer.</i>
 
 30
-00:01:12,402 --> 00:01:14,804
+00:01:09,402 --> 00:01:11,804
 The most technologically
 advanced research vessel
 
 31
-00:01:14,903 --> 00:01:17,407
+00:01:11,903 --> 00:01:14,407
 ever built.
 
 32
-00:01:17,840 --> 00:01:20,309
+00:01:14,840 --> 00:01:17,309
 There's never been a more
 urgent need to understand
 
 33
-00:01:20,409 --> 00:01:24,313
+00:01:17,409 --> 00:01:21,313
 our ocean and the animals
 that call it home...
 
 34
-00:01:24,914 --> 00:01:29,719
+00:01:21,914 --> 00:01:26,719
 Because their lives
 and ours depend on it.
 
 35
-00:01:32,889 --> 00:01:35,123
+00:01:29,889 --> 00:01:32,123
 This time, the team's
 following one of the ocean's
 
 36
-00:01:35,157 --> 00:01:36,925
+00:01:32,157 --> 00:01:33,925
 most unique predators.
 
 37
-00:01:36,958 --> 00:01:39,195
+00:01:33,958 --> 00:01:36,195
 [Matt Smukall]
 Hammer, hammer, hammer...
 
 38
-00:01:39,228 --> 00:01:41,063
+00:01:36,228 --> 00:01:38,063
 [James Cameron] To
 discover the superpowers.
 
 39
-00:01:41,097 --> 00:01:42,898
+00:01:38,097 --> 00:01:39,898
 [Eric Stackpole] Look
 at the size of him!
 
 40
-00:01:42,931 --> 00:01:45,068
+00:01:39,931 --> 00:01:42,068
 [James Cameron] Of
 the great Hammerhead.
 
 41
-00:01:48,538 --> 00:01:53,076
+00:01:45,538 --> 00:01:50,076
 [theme music plays].
 
 42
-00:01:58,514 --> 00:01:59,581
+00:01:55,514 --> 00:01:56,581
 [James Cameron] The team is
 powering through the
 
 43
-00:01:59,614 --> 00:02:03,920
+00:01:56,614 --> 00:02:00,920
 Atlantic Ocean off the eastern
 seaboard of the USA.
 
 44
-00:02:04,554 --> 00:02:06,322
+00:02:01,554 --> 00:02:03,322
 [Pilot] <i>Green light</i>
 <i> green deck we're lifting.</i>
 
 45
-00:02:06,355 --> 00:02:08,523
+00:02:03,355 --> 00:02:05,523
 [James Cameron] Firing up
 the <i>OceanXplorer's</i> armory of
 
 46
-00:02:08,557 --> 00:02:10,293
+00:02:05,557 --> 00:02:07,293
 cutting-edge gear.
 
 47
-00:02:10,326 --> 00:02:14,197
+00:02:07,326 --> 00:02:11,197
 [helicopter whirring]
 
 48
-00:02:16,099 --> 00:02:18,134
+00:02:13,099 --> 00:02:15,134
 They're on a mission to search
 out one of the strangest
 
 49
-00:02:18,166 --> 00:02:21,269
+00:02:15,166 --> 00:02:18,269
 sharks in our oceans and
 one of the most recognizable
 
 50
-00:02:21,304 --> 00:02:23,206
+00:02:18,304 --> 00:02:20,206
 animals on the planet.
 
 51
-00:02:23,239 --> 00:02:25,373
+00:02:20,239 --> 00:02:22,373
 [helicopter whirring]
 
 52
-00:02:25,407 --> 00:02:28,143
+00:02:22,407 --> 00:02:25,143
 [Eric Stackpole] That's
 what we're looking for.
 
 53
-00:02:30,480 --> 00:02:32,481
+00:02:27,480 --> 00:02:29,481
 [James Cameron] The
 great hammerhead.
 
 54
-00:02:43,025 --> 00:02:46,896
+00:02:40,025 --> 00:02:43,896
 These sharks haven't
 changed for millions of years.
 
 55
-00:02:53,568 --> 00:02:57,373
+00:02:50,568 --> 00:02:54,373
 They are one of evolution's
 most eccentric creations.
 
 56
-00:02:59,474 --> 00:03:02,445
+00:02:56,474 --> 00:02:59,445
 But why would nature select
 for a head shaped like
 
 57
-00:03:02,478 --> 00:03:05,248
+00:02:59,478 --> 00:03:02,248
 a stealth bomber?
 
 58
-00:03:10,018 --> 00:03:14,289
+00:03:07,018 --> 00:03:11,289
 Science suggests:
 Improved agility and
 
 59
-00:03:14,322 --> 00:03:16,925
+00:03:11,322 --> 00:03:13,925
 enhanced electro
 sensor capabilities
 
 60
-00:03:16,958 --> 00:03:21,030
+00:03:13,958 --> 00:03:18,030
 make this shark one of the
 most specialized in the ocean.
 
 61
-00:03:29,938 --> 00:03:35,978
+00:03:26,938 --> 00:03:32,978
 [♪ intimidating music]
 
 62
-00:03:42,050 --> 00:03:45,153
+00:03:39,050 --> 00:03:42,153
 Hammerheads are found off the
 coast of Virginia to the North
 
 63
-00:03:45,188 --> 00:03:48,224
+00:03:42,188 --> 00:03:45,224
 and Louisiana to the West.
 
 64
-00:03:48,257 --> 00:03:50,492
+00:03:45,257 --> 00:03:47,492
 But highly sensitive
 to temperature,
 
 65
-00:03:50,525 --> 00:03:54,030
+00:03:47,525 --> 00:03:51,030
 every winter they migrate to
 the warmer waters of Florida.
 
 66
-00:04:03,539 --> 00:04:05,942
+00:04:00,539 --> 00:04:02,942
 We think the sharks are
 navigating this journey,
 
 67
-00:04:05,974 --> 00:04:08,911
+00:04:02,974 --> 00:04:05,911
 by following the
 earth's magnetic field.
 
 68
-00:04:10,413 --> 00:04:14,550
+00:04:07,413 --> 00:04:11,550
 This field generated by
 our planet's molten core,
 
 69
-00:04:14,583 --> 00:04:17,619
+00:04:11,583 --> 00:04:14,619
 creates the magnetic
 north and south poles.
 
 70
-00:04:22,557 --> 00:04:25,961
+00:04:19,557 --> 00:04:22,961
 It's believed that hammerheads
 can tune into this and use it
 
 71
-00:04:25,994 --> 00:04:28,864
+00:04:22,994 --> 00:04:25,864
 like we'd use a compass.
 
 72
-00:04:31,400 --> 00:04:34,336
+00:04:28,400 --> 00:04:31,336
 But as a mariner, I know even
 one degree out and you're
 
 73
-00:04:34,369 --> 00:04:36,672
+00:04:31,369 --> 00:04:33,672
 soon miles off course.
 
 74
-00:04:36,706 --> 00:04:40,242
+00:04:33,706 --> 00:04:37,242
 So how do great hammerheads
 navigate so accurately
 
 75
-00:04:40,275 --> 00:04:43,311
+00:04:37,275 --> 00:04:40,311
 across this vast ocean?
 
 76
-00:04:46,648 --> 00:04:51,286
+00:04:43,648 --> 00:04:48,286
 With the hope of
 finding an answer...
 
 77
-00:04:51,320 --> 00:04:53,889
+00:04:48,320 --> 00:04:50,889
 The team is in Florida.
 
 78
-00:04:57,326 --> 00:05:02,297
+00:04:54,326 --> 00:04:59,297
 Their plan, to attach a
 camera tag to a hammerhead.
 
 79
-00:05:11,706 --> 00:05:14,043
+00:05:08,706 --> 00:05:11,043
 [Aldo Kane] Welcome aboard.
 
 80
-00:05:14,543 --> 00:05:15,443
+00:05:11,543 --> 00:05:12,443
 [James Cameron]
 They're joined by
 
 81
-00:05:15,478 --> 00:05:18,380
+00:05:12,478 --> 00:05:15,380
 marine ecologist
 Erin Spencer.
 
 82
-00:05:18,847 --> 00:05:21,117
+00:05:15,847 --> 00:05:18,117
 [Aldo Kane] Here he is,
 welcome aboard.
 
 83
-00:05:21,150 --> 00:05:22,217
+00:05:18,150 --> 00:05:19,217
 Let's go.
 
 84
-00:05:22,251 --> 00:05:25,954
+00:05:19,251 --> 00:05:22,954
 [James Cameron] And shark
 biologist Matt Smukall.
 
 85
-00:05:25,987 --> 00:05:28,090
+00:05:22,987 --> 00:05:25,090
 [Erin Spencer] Everyone
 ready to tag some sharks?
 
 86
-00:05:28,623 --> 00:05:33,561
+00:05:25,623 --> 00:05:30,561
 [engine rumbling]
 
 87
-00:05:45,440 --> 00:05:46,442
+00:05:42,440 --> 00:05:43,442
 [Matt Smukall] Hammer!
 
 88
-00:05:46,474 --> 00:05:48,476
+00:05:43,474 --> 00:05:45,476
 [Erin Spencer] Hammer!
 
 89
-00:05:49,478 --> 00:05:51,179
+00:05:46,478 --> 00:05:48,179
 [James Cameron] The only way
 to catch a hammerhead is with
 
 90
-00:05:51,213 --> 00:05:53,516
+00:05:48,213 --> 00:05:50,516
 a baited line.
 
 91
-00:05:54,215 --> 00:05:57,519
+00:05:51,215 --> 00:05:54,519
 It might look stressful, but
 these sharks are tough,
 
 92
-00:05:57,552 --> 00:06:00,623
+00:05:54,552 --> 00:05:57,623
 and their wellbeing is the
 team's top priority.
 
 93
-00:06:00,655 --> 00:06:02,757
+00:05:57,655 --> 00:05:59,757
 [Matt Smukall] Get out of the
 way guys, get out of the way.
 
 94
-00:06:02,791 --> 00:06:04,626
+00:05:59,791 --> 00:06:01,626
 Alright. Coming up.
 
 95
-00:06:04,659 --> 00:06:06,061
+00:06:01,659 --> 00:06:03,061
 Neutral, neutral, neutral.
 
 96
-00:06:06,094 --> 00:06:07,496
+00:06:03,094 --> 00:06:04,496
 Go for dorsal.
 
 97
-00:06:07,530 --> 00:06:09,632
+00:06:04,530 --> 00:06:06,632
 [Aldo Kane] I have the dorsal.
 
 98
-00:06:10,465 --> 00:06:13,702
+00:06:07,465 --> 00:06:10,702
 [James Cameron] The team works
 fast to take vital measurements.
 
 99
-00:06:15,737 --> 00:06:17,172
+00:06:12,737 --> 00:06:14,172
 [Eric Stackpole] 80 to caudal.
 
 100
-00:06:17,206 --> 00:06:19,275
+00:06:14,206 --> 00:06:16,275
 [Matt Smukall] 180 to caudal.
 180 caudal.
 
 101
-00:06:19,307 --> 00:06:20,643
+00:06:16,307 --> 00:06:17,643
 186 for fork length.
 
 102
-00:06:20,675 --> 00:06:22,177
+00:06:17,675 --> 00:06:19,177
 [Zoleka Filander] 186.
 
 103
-00:06:22,210 --> 00:06:24,246
+00:06:19,210 --> 00:06:21,246
 [Matt Smukall] Check the
 sex Erin, remember sex.
 
 104
-00:06:24,280 --> 00:06:26,114
+00:06:21,280 --> 00:06:23,114
 [James Cameron] They
 attach a tracking tag.
 
 105
-00:06:26,148 --> 00:06:28,083
+00:06:23,148 --> 00:06:25,083
 [Erin Spencer]
 Alright, it secure?
 
 106
-00:06:28,117 --> 00:06:31,219
+00:06:25,117 --> 00:06:28,219
 [James Cameron] And release
 the shark in under 5 minutes.
 
 107
-00:06:31,554 --> 00:06:33,222
+00:06:28,554 --> 00:06:30,222
 [Aldo Kane] It's a physical
 task holding onto that
 
 108
-00:06:33,255 --> 00:06:35,490
+00:06:30,255 --> 00:06:32,490
 main dorsal fin.
 
 109
-00:06:35,958 --> 00:06:39,061
+00:06:32,958 --> 00:06:36,061
 You know it's amazing but it's,
 like it's a live animal and
 
 110
-00:06:39,094 --> 00:06:42,998
+00:06:36,094 --> 00:06:39,998
 it's, you know you, you are
 fully tuned, you're focused.
 
 111
-00:06:43,264 --> 00:06:44,800
+00:06:40,264 --> 00:06:41,800
 [Matt Smukall] We have
 30 seconds to release.
 
 112
-00:06:44,833 --> 00:06:46,369
+00:06:41,833 --> 00:06:43,369
 You guys on tail
 count it down.
 
 113
-00:06:46,402 --> 00:06:47,702
+00:06:43,402 --> 00:06:44,702
 [Eric Stackpole] 3,2,1...
 
 114
-00:06:47,737 --> 00:06:49,637
+00:06:44,737 --> 00:06:46,637
 Tail's loose.
 
 115
-00:06:51,373 --> 00:06:54,143
+00:06:48,373 --> 00:06:51,143
 [Erin Spencer]
 Looking good, swimming off.
 
 116
-00:06:55,478 --> 00:06:58,146
+00:06:52,478 --> 00:06:55,146
 [Matt Smukall]
 Alright, Nice job guys.
 
 117
-00:06:58,847 --> 00:07:01,050
+00:06:55,847 --> 00:06:58,050
 Nice job.
 
 118
-00:07:02,818 --> 00:07:05,320
+00:06:59,818 --> 00:07:02,320
 [Aldo Kane] How many hammers
 have you worked up like this?
 
 119
-00:07:05,353 --> 00:07:07,222
+00:07:02,353 --> 00:07:04,222
 [Erin Spencer] So we've worked
 up quite a number of hammers
 
 120
-00:07:07,255 --> 00:07:09,224
+00:07:04,255 --> 00:07:06,224
 but it's the first time we've
 been able to put out a
 
 121
-00:07:09,257 --> 00:07:11,159
+00:07:06,257 --> 00:07:08,159
 video tag with our speed sensor.
 
 122
-00:07:11,193 --> 00:07:15,164
+00:07:08,193 --> 00:07:12,164
 And so hopefully we're gonna
 get some good footage to also
 
 123
-00:07:15,197 --> 00:07:17,699
+00:07:12,197 --> 00:07:14,699
 match up maybe with
 some of that speed data.
 
 124
-00:07:21,469 --> 00:07:22,737
+00:07:18,469 --> 00:07:19,737
 [James Cameron] The tag
 is designed to fall off
 
 125
-00:07:22,771 --> 00:07:25,074
+00:07:19,771 --> 00:07:22,074
 within 24 hours.
 
 126
-00:07:25,106 --> 00:07:26,708
+00:07:22,106 --> 00:07:23,708
 [Matt Smukall] What's that
 just, at like 11:00?
 
 127
-00:07:26,742 --> 00:07:27,675
+00:07:23,742 --> 00:07:24,675
 [Erin Spencer]
 See that floating?
 
 128
-00:07:27,710 --> 00:07:29,811
+00:07:24,710 --> 00:07:26,811
 [Matt Smukall]
 Is that the tag?
 
 129
-00:07:30,311 --> 00:07:33,615
+00:07:27,311 --> 00:07:30,615
 [Aldo Kane] Look how
 small that is in the water.
 
 130
-00:07:33,715 --> 00:07:36,385
+00:07:30,715 --> 00:07:33,385
 [Erin Spencer] Whoa.
 We have a tag!
 
 131
-00:07:43,259 --> 00:07:47,496
+00:07:40,259 --> 00:07:44,496
 So you're gonna see what the
 shark sees, are you ready?
 
 132
-00:07:53,902 --> 00:07:57,405
+00:07:50,902 --> 00:07:54,405
 You can see him turning
 to look left and right.
 
 133
-00:07:57,440 --> 00:07:59,108
+00:07:54,440 --> 00:07:56,108
 [Aldo Kane] That's amazing
 getting that perspective of
 
 134
-00:07:59,141 --> 00:08:01,309
+00:07:56,141 --> 00:07:58,309
 the head moving.
 
 135
-00:08:06,916 --> 00:08:09,818
+00:08:03,916 --> 00:08:06,818
 [Erin Spencer] We're
 moving up towards the surface.
 
 136
-00:08:10,753 --> 00:08:12,588
+00:08:07,753 --> 00:08:09,588
 And he's right at the surface,
 
 137
-00:08:12,621 --> 00:08:16,458
+00:08:09,621 --> 00:08:13,458
 you can see the
 water patterns at the surface.
 
 138
-00:08:18,860 --> 00:08:23,265
+00:08:15,860 --> 00:08:20,265
 Now we're back towards the
 bottom down to about 80 meters.
 
 139
-00:08:30,305 --> 00:08:32,408
+00:08:27,305 --> 00:08:29,408
 [Matt Smukall] It looks like
 that's a choice to either be
 
 140
-00:08:32,440 --> 00:08:35,543
+00:08:29,440 --> 00:08:32,543
 up at the surface or down, it's
 not just like a wandering.
 
 141
-00:08:35,578 --> 00:08:37,479
+00:08:32,578 --> 00:08:34,479
 [Zoleka Filander] You're
 actually right, cos like if
 
 142
-00:08:37,512 --> 00:08:41,716
+00:08:34,512 --> 00:08:38,716
 you look closely, we can
 actually see this up and down
 
 143
-00:08:41,750 --> 00:08:46,454
+00:08:38,750 --> 00:08:43,454
 movement of the shark, and it,
 
 144
-00:08:46,488 --> 00:08:49,257
+00:08:43,488 --> 00:08:46,257
 it resembles a yo-yo pattern.
 
 145
-00:08:49,291 --> 00:08:52,895
+00:08:46,291 --> 00:08:49,895
 And it looks like it
 happened 20 or 30 times.
 
 146
-00:08:52,927 --> 00:08:56,931
+00:08:49,927 --> 00:08:53,931
 And I'm just wondering,
 why would the shark be using
 
 147
-00:08:56,966 --> 00:09:00,802
+00:08:53,966 --> 00:08:57,802
 so much energy intentionally
 moving up and down?
 
 148
-00:09:01,103 --> 00:09:04,907
+00:08:58,103 --> 00:09:01,907
 Do you think it has something
 to do with its magnetic sense?
 
 149
-00:09:05,875 --> 00:09:09,177
+00:09:02,875 --> 00:09:06,177
 [James Cameron] For a shark,
 the earth's magnetic field is
 
 150
-00:09:09,211 --> 00:09:12,148
+00:09:06,211 --> 00:09:09,148
 clearest at the surface.
 
 151
-00:09:12,981 --> 00:09:16,851
+00:09:09,981 --> 00:09:13,851
 But the seafloor also has
 local magnetic fields created
 
 152
-00:09:16,886 --> 00:09:19,587
+00:09:13,886 --> 00:09:16,587
 by geological formations.
 
 153
-00:09:20,555 --> 00:09:23,893
+00:09:17,555 --> 00:09:20,893
 It's believed that hammerheads
 yoyo up and down to create a
 
 154
-00:09:23,926 --> 00:09:26,295
+00:09:20,926 --> 00:09:23,295
 virtual magnetic map.
 
 155
-00:09:28,530 --> 00:09:31,800
+00:09:25,530 --> 00:09:28,800
 This map allows them to
 plot a more accurate course.
 
 156
-00:09:32,268 --> 00:09:34,703
+00:09:29,268 --> 00:09:31,703
 So that they can eventually
 find their destination
 
 157
-00:09:34,737 --> 00:09:37,773
+00:09:31,737 --> 00:09:34,773
 hundreds of miles away.
 
 158
-00:09:40,708 --> 00:09:43,712
+00:09:37,708 --> 00:09:40,712
 Some hammerheads are content
 wintering in Florida,
 
 159
-00:09:43,746 --> 00:09:46,448
+00:09:40,746 --> 00:09:43,448
 but others keep going.
 
 160
-00:09:46,481 --> 00:09:49,350
+00:09:43,481 --> 00:09:46,350
 Crossing the Gulf stream
 into the Bahamas.
 
 161
-00:09:49,451 --> 00:09:53,488
+00:09:46,451 --> 00:09:50,488
 And eventually, even pinpointing
 the tiny island group of Bimini.
 
 162
-00:09:56,824 --> 00:09:59,395
+00:09:53,824 --> 00:09:56,395
 Following in the wake of
 the great hammerheads,
 
 163
-00:09:59,427 --> 00:10:02,631
+00:09:56,427 --> 00:09:59,631
 The <i>OceanXplorer</i> sets sail.
 
 164
-00:10:15,377 --> 00:10:17,313
+00:10:12,377 --> 00:10:14,313
 [James Cameron] Matt's been
 studying hammerheads in Bimini
 
 165
-00:10:17,345 --> 00:10:19,648
+00:10:14,345 --> 00:10:16,648
 for years, and knows
 the best place
 
 166
-00:10:19,681 --> 00:10:21,984
+00:10:16,681 --> 00:10:18,984
 for Eric to meet the locals.
 
 167
-00:10:29,425 --> 00:10:30,960
+00:10:26,425 --> 00:10:27,960
 [Eric Stackpole]
 Ok, let's do it.
 
 168
-00:10:31,126 --> 00:10:33,328
+00:10:28,126 --> 00:10:30,328
 [Matt Smukall] Ready.
 
 169
-00:10:43,538 --> 00:10:46,408
+00:10:40,538 --> 00:10:43,408
 [SCUBA breathing]
 
 170
-00:10:46,442 --> 00:10:48,476
+00:10:43,442 --> 00:10:45,476
 <i> Alright.</i>
 
 171
-00:10:51,613 --> 00:10:53,681
+00:10:48,613 --> 00:10:50,681
 [James Cameron] This feeding
 station attracts more than
 
 172
-00:10:53,716 --> 00:10:56,284
+00:10:50,716 --> 00:10:53,284
 just Hammerheads.
 
 173
-00:11:00,555 --> 00:11:02,925
+00:10:57,555 --> 00:10:59,925
 [Matt Smukall] <i>Bull shark!</i>
 
 174
-00:11:08,329 --> 00:11:09,265
+00:11:05,329 --> 00:11:06,265
 <i> So those are the sharks that</i>
 
 175
-00:11:09,297 --> 00:11:11,800
+00:11:06,297 --> 00:11:08,800
 <i> you know have a</i>
 <i> pretty bad reputation.</i>
 
 176
-00:11:12,234 --> 00:11:14,936
+00:11:09,234 --> 00:11:11,936
 [Eric Stackpole] <i>Looks like</i>
 <i> a shark that means business.</i>
 
 177
-00:11:15,970 --> 00:11:16,971
+00:11:12,970 --> 00:11:13,971
 [Matt Smukall] <i>Eric.</i>
 
 178
-00:11:17,006 --> 00:11:19,440
+00:11:14,006 --> 00:11:16,440
 <i> Hammer hammer, hammer.</i>
 
 179
-00:11:20,975 --> 00:11:23,045
+00:11:17,975 --> 00:11:20,045
 <i> Look at the size of him.</i>
 
 180
-00:11:23,078 --> 00:11:26,649
+00:11:20,078 --> 00:11:23,649
 <i> He must be at</i>
 <i> least 12 feet long.</i>
 
 181
-00:11:29,350 --> 00:11:32,954
+00:11:26,350 --> 00:11:29,954
 <i> I just need to keep telling</i>
 <i> myself they don't eat people,</i>
 
 182
-00:11:32,988 --> 00:11:35,724
+00:11:29,988 --> 00:11:32,724
 <i> they eat stingrays.</i>
 
 183
-00:11:40,828 --> 00:11:42,997
+00:11:37,828 --> 00:11:39,997
 [Eric Stackpole] <i>So do</i>
 <i> you recognize this shark?</i>
 
 184
-00:11:43,865 --> 00:11:46,068
+00:11:40,865 --> 00:11:43,068
 [Matt Smukall]
 <i> Yeah this is Atlas.</i>
 
 185
-00:11:46,100 --> 00:11:48,770
+00:11:43,100 --> 00:11:45,770
 <i> He's one of the</i>
 <i> regulars around Bimini.</i>
 
 186
-00:11:53,108 --> 00:11:56,779
+00:11:50,108 --> 00:11:53,779
 <i> And he's been coming</i>
 <i> back at least 6 or 7 years.</i>
 
 187
-00:11:58,012 --> 00:12:00,948
+00:11:55,012 --> 00:11:57,948
 [Eric Stackpole]
 <i> So he's an old friend.</i>
 
 188
-00:12:03,085 --> 00:12:06,322
+00:12:00,085 --> 00:12:03,322
 <i> Maybe he</i>
 <i> recognizes you as well.</i>
 
 189
-00:12:11,159 --> 00:12:17,365
+00:12:08,159 --> 00:12:14,365
 [bubbles]
 
 190
-00:12:18,701 --> 00:12:20,668
+00:12:15,701 --> 00:12:17,668
 Seeing Atlas return to this
 island year after year
 
 191
-00:12:20,703 --> 00:12:21,737
+00:12:17,703 --> 00:12:18,737
 is incredible.
 
 192
-00:12:21,770 --> 00:12:23,805
+00:12:18,770 --> 00:12:20,805
 I mean it's a tiny little
 speck in a big ocean,
 
 193
-00:12:23,838 --> 00:12:26,375
+00:12:20,838 --> 00:12:23,375
 but you don't get that ability
 without having some
 
 194
-00:12:26,408 --> 00:12:29,110
+00:12:23,408 --> 00:12:26,110
 crazy navigation skills.
 
 195
-00:12:29,411 --> 00:12:32,480
+00:12:26,411 --> 00:12:29,480
 But I guess that's
 evolution in action.
 
 196
-00:12:43,125 --> 00:12:45,493
+00:12:40,125 --> 00:12:42,493
 [James Cameron] Thanks to
 Matt's research, we know
 
 197
-00:12:45,527 --> 00:12:49,030
+00:12:42,527 --> 00:12:46,030
 hammerheads like Atlas
 keep coming back to Bimini.
 
 198
-00:12:49,530 --> 00:12:52,600
+00:12:46,530 --> 00:12:49,600
 But it's only 7 miles long.
 
 199
-00:12:53,101 --> 00:12:56,104
+00:12:50,101 --> 00:12:53,104
 Even with geomagnetic
 navigation, finding this place
 
 200
-00:12:56,137 --> 00:12:57,840
+00:12:53,137 --> 00:12:54,840
 is a longshot.
 
 201
-00:12:57,872 --> 00:13:00,141
+00:12:54,872 --> 00:12:57,141
 So how do these
 sharks get here?
 
 202
-00:13:00,175 --> 00:13:03,578
+00:12:57,175 --> 00:13:00,578
 Could they be using other
 senses to help guide them in?
 
 203
-00:13:10,051 --> 00:13:12,054
+00:13:07,051 --> 00:13:09,054
 Zoleka wants to map
 the seafloor using the
 
 204
-00:13:12,087 --> 00:13:14,689
+00:13:09,087 --> 00:13:11,689
 <i> OceanXplorer's</i> sonar.
 
 205
-00:13:15,757 --> 00:13:18,860
+00:13:12,757 --> 00:13:15,860
 In the hope it
 uncovers an answer.
 
 206
-00:13:21,896 --> 00:13:23,765
+00:13:18,896 --> 00:13:20,765
 [computer beeps]
 
 207
-00:13:29,637 --> 00:13:31,038
+00:13:26,637 --> 00:13:28,038
 [clicking]
 
 208
-00:13:31,372 --> 00:13:33,074
+00:13:28,372 --> 00:13:30,074
 [Zoleka Filander] The sea
 floor in this area has never
 
 209
-00:13:33,108 --> 00:13:35,911
+00:13:30,108 --> 00:13:32,911
 been mapped to this resolution
 before, and so I'm really
 
 210
-00:13:35,944 --> 00:13:39,480
+00:13:32,944 --> 00:13:36,480
 hoping we pick up
 on some anomalies.
 
 211
-00:13:39,515 --> 00:13:42,684
+00:13:36,515 --> 00:13:39,684
 Different features that can
 give insights as to how these
 
 212
-00:13:42,717 --> 00:13:45,453
+00:13:39,717 --> 00:13:42,453
 hammerhead sharks are
 coming here to Bimini.
 
 213
-00:13:47,488 --> 00:13:49,757
+00:13:44,488 --> 00:13:46,757
 [James Cameron] The ship scans
 for 12 hours straight,
 
 214
-00:13:49,792 --> 00:13:53,662
+00:13:46,792 --> 00:13:50,662
 mapping this area for
 the very first time,
 
 215
-00:13:54,896 --> 00:13:56,597
+00:13:51,896 --> 00:13:53,597
 and generating detailed images
 
 216
-00:13:56,631 --> 00:13:59,935
+00:13:53,631 --> 00:13:56,935
 of what lies
 beneath the surface.
 
 217
-00:14:03,238 --> 00:14:05,140
+00:14:00,238 --> 00:14:02,140
 [Eric Stackpole] Wait so this
 has got to be exaggerated relief
 
 218
-00:14:05,173 --> 00:14:07,242
+00:14:02,173 --> 00:14:04,242
 right, I mean these are
 really sharp features
 
 219
-00:14:07,275 --> 00:14:08,644
+00:14:04,275 --> 00:14:05,644
 that we're seeing here.
 
 220
-00:14:08,676 --> 00:14:09,778
+00:14:05,676 --> 00:14:06,778
 [Zoleka Filander]
 It's not exaggerated.
 
 221
-00:14:09,811 --> 00:14:10,412
+00:14:06,811 --> 00:14:07,412
 [Eric Stackpole] This is
 actually what it looks like?
 
 222
-00:14:10,444 --> 00:14:12,046
+00:14:07,444 --> 00:14:09,046
 There's huge, tall pillars
 
 223
-00:14:12,079 --> 00:14:13,181
+00:14:09,079 --> 00:14:10,181
 sticking out of the
 bottom of the ocean?
 
 224
-00:14:13,215 --> 00:14:16,150
+00:14:10,215 --> 00:14:13,150
 [Zoleka Filander] Yeah. Yeah.
 This is very exciting.
 
 225
-00:14:16,185 --> 00:14:18,886
+00:14:13,185 --> 00:14:15,886
 [James Cameron] The sonar
 reveals a labyrinth-like terrain
 
 226
-00:14:18,921 --> 00:14:21,256
+00:14:15,921 --> 00:14:18,256
 hidden on the ocean floor.
 
 227
-00:14:21,289 --> 00:14:22,757
+00:14:18,289 --> 00:14:19,757
 [Eric Stackpole] These are
 meter marks, it's 100 meters.
 
 228
-00:14:22,791 --> 00:14:24,760
+00:14:19,791 --> 00:14:21,760
 So that's like a
 300-foot tower.
 
 229
-00:14:24,792 --> 00:14:26,828
+00:14:21,792 --> 00:14:23,828
 I mean, I'm just trying to
 picture that standing up
 
 230
-00:14:26,862 --> 00:14:29,497
+00:14:23,862 --> 00:14:26,497
 from the bottom of the sea.
 
 231
-00:14:29,597 --> 00:14:30,932
+00:14:26,597 --> 00:14:27,932
 [James Cameron] These towers
 are the height of the
 
 232
-00:14:30,966 --> 00:14:33,234
+00:14:27,966 --> 00:14:30,234
 Statue of Liberty.
 
 233
-00:14:35,770 --> 00:14:37,706
+00:14:32,770 --> 00:14:34,706
 [Aldo Kane] This is
 off the west coast then?
 
 234
-00:14:37,738 --> 00:14:38,739
+00:14:34,738 --> 00:14:35,739
 [Matt Smukall] Right on the,
 right on the drop off to
 
 235
-00:14:38,774 --> 00:14:41,210
+00:14:35,774 --> 00:14:38,210
 the gulf stream.
 
 236
-00:14:41,243 --> 00:14:43,177
+00:14:38,243 --> 00:14:40,177
 [Erin Spencer] Is this what
 you thought, is this a surprise?
 
 237
-00:14:43,212 --> 00:14:45,180
+00:14:40,212 --> 00:14:42,180
 [Matt Smukall] We
 didn't know this was there.
 
 238
-00:14:45,213 --> 00:14:48,750
+00:14:42,213 --> 00:14:45,750
 There's a lot going on there,
 that's really exciting.
 
 239
-00:14:49,518 --> 00:14:51,886
+00:14:46,518 --> 00:14:48,886
 [Zoleka Filander] It would be
 great to do a sub dive and
 
 240
-00:14:51,920 --> 00:14:56,024
+00:14:48,920 --> 00:14:53,024
 to get like some visuals
 on what's there, you know.
 
 241
-00:14:56,057 --> 00:14:59,661
+00:14:53,057 --> 00:14:56,661
 We always go out to find the
 known unknowns, but we stumble
 
 242
-00:14:59,694 --> 00:15:02,264
+00:14:56,694 --> 00:14:59,264
 on the absolutely unknowns,
 
 243
-00:15:02,296 --> 00:15:05,067
+00:14:59,296 --> 00:15:02,067
 like something we've
 never seen before.
 
 244
-00:15:18,947 --> 00:15:20,815
+00:15:15,947 --> 00:15:17,815
 [James Cameron] To discover if
 these towering outcrops could
 
 245
-00:15:20,849 --> 00:15:24,219
+00:15:17,849 --> 00:15:21,219
 be influencing the great
 hammerhead's navigation,
 
 246
-00:15:24,252 --> 00:15:28,756
+00:15:21,252 --> 00:15:25,756
 Zoleka and Matt take a
 dive into the deep.
 
 247
-00:15:31,926 --> 00:15:35,029
+00:15:28,926 --> 00:15:32,029
 [Zoleka Filander] This is
 real, real exploration.
 
 248
-00:15:35,463 --> 00:15:39,801
+00:15:32,463 --> 00:15:36,801
 No idea what we are
 getting ourselves into.
 
 249
-00:15:40,202 --> 00:15:42,637
+00:15:37,202 --> 00:15:39,637
 [SO] Bridge, SO
 that's Neptune off deck.
 
 250
-00:15:42,671 --> 00:15:44,939
+00:15:39,671 --> 00:15:41,939
 [Bridge] Copy that!
 
 251
-00:15:52,280 --> 00:15:55,650
+00:15:49,280 --> 00:15:52,650
 [splashing]
 
 252
-00:16:00,756 --> 00:16:02,291
+00:15:57,756 --> 00:15:59,291
 [Pilot] Ah Roger SO.
 
 253
-00:16:02,323 --> 00:16:04,592
+00:15:59,323 --> 00:16:01,592
 SO, this is Neptune,
 venting now.
 
 254
-00:16:05,761 --> 00:16:07,930
+00:16:02,761 --> 00:16:04,930
 [SO] <i>Venting now.</i>
 
 255
-00:16:19,841 --> 00:16:21,176
+00:16:16,841 --> 00:16:18,176
 [James Cameron] The sub team
 will be accompanied by the
 
 256
-00:16:21,208 --> 00:16:23,945
+00:16:18,208 --> 00:16:20,945
 remotely operated vehicle.
 
 257
-00:16:25,814 --> 00:16:28,350
+00:16:22,814 --> 00:16:25,350
 Controlled from the surface
 it sends up live pictures
 
 258
-00:16:28,382 --> 00:16:30,985
+00:16:25,382 --> 00:16:27,985
 from the seafloor.
 
 259
-00:16:35,390 --> 00:16:36,692
+00:16:32,390 --> 00:16:33,692
 [Pilot] Control, control.
 
 260
-00:16:36,725 --> 00:16:39,328
+00:16:33,725 --> 00:16:36,328
 This is Neptune,
 passing 500 meters.
 
 261
-00:16:39,360 --> 00:16:41,063
+00:16:36,360 --> 00:16:38,063
 <i> Descending.</i>
 
 262
-00:16:41,095 --> 00:16:43,030
+00:16:38,095 --> 00:16:40,030
 <i> Depth under keel 21 meters.</i>
 
 263
-00:16:43,064 --> 00:16:44,765
+00:16:40,064 --> 00:16:41,765
 <i> Over.</i>
 
 264
-00:16:45,067 --> 00:16:46,935
+00:16:42,067 --> 00:16:43,935
 [SO] Roger.
 
 265
-00:16:47,034 --> 00:16:49,371
+00:16:44,034 --> 00:16:46,371
 [Aldo Kane] Where these
 pinnacles are is, is right in
 
 266
-00:16:49,404 --> 00:16:52,940
+00:16:46,404 --> 00:16:49,940
 the gulf stream and that gulf
 stream is, is cranking north
 
 267
-00:16:52,975 --> 00:16:55,877
+00:16:49,975 --> 00:16:52,877
 the whole time
 there's no rest there.
 
 268
-00:16:58,113 --> 00:17:00,748
+00:16:55,113 --> 00:16:57,748
 [Pilot] That's a
 strong current.
 
 269
-00:17:11,025 --> 00:17:13,028
+00:17:08,025 --> 00:17:10,028
 [James Cameron] The Gulf stream
 is the fastest ocean current
 
 270
-00:17:13,060 --> 00:17:17,265
+00:17:10,060 --> 00:17:14,265
 in the world, running
 up to five miles per hour.
 
 271
-00:17:19,701 --> 00:17:21,269
+00:17:16,701 --> 00:17:18,269
 And 1600 feet down
 
 272
-00:17:21,302 --> 00:17:24,139
+00:17:18,302 --> 00:17:21,139
 the deep dive team
 is feeling its force.
 
 273
-00:17:24,171 --> 00:17:25,306
+00:17:21,171 --> 00:17:22,306
 [Pilot] Zoleka can you see?
 
 274
-00:17:25,340 --> 00:17:27,809
+00:17:22,340 --> 00:17:24,809
 [Zoleka Filander]
 I can't see much.
 
 275
-00:17:28,777 --> 00:17:31,113
+00:17:25,777 --> 00:17:28,113
 [James Cameron] The strong
 current is picking up sediment
 
 276
-00:17:31,145 --> 00:17:34,682
+00:17:28,145 --> 00:17:31,682
 and visibility is
 reduced to near zero.
 
 277
-00:17:37,485 --> 00:17:42,056
+00:17:34,485 --> 00:17:39,056
 Conditions us sub pilots
 refer to as "off-nominal".
 
 278
-00:17:46,261 --> 00:17:47,462
+00:17:43,261 --> 00:17:44,462
 Out of the gloom.
 
 279
-00:17:47,496 --> 00:17:50,164
+00:17:44,496 --> 00:17:47,164
 [Pilot] Ah man,
 that's massive.
 
 280
-00:17:50,198 --> 00:17:53,368
+00:17:47,198 --> 00:17:50,368
 [James Cameron] A
 towering pinnacle.
 
 281
-00:17:57,005 --> 00:18:00,175
+00:17:54,005 --> 00:17:57,175
 [Zoleka Filander] Oh
 this is so beautiful.
 
 282
-00:18:03,211 --> 00:18:04,445
+00:18:00,211 --> 00:18:01,445
 [Pilot] Control,
 this is Neptune.
 
 283
-00:18:04,479 --> 00:18:07,783
+00:18:01,479 --> 00:18:04,783
 Intention is start
 working up wall, over.
 
 284
-00:18:08,884 --> 00:18:11,153
+00:18:05,884 --> 00:18:08,153
 [SO] <i>Roger, walking up wall.</i>
 
 285
-00:18:12,453 --> 00:18:15,222
+00:18:09,453 --> 00:18:12,222
 [Eric Stackpole] Oh my gosh.
 
 286
-00:18:16,457 --> 00:18:19,327
+00:18:13,457 --> 00:18:16,327
 [Matt Smukall] A
 mountain underwater.
 
 287
-00:18:31,105 --> 00:18:33,140
+00:18:28,105 --> 00:18:30,140
 [Pilot] Shark port side.
 
 288
-00:18:33,608 --> 00:18:35,109
+00:18:30,608 --> 00:18:32,109
 [Matt Smukall] Oh yeah.
 
 289
-00:18:35,143 --> 00:18:36,444
+00:18:32,143 --> 00:18:33,444
 There it is there, night shark.
 
 290
-00:18:36,478 --> 00:18:39,081
+00:18:33,478 --> 00:18:36,081
 Oh came right under the...
 
 291
-00:18:39,715 --> 00:18:41,449
+00:18:36,715 --> 00:18:38,449
 came darting under the uh...
 
 292
-00:18:41,483 --> 00:18:44,252
+00:18:38,483 --> 00:18:41,252
 [Zoleka Filander]
 There it is. Port.
 
 293
-00:18:44,286 --> 00:18:46,087
+00:18:41,286 --> 00:18:43,087
 [Matt Smukall] Ah.
 
 294
-00:18:48,055 --> 00:18:49,457
+00:18:45,055 --> 00:18:46,457
 He darted off pretty quick.
 
 295
-00:18:49,490 --> 00:18:51,859
+00:18:46,490 --> 00:18:48,859
 [Zoleka Filander] Yep.
 
 296
-00:18:58,934 --> 00:19:01,502
+00:18:55,934 --> 00:18:58,502
 [Pilot] We are at the top.
 
 297
-00:19:02,002 --> 00:19:04,773
+00:18:59,002 --> 00:19:01,773
 [Zoleka Filander]
 Ah look at this.
 
 298
-00:19:06,006 --> 00:19:08,310
+00:19:03,006 --> 00:19:05,310
 [Pilot] Control,
 control this is Neptune.
 
 299
-00:19:08,342 --> 00:19:10,845
+00:19:05,342 --> 00:19:07,845
 We are at the top of
 the first pinnacle.
 
 300
-00:19:10,878 --> 00:19:13,881
+00:19:07,878 --> 00:19:10,881
 Depth 408 meters.
 
 301
-00:19:14,716 --> 00:19:18,420
+00:19:11,716 --> 00:19:15,420
 [Zoleka Filander] The minute
 we got to the top,
 
 302
-00:19:19,186 --> 00:19:21,789
+00:19:16,186 --> 00:19:18,789
 it was beautiful.
 
 303
-00:19:22,457 --> 00:19:25,193
+00:19:19,457 --> 00:19:22,193
 Absolutely stunning.
 
 304
-00:19:25,226 --> 00:19:27,395
+00:19:22,226 --> 00:19:24,395
 [Pilot] Guys do we wanna
 move to the next pinnacle?
 
 305
-00:19:27,429 --> 00:19:29,530
+00:19:24,429 --> 00:19:26,530
 [Matt Smukall] Yep. Yep.
 
 306
-00:19:33,868 --> 00:19:36,337
+00:19:30,868 --> 00:19:33,337
 [James Cameron] Now the sub
 and ROV teams begin to survey
 
 307
-00:19:36,371 --> 00:19:40,141
+00:19:33,371 --> 00:19:37,141
 the pinnacle field,
 looking for sharks.
 
 308
-00:19:40,742 --> 00:19:42,344
+00:19:37,742 --> 00:19:39,344
 [Matt Smukall] Oop
 little shark here.
 
 309
-00:19:42,377 --> 00:19:44,912
+00:19:39,377 --> 00:19:41,912
 [Pilot] Oh yeah.
 
 310
-00:19:45,212 --> 00:19:47,282
+00:19:42,212 --> 00:19:44,282
 [James Cameron] A
 dusky smooth hound.
 
 311
-00:19:47,681 --> 00:19:50,318
+00:19:44,681 --> 00:19:47,318
 [Erin Spencer] Ohh.
 Look, shark, shark, shark.
 
 312
-00:19:52,420 --> 00:19:55,090
+00:19:49,420 --> 00:19:52,090
 [James Cameron]
 And a Tiger shark.
 
 313
-00:19:56,123 --> 00:19:59,161
+00:19:53,123 --> 00:19:56,161
 Just like Atlas, tiger sharks
 must cross hundreds of miles
 
 314
-00:19:59,194 --> 00:20:02,463
+00:19:56,194 --> 00:19:59,463
 of open ocean to find
 their way to Bimini.
 
 315
-00:20:07,368 --> 00:20:09,970
+00:20:04,368 --> 00:20:06,970
 And this complex field of
 pinnacles could hold the key
 
 316
-00:20:10,005 --> 00:20:13,175
+00:20:07,005 --> 00:20:10,175
 to getting them there.
 
 317
-00:20:13,841 --> 00:20:16,310
+00:20:10,841 --> 00:20:13,310
 [Aldo Kane] When I'm navigating,
 I don't just use a map
 
 318
-00:20:16,344 --> 00:20:19,046
+00:20:13,344 --> 00:20:16,046
 and compass to
 find out where I am.
 
 319
-00:20:19,079 --> 00:20:23,318
+00:20:16,079 --> 00:20:20,318
 I use other senses like sight
 to look for landmarks and
 
 320
-00:20:23,350 --> 00:20:27,021
+00:20:20,350 --> 00:20:24,021
 that's what we think sharks
 are doing but with smell.
 
 321
-00:20:35,963 --> 00:20:37,465
+00:20:32,963 --> 00:20:34,465
 [James Cameron] As water
 from the Gulf stream hits the
 
 322
-00:20:37,498 --> 00:20:40,935
+00:20:34,498 --> 00:20:37,935
 towering pinnacles, nutrient
 rich water is forced to the
 
 323
-00:20:40,969 --> 00:20:44,605
+00:20:37,969 --> 00:20:41,605
 surface, creating
 distinctive 'scent trails'.
 
 324
-00:20:48,076 --> 00:20:51,179
+00:20:45,076 --> 00:20:48,179
 Sharks like Atlas, with their
 powerful sense of smell,
 
 325
-00:20:51,212 --> 00:20:54,082
+00:20:48,212 --> 00:20:51,082
 are able to detect these
 scent trails and follow them,
 
 326
-00:20:54,114 --> 00:20:58,886
+00:20:51,114 --> 00:20:55,886
 like an underwater signpost
 pointing straight to Bimini.
 
 327
-00:21:02,489 --> 00:21:05,025
+00:20:59,489 --> 00:21:02,025
 The discovery of this vast
 pinnacle field could finally
 
 328
-00:21:05,060 --> 00:21:09,096
+00:21:02,060 --> 00:21:06,096
 answer how these sharks locate
 this tiny group of islands.
 
 329
-00:21:09,631 --> 00:21:12,367
+00:21:06,631 --> 00:21:09,367
 But once here, does this
 unique adaptation give them
 
 330
-00:21:12,399 --> 00:21:15,403
+00:21:09,399 --> 00:21:12,403
 any other advantages?
 
 331
-00:21:21,076 --> 00:21:24,578
+00:21:18,076 --> 00:21:21,578
 The team meets in the mixed
 reality lab to investigate.
 
 332
-00:21:32,287 --> 00:21:37,057
+00:21:29,287 --> 00:21:34,057
 [Aldo Kane] I notice just how
 huge that cephalofoil is and
 
 333
-00:21:37,091 --> 00:21:38,960
+00:21:34,091 --> 00:21:35,960
 then underneath it how,
 
 334
-00:21:38,993 --> 00:21:42,497
+00:21:35,993 --> 00:21:39,497
 how small in comparison
 the, the mouth is.
 
 335
-00:21:42,730 --> 00:21:44,698
+00:21:39,730 --> 00:21:41,698
 [Matt Smukall] You can tell
 they're just not designed to
 
 336
-00:21:44,733 --> 00:21:47,534
+00:21:41,733 --> 00:21:44,534
 take down massive prey but
 what they are designed to do
 
 337
-00:21:47,569 --> 00:21:50,372
+00:21:44,569 --> 00:21:47,372
 is actually chase down rays
 or smaller sharks and use that
 
 338
-00:21:50,404 --> 00:21:53,475
+00:21:47,404 --> 00:21:50,475
 big cephalofoil, almost
 sometimes pin down the animal
 
 339
-00:21:53,507 --> 00:21:55,510
+00:21:50,507 --> 00:21:52,510
 and then that that mouth is
 right underneath there and
 
 340
-00:21:55,542 --> 00:21:57,511
+00:21:52,542 --> 00:21:54,511
 they could potentially, you
 know, bite off one of the
 
 341
-00:21:57,545 --> 00:22:00,114
+00:21:54,545 --> 00:21:57,114
 wings of a stingray and
 kind of incapacitate it.
 
 342
-00:22:00,148 --> 00:22:02,283
+00:21:57,148 --> 00:21:59,283
 [Eric Stackpole] But also
 they're a sensing machine right?
 
 343
-00:22:02,317 --> 00:22:05,520
+00:21:59,317 --> 00:22:02,520
 They've got all these um, you
 know sensing olfactory glands,
 
 344
-00:22:05,552 --> 00:22:09,224
+00:22:02,552 --> 00:22:06,224
 they can detect electrical
 signals from fish and
 
 345
-00:22:09,256 --> 00:22:11,259
+00:22:06,256 --> 00:22:08,259
 I imagine that's
 got to be useful?
 
 346
-00:22:11,292 --> 00:22:13,395
+00:22:08,292 --> 00:22:10,395
 [Matt Smukall] Yeah, and and
 having all of those senses
 
 347
-00:22:13,427 --> 00:22:16,997
+00:22:10,427 --> 00:22:13,997
 spread out over a wider area
 can probably help them hone in
 
 348
-00:22:17,032 --> 00:22:19,301
+00:22:14,032 --> 00:22:16,301
 on certain things like
 a stingray that's buried
 
 349
-00:22:19,333 --> 00:22:20,568
+00:22:16,333 --> 00:22:17,568
 under the sand.
 
 350
-00:22:20,601 --> 00:22:23,104
+00:22:17,601 --> 00:22:20,104
 [Zoleka Filander] So it's the
 spread out array that's making
 
 351
-00:22:23,137 --> 00:22:26,207
+00:22:20,137 --> 00:22:23,207
 the Hammerhead sharks
 such an accurate hunter?
 
 352
-00:22:26,240 --> 00:22:27,442
+00:22:23,240 --> 00:22:24,442
 [Matt Smukall] Absolutely.
 
 353
-00:22:27,475 --> 00:22:29,978
+00:22:24,475 --> 00:22:26,978
 That's what allows them to be
 such an efficient predator.
 
 354
-00:22:41,323 --> 00:22:45,260
+00:22:38,323 --> 00:22:42,260
 [boat motor rumbling]
 
 355
-00:22:45,292 --> 00:22:48,195
+00:22:42,292 --> 00:22:45,195
 [James Cameron] To observe the
 shark's hammerhead in action
 
 356
-00:22:48,229 --> 00:22:51,466
+00:22:45,229 --> 00:22:48,466
 Aldo and Matt are going out
 with a camera tag designed
 
 357
-00:22:51,498 --> 00:22:54,703
+00:22:48,498 --> 00:22:51,703
 to give them a
 view rarely seen.
 
 358
-00:22:58,707 --> 00:23:02,143
+00:22:55,707 --> 00:22:59,143
 [Aldo Kane] 1, 2, 3 go.
 
 359
-00:23:04,578 --> 00:23:06,680
+00:23:01,578 --> 00:23:03,680
 [James Cameron] But to attach
 it, first they must get
 
 360
-00:23:06,715 --> 00:23:10,251
+00:23:03,715 --> 00:23:07,251
 up close and personal
 with the hammerheads.
 
 361
-00:23:20,427 --> 00:23:23,364
+00:23:17,427 --> 00:23:20,364
 [Aldo Kane] <i>She is big.</i>
 
 362
-00:23:23,765 --> 00:23:24,966
+00:23:20,765 --> 00:23:21,966
 These sharks are huge.
 
 363
-00:23:25,000 --> 00:23:29,436
+00:23:22,000 --> 00:23:26,436
 They can be up to 900 pounds
 and when you're in the water,
 
 364
-00:23:29,470 --> 00:23:31,706
+00:23:26,470 --> 00:23:28,706
 they are all around you.
 
 365
-00:23:31,739 --> 00:23:33,675
+00:23:28,739 --> 00:23:30,675
 You need your
 head on a swivel.
 
 366
-00:23:33,707 --> 00:23:37,278
+00:23:30,707 --> 00:23:34,278
 But with this mask you get
 quite a lot of tunnel vision.
 
 367
-00:23:48,622 --> 00:23:51,393
+00:23:45,622 --> 00:23:48,393
 <i> Shark coming in your right.</i>
 
 368
-00:23:53,127 --> 00:23:55,430
+00:23:50,127 --> 00:23:52,430
 [Matt Smukall]
 <i> Alright here we go.</i>
 
 369
-00:24:05,774 --> 00:24:08,542
+00:24:02,774 --> 00:24:05,542
 [♪ dramatic music]
 
 370
-00:24:08,576 --> 00:24:11,378
+00:24:05,576 --> 00:24:08,378
 [Aldo Kane] <i>Here she comes.</i>
 
 371
-00:24:16,850 --> 00:24:20,220
+00:24:13,850 --> 00:24:17,220
 <i> Almost, almost.</i>
 
 372
-00:24:20,721 --> 00:24:23,725
+00:24:17,721 --> 00:24:20,725
 <i> Coming in again.</i>
 
 373
-00:24:34,135 --> 00:24:37,171
+00:24:31,135 --> 00:24:34,171
 <i> Ah man that's on.</i>
 
 374
-00:24:37,604 --> 00:24:39,573
+00:24:34,604 --> 00:24:36,573
 [Matt Smukall] <i>Yeah that one</i>
 <i> looked like it went</i>
 
 375
-00:24:39,606 --> 00:24:41,743
+00:24:36,606 --> 00:24:38,743
 <i> on really well.</i>
 
 376
-00:24:44,612 --> 00:24:46,648
+00:24:41,612 --> 00:24:43,648
 <i> Topside, topside.</i>
 
 377
-00:24:46,680 --> 00:24:51,118
+00:24:43,680 --> 00:24:48,118
 <i> If you copy, that's</i>
 <i> successful deployed tag.</i>
 
 378
-00:24:58,725 --> 00:25:05,533
+00:24:55,725 --> 00:25:02,533
 [♪ peaceful music]
 
 379
-00:25:07,902 --> 00:25:13,640
+00:25:04,902 --> 00:25:10,640
 [James Cameron] After
 eight hours, the tag releases.
 
 380
-00:25:17,345 --> 00:25:20,448
+00:25:14,345 --> 00:25:17,448
 And once retrieved, the
 footage is ready to view.
 
 381
-00:25:21,850 --> 00:25:23,585
+00:25:18,850 --> 00:25:20,585
 [Matt Smukall] You know you can
 actually just see what a
 
 382
-00:25:23,618 --> 00:25:26,220
+00:25:20,618 --> 00:25:23,220
 nice view these cameras are
 giving us of what the shark's
 
 383
-00:25:26,253 --> 00:25:29,390
+00:25:23,253 --> 00:25:26,390
 actually doing
 in that habitat.
 
 384
-00:25:34,429 --> 00:25:36,497
+00:25:31,429 --> 00:25:33,497
 [Zoleka Filander] He's got his
 head down, and scanning
 
 385
-00:25:36,530 --> 00:25:39,434
+00:25:33,530 --> 00:25:36,434
 back and forth.
 
 386
-00:25:39,466 --> 00:25:42,136
+00:25:36,466 --> 00:25:39,136
 It looks like it's hunting.
 
 387
-00:25:47,307 --> 00:25:49,444
+00:25:44,307 --> 00:25:46,444
 [Matt Smukall] He's cruising
 along relatively calm,
 
 388
-00:25:49,476 --> 00:25:52,546
+00:25:46,476 --> 00:25:49,546
 probably looking
 for some prey there.
 
 389
-00:25:53,148 --> 00:25:54,381
+00:25:50,148 --> 00:25:51,381
 [Zoleka Filander] Yeah they
 generally cruise at
 
 390
-00:25:54,414 --> 00:25:58,418
+00:25:51,414 --> 00:25:55,418
 five miles per hour and they can
 burst to like 20 miles per hour.
 
 391
-00:25:58,819 --> 00:26:00,954
+00:25:55,819 --> 00:25:57,954
 Look he's picking up speed.
 
 392
-00:26:00,988 --> 00:26:03,891
+00:25:57,988 --> 00:26:00,891
 He must have gotten
 his eyes on something.
 
 393
-00:26:13,734 --> 00:26:17,372
+00:26:10,734 --> 00:26:14,372
 With its wide-angle field of
 view, this camera tag reveals
 
 394
-00:26:17,404 --> 00:26:20,807
+00:26:14,404 --> 00:26:17,807
 where the great
 hammerhead is hunting.
 
 395
-00:26:20,942 --> 00:26:23,912
+00:26:17,942 --> 00:26:20,912
 [Matt Smukall] That little
 strip along the the reef where
 
 396
-00:26:23,944 --> 00:26:26,680
+00:26:20,944 --> 00:26:23,680
 you kind of have the
 convergence of two habitats.
 
 397
-00:26:26,713 --> 00:26:28,815
+00:26:23,713 --> 00:26:25,815
 You have the the seagrass
 flats coming to meet the
 
 398
-00:26:28,850 --> 00:26:30,618
+00:26:25,850 --> 00:26:27,618
 the reef area.
 
 399
-00:26:30,652 --> 00:26:33,220
+00:26:27,652 --> 00:26:30,220
 That is the area that they're
 using most of the time and
 
 400
-00:26:33,253 --> 00:26:35,523
+00:26:30,253 --> 00:26:32,523
 probably hunting in both
 of those types of habitats.
 
 401
-00:26:35,556 --> 00:26:37,625
+00:26:32,556 --> 00:26:34,625
 [Zoleka Filander] Yeah.
 
 402
-00:26:43,965 --> 00:26:46,533
+00:26:40,965 --> 00:26:43,533
 [Eric Stackpole] Is this,
 this is night-time now.
 
 403
-00:26:52,006 --> 00:26:54,742
+00:26:49,006 --> 00:26:51,742
 [James Cameron] Even in the
 pitch-black waters of the night,
 
 404
-00:26:54,775 --> 00:26:57,377
+00:26:51,775 --> 00:26:54,377
 using its electro sensors,
 this hammerhead...
 
 405
-00:26:57,412 --> 00:26:58,779
+00:26:54,412 --> 00:26:55,779
 [Zoleka Filander] Fish.
 
 406
-00:26:58,813 --> 00:27:00,715
+00:26:55,813 --> 00:26:57,715
 [James Cameron] Can
 still detect prey.
 
 407
-00:27:00,747 --> 00:27:02,382
+00:26:57,747 --> 00:26:59,382
 [Zoleka Filander] Whoa.
 
 408
-00:27:02,417 --> 00:27:05,787
+00:26:59,417 --> 00:27:02,787
 He senses the fish and
 goes precisely at it.
 
 409
-00:27:06,354 --> 00:27:09,323
+00:27:03,354 --> 00:27:06,323
 He's sensing the
 electric field, or vibration.
 
 410
-00:27:09,356 --> 00:27:13,728
+00:27:06,356 --> 00:27:10,728
 This network of sensors that you
 find along this broad head.
 
 411
-00:27:16,331 --> 00:27:17,832
+00:27:13,331 --> 00:27:14,832
 [James Cameron]
 No luck this time.
 
 412
-00:27:17,864 --> 00:27:20,568
+00:27:14,864 --> 00:27:17,568
 But the team has gained
 key information on where
 
 413
-00:27:20,601 --> 00:27:23,304
+00:27:17,601 --> 00:27:20,304
 the hammerheads are hunting.
 
 414
-00:27:26,073 --> 00:27:30,444
+00:27:23,073 --> 00:27:27,444
 [seagulls cawing]
 
 415
-00:27:30,478 --> 00:27:35,949
+00:27:27,478 --> 00:27:32,949
 [boat engine rumbling]
 
 416
-00:27:35,984 --> 00:27:39,020
+00:27:32,984 --> 00:27:36,020
 [James Cameron]
 Eric and Matt head out,
 
 417
-00:27:39,720 --> 00:27:46,527
+00:27:36,720 --> 00:27:43,527
 their destination: the
 seagrass flats of Bimini.
 
 418
-00:27:53,067 --> 00:27:54,469
+00:27:50,067 --> 00:27:51,469
 [Eric Stackpole] It's amazing
 because this is a really
 
 419
-00:27:54,502 --> 00:27:55,636
+00:27:51,502 --> 00:27:52,636
 shallow area.
 
 420
-00:27:55,670 --> 00:27:57,070
+00:27:52,670 --> 00:27:54,070
 I, I wouldn't have expected
 hammerhead sharks to come
 
 421
-00:27:57,104 --> 00:27:59,373
+00:27:54,104 --> 00:27:56,373
 around here.
 
 422
-00:27:59,740 --> 00:28:01,609
+00:27:56,740 --> 00:27:58,609
 [James Cameron] These shallows
 are home to the hammerheads'
 
 423
-00:28:01,643 --> 00:28:06,014
+00:27:58,643 --> 00:28:03,014
 favorite prey,
 the southern stingray.
 
 424
-00:28:06,046 --> 00:28:07,715
+00:28:03,046 --> 00:28:04,715
 [Matt Smukall] Look
 at all the stingrays.
 
 425
-00:28:07,748 --> 00:28:10,417
+00:28:04,748 --> 00:28:07,417
 But see how they're all right
 up close up to the shore?
 
 426
-00:28:10,585 --> 00:28:13,020
+00:28:07,585 --> 00:28:10,020
 [James Cameron] These waters
 offer the rays protection,
 
 427
-00:28:13,054 --> 00:28:16,056
+00:28:10,054 --> 00:28:13,056
 and a place to hide.
 
 428
-00:28:19,460 --> 00:28:22,462
+00:28:16,460 --> 00:28:19,462
 Too shallow for
 most predators.
 
 429
-00:28:22,497 --> 00:28:25,932
+00:28:19,497 --> 00:28:22,932
 But not the great hammerhead.
 
 430
-00:28:32,140 --> 00:28:36,077
+00:28:29,140 --> 00:28:33,077
 It's a shallow
 water specialist.
 
 431
-00:28:40,715 --> 00:28:43,551
+00:28:37,715 --> 00:28:40,551
 And these rays
 carry the scars.
 
 432
-00:28:45,686 --> 00:28:47,387
+00:28:42,686 --> 00:28:44,387
 [Matt Smukall] You can see right
 there at the base of her tail.
 
 433
-00:28:47,421 --> 00:28:49,990
+00:28:44,421 --> 00:28:46,990
 She actually no
 longer even has a barb.
 
 434
-00:28:50,257 --> 00:28:52,126
+00:28:47,257 --> 00:28:49,126
 So you can imagine that might
 be from a shark coming in and
 
 435
-00:28:52,159 --> 00:28:55,395
+00:28:49,159 --> 00:28:52,395
 biting off a
 section of that tail.
 
 436
-00:28:55,930 --> 00:28:58,099
+00:28:52,930 --> 00:28:55,099
 [James Cameron] Now they know
 what and where the hammerheads
 
 437
-00:28:58,131 --> 00:29:03,371
+00:28:55,131 --> 00:29:00,371
 are hunting, the
 team sends up the Helo.
 
 438
-00:29:07,442 --> 00:29:13,547
+00:29:04,442 --> 00:29:10,547
 [helicopter whirring]
 
 439
-00:29:19,854 --> 00:29:22,523
+00:29:16,854 --> 00:29:19,523
 If the aerial crew can
 capture footage of a hunt,
 
 440
-00:29:22,556 --> 00:29:24,125
+00:29:19,556 --> 00:29:21,125
 the team on the ship
 
 441
-00:29:24,158 --> 00:29:26,627
+00:29:21,158 --> 00:29:23,627
 will see how the
 hammerhead is uniquely
 
 442
-00:29:26,661 --> 00:29:29,130
+00:29:23,661 --> 00:29:26,130
 adapted to life
 in these shallows.
 
 443
-00:29:30,731 --> 00:29:35,802
+00:29:27,731 --> 00:29:32,802
 [helicopter whirring]
 
 444
-00:29:39,774 --> 00:29:45,880
+00:29:36,774 --> 00:29:42,880
 [helicopter whirring]
 
 445
-00:29:47,914 --> 00:29:51,386
+00:29:44,914 --> 00:29:48,386
 [James Cameron] The aerial crew
 returns with footage to share.
 
 446
-00:29:58,993 --> 00:30:02,697
+00:29:55,993 --> 00:29:59,697
 Once again the shark is
 head down looking for prey
 
 447
-00:30:05,766 --> 00:30:08,469
+00:30:02,766 --> 00:30:05,469
 [splashing]
 
 448
-00:30:08,502 --> 00:30:12,172
+00:30:05,502 --> 00:30:09,172
 and this time it finds it.
 
 449
-00:30:15,743 --> 00:30:18,445
+00:30:12,743 --> 00:30:15,445
 [Erin Spencer] The
 tail movement is wild.
 
 450
-00:30:19,079 --> 00:30:20,148
+00:30:16,079 --> 00:30:17,148
 [Eric Stackpole] Oh!
 
 451
-00:30:20,180 --> 00:30:22,850
+00:30:17,180 --> 00:30:19,850
 [Erin Spencer] Oh yeah.
 
 452
-00:30:23,150 --> 00:30:25,520
+00:30:20,150 --> 00:30:22,520
 [Eric Stackpole] Look
 how quick it can turn.
 
 453
-00:30:25,552 --> 00:30:27,721
+00:30:22,552 --> 00:30:24,721
 [James Cameron] To lock on
 this stingray, the hammerhead
 
 454
-00:30:27,755 --> 00:30:29,856
+00:30:24,755 --> 00:30:26,856
 attacks from the side.
 
 455
-00:30:29,890 --> 00:30:31,792
+00:30:26,890 --> 00:30:28,792
 [Zoleka Filander] These waters
 are only one meter deep,
 
 456
-00:30:31,826 --> 00:30:35,930
+00:30:28,826 --> 00:30:32,930
 it's really well adapted for
 hunting in these shallow waters.
 
 457
-00:30:36,797 --> 00:30:38,865
+00:30:33,797 --> 00:30:35,865
 [Matt Smukall] As the water
 starts murking up she's still
 
 458
-00:30:38,899 --> 00:30:41,536
+00:30:35,899 --> 00:30:38,536
 able to use all her other
 senses beside sight to keep
 
 459
-00:30:41,569 --> 00:30:44,070
+00:30:38,569 --> 00:30:41,070
 tracking that ray down.
 
 460
-00:30:44,805 --> 00:30:51,645
+00:30:41,805 --> 00:30:48,645
 [splashing]
 
 461
-00:30:51,979 --> 00:30:53,680
+00:30:48,979 --> 00:30:50,680
 [Eric Stackpole] In this
 visibility it must be using its
 
 462
-00:30:53,713 --> 00:30:57,717
+00:30:50,713 --> 00:30:54,717
 electro receptors to detect the
 electrical signal from the ray.
 
 463
-00:31:02,289 --> 00:31:04,591
+00:30:59,289 --> 00:31:01,591
 [Zoleka Filander]
 This is so wild!
 
 464
-00:31:04,625 --> 00:31:08,529
+00:31:01,625 --> 00:31:05,529
 [splashing]
 
 465
-00:31:08,563 --> 00:31:11,865
+00:31:05,563 --> 00:31:08,865
 [Erin Spencer] This is
 really a gem of an encounter.
 
 466
-00:31:11,899 --> 00:31:13,201
+00:31:08,899 --> 00:31:10,201
 [Zoleka Filander] Oh, hectic!
 
 467
-00:31:13,234 --> 00:31:16,037
+00:31:10,234 --> 00:31:13,037
 Look at those sharp turns.
 
 468
-00:31:16,069 --> 00:31:22,877
+00:31:13,069 --> 00:31:19,877
 [splashing]
 
 469
-00:31:23,911 --> 00:31:26,680
+00:31:20,911 --> 00:31:23,680
 [splashing]
 
 470
-00:31:26,713 --> 00:31:28,716
+00:31:23,713 --> 00:31:25,716
 [Matt Smukall] The shark is
 trying to pin that ray down
 
 471
-00:31:28,748 --> 00:31:31,853
+00:31:25,748 --> 00:31:28,853
 whereas the ray's trying
 to come up to the surface.
 
 472
-00:31:32,520 --> 00:31:35,189
+00:31:29,520 --> 00:31:32,189
 Which is basically the safest
 spot because the mouth is
 
 473
-00:31:35,222 --> 00:31:38,626
+00:31:32,222 --> 00:31:35,626
 actually on the
 underside of that shark.
 
 474
-00:31:38,658 --> 00:31:43,631
+00:31:35,658 --> 00:31:40,631
 [splashing]
 
 475
-00:31:46,934 --> 00:31:48,101
+00:31:43,934 --> 00:31:45,101
 [Eric Stackpole] The
 hammerhead is making much
 
 476
-00:31:48,135 --> 00:31:50,570
+00:31:45,135 --> 00:31:47,570
 tighter turns than I would
 have pictured possible for an
 
 477
-00:31:50,604 --> 00:31:51,706
+00:31:47,604 --> 00:31:48,706
 animal that size.
 
 478
-00:31:51,738 --> 00:31:54,140
+00:31:48,738 --> 00:31:51,140
 You know maybe even the
 cephalofoil is useful as, as
 
 479
-00:31:54,175 --> 00:31:57,043
+00:31:51,175 --> 00:31:54,043
 being a sort of extra control
 surface to help it get those
 
 480
-00:31:57,078 --> 00:31:59,680
+00:31:54,078 --> 00:31:56,680
 tighter turns.
 
 481
-00:32:02,850 --> 00:32:04,752
+00:31:59,850 --> 00:32:01,752
 [Matt Smukall] It does shows
 you how powerful and agile
 
 482
-00:32:04,784 --> 00:32:06,654
+00:32:01,784 --> 00:32:03,654
 they are.
 
 483
-00:32:06,686 --> 00:32:08,021
+00:32:03,686 --> 00:32:05,021
 [Eric Stackpole] I mean the
 hammerhead is like a perfect
 
 484
-00:32:08,055 --> 00:32:10,891
+00:32:05,055 --> 00:32:07,891
 ray hunting machine.
 
 485
-00:32:12,993 --> 00:32:14,060
+00:32:09,993 --> 00:32:11,060
 [Matt Smukall] Right there.
 
 486
-00:32:14,095 --> 00:32:16,730
+00:32:11,095 --> 00:32:13,730
 [Erin Spencer]
 Yeah, yeah, yeah, yeah.
 
 487
-00:32:17,364 --> 00:32:22,636
+00:32:14,364 --> 00:32:19,636
 You can see the instant
 that, that ray is captured.
 
 488
-00:32:25,338 --> 00:32:28,775
+00:32:22,338 --> 00:32:25,775
 [James Cameron] Rarely filmed
 in its entirety, the hunt
 
 489
-00:32:28,809 --> 00:32:31,212
+00:32:25,809 --> 00:32:28,212
 lasts nearly four minutes.
 
 490
-00:32:31,244 --> 00:32:36,684
+00:32:28,244 --> 00:32:33,684
 A long arduous battle of
 attrition, finally won
 
 491
-00:32:36,716 --> 00:32:39,020
+00:32:33,716 --> 00:32:36,020
 by the great hammerhead.
 
 492
-00:32:42,088 --> 00:32:43,925
+00:32:39,088 --> 00:32:40,925
 [Eric Stackpole] It's
 the ultimate shark
 
 493
-00:32:43,957 --> 00:32:46,927
+00:32:40,957 --> 00:32:43,927
 for this environment.
 
 494
-00:32:55,735 --> 00:33:02,310
+00:32:52,735 --> 00:32:59,310
 [♪ dramatic music]
 
 495
-00:33:03,377 --> 00:33:06,846
+00:33:00,377 --> 00:33:03,846
 [James Cameron] In their time
 following the great hammerheads,
 
 496
-00:33:06,881 --> 00:33:09,050
+00:33:03,881 --> 00:33:06,050
 the team has deep
 dived into the world of
 
 497
-00:33:09,082 --> 00:33:11,819
+00:33:06,082 --> 00:33:08,819
 this mysterious creature.
 
 498
-00:33:16,256 --> 00:33:19,659
+00:33:13,256 --> 00:33:16,659
 [Aldo Kane] The great
 hammerhead has a sixth sense.
 
 499
-00:33:19,694 --> 00:33:23,130
+00:33:16,694 --> 00:33:20,130
 Opening up a magnetic map,
 leading it across the ocean
 
 500
-00:33:23,163 --> 00:33:26,033
+00:33:20,163 --> 00:33:23,033
 and that is just incredible.
 
 501
-00:33:30,438 --> 00:33:32,105
+00:33:27,438 --> 00:33:29,105
 [James Cameron] They've
 revealed hidden landscapes
 
 502
-00:33:32,139 --> 00:33:34,108
+00:33:29,139 --> 00:33:31,108
 on the ocean floor.
 
 503
-00:33:34,408 --> 00:33:36,042
+00:33:31,408 --> 00:33:33,042
 [Eric Stackpole] Oh my gosh.
 
 504
-00:33:36,077 --> 00:33:38,712
+00:33:33,077 --> 00:33:35,712
 [Zoleka Filander]
 Absolutely stunning.
 
 505
-00:33:39,613 --> 00:33:42,082
+00:33:36,613 --> 00:33:39,082
 Every single time we scan the
 seafloor, we find something
 
 506
-00:33:42,115 --> 00:33:44,652
+00:33:39,115 --> 00:33:41,652
 that we never knew existed,
 
 507
-00:33:44,685 --> 00:33:47,921
+00:33:41,685 --> 00:33:44,921
 and these are the
 sort of clues that help us
 
 508
-00:33:47,954 --> 00:33:51,225
+00:33:44,954 --> 00:33:48,225
 solve the greatest
 ocean mysteries.
 
 509
-00:33:53,260 --> 00:33:55,162
+00:33:50,260 --> 00:33:52,162
 [James Cameron] And they've
 captured images that offer
 
 510
-00:33:55,195 --> 00:33:57,698
+00:33:52,195 --> 00:33:54,698
 a rare insight into
 the lives of these
 
 511
-00:33:57,731 --> 00:34:00,701
+00:33:54,731 --> 00:33:57,701
 little-understood creatures.
 
 512
-00:34:01,268 --> 00:34:03,203
+00:33:58,268 --> 00:34:00,203
 [Eric Stackpole] I mean the
 camera tag got us right in there
 
 513
-00:34:03,237 --> 00:34:05,139
+00:34:00,237 --> 00:34:02,139
 and we got to spend a
 day watching what the
 
 514
-00:34:05,171 --> 00:34:08,208
+00:34:02,171 --> 00:34:05,208
 shark does from its perspective.
 
 515
-00:34:11,011 --> 00:34:15,048
+00:34:08,011 --> 00:34:12,048
 [helicopter whirring]
 
 516
-00:34:17,752 --> 00:34:20,287
+00:34:14,752 --> 00:34:17,287
 [James Cameron] The team was
 able to study hammerheads here
 
 517
-00:34:20,320 --> 00:34:23,791
+00:34:17,320 --> 00:34:20,791
 because the Bahamas
 is a shark sanctuary.
 
 518
-00:34:23,823 --> 00:34:25,326
+00:34:20,823 --> 00:34:22,326
 But elsewhere in our oceans,
 
 519
-00:34:25,359 --> 00:34:27,795
+00:34:22,359 --> 00:34:24,795
 great hammerheads are
 critically endangered
 
 520
-00:34:27,828 --> 00:34:29,796
+00:34:24,828 --> 00:34:26,796
 and they need our protection.
 
 521
-00:34:29,829 --> 00:34:32,432
+00:34:26,829 --> 00:34:29,432
 We have to do all we can to
 safeguard the future of this
 
 522
-00:34:32,466 --> 00:34:35,301
+00:34:29,466 --> 00:34:32,301
 extraordinary species.
 
 523
-00:34:39,472 --> 00:34:45,412
+00:34:36,472 --> 00:34:42,412
 [♪ peaceful music]
 

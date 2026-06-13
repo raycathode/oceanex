@@ -1,2578 +1,2578 @@
 1
-00:00:05,271 --> 00:00:07,474
+00:00:02,271 --> 00:00:04,474
 [James Cameron] The Ocean....
 
 2
-00:00:07,507 --> 00:00:09,476
+00:00:04,507 --> 00:00:06,476
 the last frontier on earth.
 
 3
-00:00:09,744 --> 00:00:13,380
+00:00:06,744 --> 00:00:10,380
 So much is unexplored
 and unexplained.
 
 4
-00:00:13,847 --> 00:00:15,483
+00:00:10,847 --> 00:00:12,483
 To change that...
 
 5
-00:00:15,516 --> 00:00:18,619
+00:00:12,516 --> 00:00:15,619
 a kickass team of insanely
 talented specialists is
 
 6
-00:00:18,652 --> 00:00:21,389
+00:00:15,652 --> 00:00:18,389
 setting out to push the
 frontiers of what we know
 
 7
-00:00:21,422 --> 00:00:24,090
+00:00:18,422 --> 00:00:21,090
 about our oceans.
 
 8
-00:00:25,291 --> 00:00:26,594
+00:00:22,291 --> 00:00:23,594
 [Zoleka Filander] Oh my gosh.
 
 9
-00:00:26,626 --> 00:00:30,097
+00:00:23,626 --> 00:00:27,097
 [James Cameron] Zoleka Filander,
 deep sea scientist.
 
 10
-00:00:30,130 --> 00:00:32,065
+00:00:27,130 --> 00:00:29,065
 [Zoleka Filander] Being a
 deep sea researcher means
 
 11
-00:00:32,099 --> 00:00:35,769
+00:00:29,099 --> 00:00:32,769
 having front row tickets to
 the best movie that everybody
 
 12
-00:00:35,802 --> 00:00:37,471
+00:00:32,802 --> 00:00:34,471
 wants to watch.
 
 13
-00:00:37,505 --> 00:00:38,773
+00:00:34,505 --> 00:00:35,773
 [James Cameron]
 Melissa Márquez...
 
 14
-00:00:38,806 --> 00:00:40,306
+00:00:35,806 --> 00:00:37,306
 [Melissa Márquez]
 Straight ahead, 12:00.
 
 15
-00:00:40,340 --> 00:00:41,375
+00:00:37,340 --> 00:00:38,375
 [James Cameron]
 Shark biologist.
 
 16
-00:00:41,608 --> 00:00:44,612
+00:00:38,608 --> 00:00:41,612
 [Melissa Márquez] We just saw
 what no one has seen before.
 
 17
-00:00:44,644 --> 00:00:46,579
+00:00:41,644 --> 00:00:43,579
 [James Cameron]
 Eric Stackpole...
 
 18
-00:00:46,614 --> 00:00:47,715
+00:00:43,614 --> 00:00:44,715
 [Eric Stackpole] Scan now!
 
 19
-00:00:47,748 --> 00:00:48,681
+00:00:44,748 --> 00:00:45,681
 [James Cameron]
 Ocean tech innovator.
 
 20
-00:00:48,916 --> 00:00:50,818
+00:00:45,916 --> 00:00:47,818
 [Eric Stackpole] I love
 building tools that allow us
 
 21
-00:00:50,851 --> 00:00:53,521
+00:00:47,851 --> 00:00:50,521
 to see things in ways
 we've never seen before.
 
 22
-00:00:53,554 --> 00:00:54,755
+00:00:50,554 --> 00:00:51,755
 [gasps]
 
 23
-00:00:54,789 --> 00:00:56,322
+00:00:51,789 --> 00:00:53,322
 [James Cameron] And Aldo Kane...
 
 24
-00:00:56,990 --> 00:00:58,692
+00:00:53,990 --> 00:00:55,692
 [Aldo Kane] <i>This is insane.</i>
 
 25
-00:00:58,726 --> 00:01:01,128
+00:00:55,726 --> 00:00:58,128
 [James Cameron] Former
 Royal Marine; special ops.
 
 26
-00:01:01,161 --> 00:01:03,530
+00:00:58,161 --> 00:01:00,530
 [Aldo Kane] It doesn't
 get any more cutting-edge
 
 27
-00:01:03,563 --> 00:01:05,331
+00:01:00,563 --> 00:01:02,331
 exploration than this.
 
 28
-00:01:05,365 --> 00:01:08,135
+00:01:02,365 --> 00:01:05,135
 [James Cameron]
 Their secret weapon...
 
 29
-00:01:08,168 --> 00:01:10,538
+00:01:05,168 --> 00:01:07,538
 ...the <i>OceanXplorer.</i>
 
 30
-00:01:12,706 --> 00:01:15,175
+00:01:09,706 --> 00:01:12,175
 The most technologically
 advanced research vessel
 
 31
-00:01:15,208 --> 00:01:17,710
+00:01:12,208 --> 00:01:14,710
 ever built.
 
 32
-00:01:18,144 --> 00:01:20,681
+00:01:15,144 --> 00:01:17,681
 There's never been a more
 urgent need to understand
 
 33
-00:01:20,713 --> 00:01:24,617
+00:01:17,713 --> 00:01:21,617
 our ocean and the
 animals that call it home...
 
 34
-00:01:25,219 --> 00:01:29,824
+00:01:22,219 --> 00:01:26,824
 Because their lives
 and ours depend on it.
 
 35
-00:01:31,391 --> 00:01:33,693
+00:01:28,391 --> 00:01:30,693
 [Eric Stackpole] <i>Okay</i>
 <i> here we go. 2:00, 2:00.</i>
 
 36
-00:01:33,726 --> 00:01:36,297
+00:01:30,726 --> 00:01:33,297
 [James Cameron] This time
 the team track sperm whales,
 
 37
-00:01:36,329 --> 00:01:38,364
+00:01:33,329 --> 00:01:35,364
 down into an alien world.
 
 38
-00:01:38,398 --> 00:01:39,833
+00:01:35,398 --> 00:01:36,833
 [Edith Widder] What is that?
 
 39
-00:01:39,867 --> 00:01:42,202
+00:01:36,867 --> 00:01:39,202
 [James Cameron] Full
 of fantastical creatures.
 
 40
-00:01:43,536 --> 00:01:45,739
+00:01:40,536 --> 00:01:42,739
 [Melissa Márquez] No, ho, oh!
 
 41
-00:01:45,773 --> 00:01:50,777
+00:01:42,773 --> 00:01:47,777
 [♪ theme music plays].
 
 42
-00:01:53,614 --> 00:01:56,784
+00:01:50,614 --> 00:01:53,784
 [James Cameron] The <i>OceanXplorer</i>
 is heading for deep water.
 
 43
-00:01:58,885 --> 00:02:01,355
+00:01:55,885 --> 00:01:58,355
 Just off the Azores.
 
 44
-00:02:01,956 --> 00:02:06,293
+00:01:58,956 --> 00:02:03,293
 A chain of tiny volcanic islands
 in the middle of the Atlantic.
 
 45
-00:02:09,530 --> 00:02:14,135
+00:02:06,530 --> 00:02:11,135
 And a rich oasis for an
 abundance of marine life.
 
 46
-00:02:14,601 --> 00:02:17,605
+00:02:11,601 --> 00:02:14,605
 [squawking]
 
 47
-00:02:26,914 --> 00:02:30,751
+00:02:23,914 --> 00:02:27,751
 Every summer nearly
 1,000 sperm whales gather here.
 
 48
-00:02:34,722 --> 00:02:36,456
+00:02:31,722 --> 00:02:33,456
 They're easily identified by
 
 49
-00:02:36,489 --> 00:02:39,360
+00:02:33,489 --> 00:02:36,360
 their distinctive
 sideways spout.
 
 50
-00:02:45,965 --> 00:02:49,903
+00:02:42,965 --> 00:02:46,903
 These whales spend most of their
 lives deep below the surface.
 
 51
-00:02:52,873 --> 00:02:55,943
+00:02:49,873 --> 00:02:52,943
 But using the full scope
 of the <i>OceanXplorer's</i> tech,
 
 52
-00:02:55,976 --> 00:02:59,313
+00:02:52,976 --> 00:02:56,313
 the team hopes to shine a
 light on their lives down
 
 53
-00:02:59,346 --> 00:03:01,514
+00:02:56,346 --> 00:02:58,514
 in these black depths.
 
 54
-00:03:08,655 --> 00:03:10,523
+00:03:05,655 --> 00:03:07,523
 [Eric Stackpole] <i>Standby 9:00.</i>
 
 55
-00:03:21,034 --> 00:03:22,802
+00:03:18,034 --> 00:03:19,802
 [James Cameron] Sperm whales
 were hunted here as recently as
 
 56
-00:03:22,835 --> 00:03:26,472
+00:03:19,835 --> 00:03:23,472
 1987 and they
 live up to 70 years,
 
 57
-00:03:26,507 --> 00:03:28,842
+00:03:23,507 --> 00:03:25,842
 so some of them may
 still remember that.
 
 58
-00:03:29,809 --> 00:03:33,581
+00:03:26,809 --> 00:03:30,581
 They're understandably
 nervous around boats.
 
 59
-00:03:34,148 --> 00:03:37,351
+00:03:31,148 --> 00:03:34,351
 So Aldo and Melissa
 approach cautiously.
 
 60
-00:03:46,994 --> 00:03:49,597
+00:03:43,994 --> 00:03:46,597
 [Melissa Márquez] You
 got your eyes on them?
 
 61
-00:03:50,463 --> 00:03:52,599
+00:03:47,463 --> 00:03:49,599
 They're sneaky I tell 'ya.
 
 62
-00:03:58,639 --> 00:03:59,773
+00:03:55,639 --> 00:03:56,773
 [gasps]
 
 63
-00:03:59,806 --> 00:04:01,375
+00:03:56,806 --> 00:03:58,375
 Oh my God, they're
 right underneath us.
 
 64
-00:04:01,407 --> 00:04:02,876
+00:03:58,407 --> 00:03:59,876
 They're right underneath us.
 
 65
-00:04:09,882 --> 00:04:12,251
+00:04:06,882 --> 00:04:09,251
 [Aldo Kane] Wow, look at that.
 
 66
-00:04:13,454 --> 00:04:15,789
+00:04:10,454 --> 00:04:12,789
 It's a whole family pod.
 
 67
-00:04:17,625 --> 00:04:19,793
+00:04:14,625 --> 00:04:16,793
 [Melissa Márquez]
 That's gorgeous.
 
 68
-00:04:26,500 --> 00:04:28,369
+00:04:23,500 --> 00:04:25,369
 [Aldo Kane] That
 is a first for me.
 
 69
-00:04:28,402 --> 00:04:29,802
+00:04:25,402 --> 00:04:26,802
 [Melissa Márquez] Yeah!
 
 70
-00:04:31,005 --> 00:04:34,708
+00:04:28,005 --> 00:04:31,708
 [James Cameron] Sperm whales
 are the largest toothed predator
 
 71
-00:04:34,742 --> 00:04:36,643
+00:04:31,742 --> 00:04:33,643
 on the planet.
 
 72
-00:04:40,114 --> 00:04:42,849
+00:04:37,114 --> 00:04:39,849
 To study these giants
 up close and personal
 
 73
-00:04:42,882 --> 00:04:46,286
+00:04:39,882 --> 00:04:43,286
 Aldo and Melissa join
 them beneath the waves.
 
 74
-00:04:54,061 --> 00:04:55,461
+00:04:51,061 --> 00:04:52,461
 [Melissa Márquez]
 Getting under the water and
 
 75
-00:04:55,496 --> 00:04:58,666
+00:04:52,496 --> 00:04:55,666
 just seeing this giant animal,
 
 76
-00:04:59,833 --> 00:05:03,302
+00:04:56,833 --> 00:05:00,302
 you can feel it looking at you,
 
 77
-00:05:04,137 --> 00:05:07,306
+00:05:01,137 --> 00:05:04,306
 trying to figure out
 what the heck you are.
 
 78
-00:05:09,909 --> 00:05:12,346
+00:05:06,909 --> 00:05:09,346
 [James Cameron] But
 they won't have long.
 
 79
-00:05:15,581 --> 00:05:19,585
+00:05:12,581 --> 00:05:16,585
 Sperm whales spend just 20%
 of their lives at the surface.
 
 80
-00:05:27,827 --> 00:05:30,998
+00:05:24,827 --> 00:05:27,998
 [Aldo Kane] When
 they dive, it's phenomenal.
 
 81
-00:05:34,735 --> 00:05:38,938
+00:05:31,735 --> 00:05:35,938
 One swoosh of their
 tail and they are gone.
 
 82
-00:05:47,146 --> 00:05:49,148
+00:05:44,146 --> 00:05:46,148
 [James Cameron] These whales
 are diving a mile deep for up
 
 83
-00:05:49,182 --> 00:05:51,684
+00:05:46,182 --> 00:05:48,684
 to an hour at a time.
 
 84
-00:05:51,918 --> 00:05:54,922
+00:05:48,918 --> 00:05:51,922
 The buoyancy of their huge
 lungs and the thick blubber
 
 85
-00:05:54,954 --> 00:05:57,623
+00:05:51,954 --> 00:05:54,623
 should make that
 almost impossible,
 
 86
-00:05:57,657 --> 00:06:01,594
+00:05:54,657 --> 00:05:58,594
 but not only do they manage it
 they make it look effortless.
 
 87
-00:06:01,894 --> 00:06:07,534
+00:05:58,894 --> 00:06:04,534
 [clicking]
 
 88
-00:06:08,601 --> 00:06:12,806
+00:06:05,601 --> 00:06:09,806
 But exactly how they dive
 so deep has never been filmed.
 
 89
-00:06:12,840 --> 00:06:16,577
+00:06:09,840 --> 00:06:13,577
 [clicking]
 
 90
-00:06:17,478 --> 00:06:20,847
+00:06:14,478 --> 00:06:17,847
 If the team can get
 a camera on a whale it
 
 91
-00:06:20,880 --> 00:06:23,050
+00:06:17,880 --> 00:06:20,050
 could further
 their understanding.
 
 92
-00:06:26,119 --> 00:06:29,422
+00:06:23,119 --> 00:06:26,422
 They recruit the
 help of Rui Prieto.
 
 93
-00:06:29,456 --> 00:06:31,525
+00:06:26,456 --> 00:06:28,525
 A world leading whale biologist,
 
 94
-00:06:31,557 --> 00:06:34,961
+00:06:28,557 --> 00:06:31,961
 he's been studying them in
 the Azores for over 20 years.
 
 95
-00:06:37,864 --> 00:06:41,702
+00:06:34,864 --> 00:06:38,702
 [Rui Prieto] We want to see what
 they are actually doing, uh,
 
 96
-00:06:41,735 --> 00:06:43,871
+00:06:38,735 --> 00:06:40,871
 while they are underwater.
 
 97
-00:06:44,338 --> 00:06:46,507
+00:06:41,338 --> 00:06:43,507
 [James Cameron] Eric sets
 to work helping Rui build
 
 98
-00:06:46,539 --> 00:06:49,543
+00:06:43,539 --> 00:06:46,543
 a camera tag that can
 withstand the immense pressure
 
 99
-00:06:49,576 --> 00:06:51,677
+00:06:46,576 --> 00:06:48,677
 of a sperm whale dive.
 
 100
-00:06:52,378 --> 00:06:56,516
+00:06:49,378 --> 00:06:53,516
 [Eric Stackpole] Okay, so this
 is the power system and then,
 
 101
-00:06:56,550 --> 00:06:57,583
+00:06:53,550 --> 00:06:54,583
 we've just got
 the little camera.
 
 102
-00:06:57,784 --> 00:06:59,920
+00:06:54,784 --> 00:06:56,920
 You know, the whole thing
 looks pretty simple but I mean
 
 103
-00:06:59,952 --> 00:07:01,688
+00:06:56,952 --> 00:06:58,688
 the thing that keeps going
 through my mind is, you know,
 
 104
-00:07:01,722 --> 00:07:05,092
+00:06:58,722 --> 00:07:02,092
 we're gonna have, you know,
 maybe one window and one chance
 
 105
-00:07:05,125 --> 00:07:07,094
+00:07:02,125 --> 00:07:04,094
 of putting this
 together the right way.
 
 106
-00:07:07,126 --> 00:07:09,797
+00:07:04,126 --> 00:07:06,797
 [Rui Prieto] So do you think
 that's something we can do?
 
 107
-00:07:09,829 --> 00:07:10,864
+00:07:06,829 --> 00:07:07,864
 [Eric Stackpole]
 Fingers crossed, right?
 
 108
-00:07:10,898 --> 00:07:12,800
+00:07:07,898 --> 00:07:09,800
 I guess we'll find out.
 
 109
-00:07:14,134 --> 00:07:15,235
+00:07:11,134 --> 00:07:12,235
 [James Cameron] If
 they can pull this off,
 
 110
-00:07:15,268 --> 00:07:17,538
+00:07:12,268 --> 00:07:14,538
 they'll get the
 first ever footage
 
 111
-00:07:17,570 --> 00:07:20,706
+00:07:14,570 --> 00:07:17,706
 of a deep sperm whale
 dive in the Azores.
 
 112
-00:07:25,112 --> 00:07:27,047
+00:07:22,112 --> 00:07:24,047
 -Can you swing it?
 -Yeah.
 
 113
-00:07:27,079 --> 00:07:30,117
+00:07:24,079 --> 00:07:27,117
 [Rui Prieto] Let's turn
 a whale into a cameraman.
 
 114
-00:07:31,985 --> 00:07:33,719
+00:07:28,985 --> 00:07:30,719
 [Crew] <i>You have a green light.</i>
 
 115
-00:07:33,753 --> 00:07:34,855
+00:07:30,753 --> 00:07:31,855
 [Pilot] <i>Copy green light.</i>
 
 116
-00:07:34,887 --> 00:07:36,556
+00:07:31,887 --> 00:07:33,556
 <i> Green deck we're off.</i>
 
 117
-00:07:40,827 --> 00:07:43,262
+00:07:37,827 --> 00:07:40,262
 [Rui Prieto] We need to
 start looking for blows, okay?
 
 118
-00:07:43,297 --> 00:07:45,032
+00:07:40,297 --> 00:07:42,032
 -Yeah.
 -Yeah.
 
 119
-00:07:50,971 --> 00:07:52,139
+00:07:47,971 --> 00:07:49,139
 [Eric Stackpole] <i>Oh looks</i>
 <i> like there could be</i>
 
 120
-00:07:52,172 --> 00:07:53,873
+00:07:49,172 --> 00:07:50,873
 <i> something over there.</i>
 
 121
-00:07:54,373 --> 00:07:57,677
+00:07:51,373 --> 00:07:54,677
 <i> Four, five, six,</i>
 <i> seven, eight, nine, ten.</i>
 
 122
-00:07:57,710 --> 00:07:59,813
+00:07:54,710 --> 00:07:56,813
 <i> I count 11 whales here.</i>
 
 123
-00:07:59,847 --> 00:08:02,114
+00:07:56,847 --> 00:07:59,114
 <i> All in a tight cluster.</i>
 
 124
-00:08:02,148 --> 00:08:03,016
+00:07:59,148 --> 00:08:00,016
 <i> Okay, here we go.</i>
 
 125
-00:08:03,217 --> 00:08:05,952
+00:08:00,217 --> 00:08:02,952
 <i> 2:00, 2:00, you should</i>
 <i> have a pretty good eye.</i>
 
 126
-00:08:05,985 --> 00:08:07,954
+00:08:02,985 --> 00:08:04,954
 <i> 300-400 meters.</i>
 
 127
-00:08:12,192 --> 00:08:14,862
+00:08:09,192 --> 00:08:11,862
 [Rui Prieto] Breaching.
 
 128
-00:08:15,829 --> 00:08:18,231
+00:08:12,829 --> 00:08:15,231
 [Melissa Márquez] No, ho, oh!
 
 129
-00:08:18,831 --> 00:08:20,667
+00:08:15,831 --> 00:08:17,667
 We think breaching
 might be a form of
 
 130
-00:08:20,699 --> 00:08:23,034
+00:08:17,699 --> 00:08:20,034
 communication between
 a sperm whale family,
 
 131
-00:08:23,069 --> 00:08:25,671
+00:08:20,069 --> 00:08:22,671
 however sometimes it might just
 be the teenagers fooling around
 
 132
-00:08:25,704 --> 00:08:27,974
+00:08:22,704 --> 00:08:24,974
 and you know,
 blowing off some steam.
 
 133
-00:08:30,610 --> 00:08:33,746
+00:08:27,610 --> 00:08:30,746
 [Rui Prieto] Let's
 go there very slowly.
 
 134
-00:08:33,779 --> 00:08:36,750
+00:08:30,779 --> 00:08:33,750
 Slow and steady wins the race.
 
 135
-00:08:37,417 --> 00:08:38,985
+00:08:34,417 --> 00:08:35,985
 [Aldo Kane] Is that speed okay?
 
 136
-00:08:39,018 --> 00:08:40,587
+00:08:36,018 --> 00:08:37,587
 [Rui Prieto] Need to gain
 a little bit on them because
 
 137
-00:08:40,619 --> 00:08:42,322
+00:08:37,619 --> 00:08:39,322
 they are almost diving.
 
 138
-00:08:42,355 --> 00:08:45,157
+00:08:39,355 --> 00:08:42,157
 [Aldo Kane] When you're piloting
 a boat this close to whales,
 
 139
-00:08:45,192 --> 00:08:48,194
+00:08:42,192 --> 00:08:45,194
 there's absolutely
 no room for error!
 
 140
-00:08:48,228 --> 00:08:50,197
+00:08:45,228 --> 00:08:47,197
 You're dealing
 with a live animal.
 
 141
-00:08:50,229 --> 00:08:53,833
+00:08:47,229 --> 00:08:50,833
 So the whole thing
 has to be 110% perfect
 
 142
-00:08:53,865 --> 00:08:56,034
+00:08:50,865 --> 00:08:53,034
 or it's an aborted mission.
 
 143
-00:08:58,271 --> 00:09:00,038
+00:08:55,271 --> 00:08:57,038
 That's it.
 
 144
-00:09:07,146 --> 00:09:09,782
+00:09:04,146 --> 00:09:06,782
 -Well done.
 -Well done dude. Tag on.
 
 145
-00:09:10,751 --> 00:09:13,252
+00:09:07,751 --> 00:09:10,252
 [Aldo Kane] <i>OceanXplorer</i>
 this is <i>Eagle Ray</i> over.
 
 146
-00:09:13,286 --> 00:09:14,654
+00:09:10,286 --> 00:09:11,654
 [Crew] <i>Eagle Ray, OceanXplorer.</i>
 
 147
-00:09:14,688 --> 00:09:16,288
+00:09:11,688 --> 00:09:13,288
 <i> Go ahead.</i>
 
 148
-00:09:16,322 --> 00:09:20,193
+00:09:13,322 --> 00:09:17,193
 [Aldo Kane] Tag deployed and we
 will mark location on the GPS.
 
 149
-00:09:20,225 --> 00:09:22,194
+00:09:17,225 --> 00:09:19,194
 [Crew] <i>Copy that. Nice work!</i>
 
 150
-00:09:24,398 --> 00:09:26,132
+00:09:21,398 --> 00:09:23,132
 [James Cameron] The tag
 is designed to release after
 
 151
-00:09:26,166 --> 00:09:30,904
+00:09:23,166 --> 00:09:27,904
 eight hours, and send a signal
 to help the team locate it,
 
 152
-00:09:30,938 --> 00:09:33,340
+00:09:27,938 --> 00:09:30,340
 somewhere in the
 middle of the Atlantic.
 
 153
-00:09:37,377 --> 00:09:39,813
+00:09:34,377 --> 00:09:36,813
 [Eric Stackpole] It is
 an intense feeling to spend
 
 154
-00:09:39,845 --> 00:09:42,882
+00:09:36,845 --> 00:09:39,882
 all this time on something
 and then watch it just go into
 
 155
-00:09:42,916 --> 00:09:45,283
+00:09:39,916 --> 00:09:42,283
 the abyss on the
 back of a whale.
 
 156
-00:09:45,618 --> 00:09:51,091
+00:09:42,618 --> 00:09:48,091
 [beeping]
 
 157
-00:09:51,123 --> 00:09:53,592
+00:09:48,123 --> 00:09:50,592
 <i> Oh what's this</i>
 <i> directly in front of us?</i>
 
 158
-00:09:55,729 --> 00:09:58,899
+00:09:52,729 --> 00:09:55,899
 [Aldo Kane] <i>Confirm you</i>
 <i> have visual on the tag?</i>
 
 159
-00:09:58,930 --> 00:10:00,634
+00:09:55,930 --> 00:09:57,634
 [Eric Stackpole] <i>Affirmative</i>
 <i> we're looking at something</i>
 
 160
-00:10:00,667 --> 00:10:02,768
+00:09:57,667 --> 00:09:59,768
 <i> orange in the water,</i>
 <i> it could be the tag.</i>
 
 161
-00:10:03,770 --> 00:10:04,604
+00:10:00,770 --> 00:10:01,604
 [Aldo Kane] <i>Roger that...</i>
 
 162
-00:10:04,804 --> 00:10:07,841
+00:10:01,804 --> 00:10:04,841
 We are making our way to
 your location now, over.
 
 163
-00:10:09,775 --> 00:10:11,211
+00:10:06,775 --> 00:10:08,211
 [Melissa Márquez] Oh I see it!
 
 164
-00:10:11,243 --> 00:10:13,646
+00:10:08,243 --> 00:10:10,646
 [Aldo Kane] We have
 visual on the tag.
 
 165
-00:10:16,282 --> 00:10:17,984
+00:10:13,282 --> 00:10:14,984
 [Melissa Márquez]
 Little bit more Aldo.
 
 166
-00:10:18,016 --> 00:10:19,819
+00:10:15,016 --> 00:10:16,819
 Yeah, there you go. Right there.
 
 167
-00:10:19,853 --> 00:10:22,655
+00:10:16,853 --> 00:10:19,655
 -You got it? Heavy.
 -Yep got it.
 
 168
-00:10:25,458 --> 00:10:28,260
+00:10:22,458 --> 00:10:25,260
 [Eric Stackpole] <i>I'm dying to</i>
 <i> know. How does the tag look?</i>
 
 169
-00:10:28,295 --> 00:10:30,261
+00:10:25,295 --> 00:10:27,261
 [Aldo Kane] The tag does
 look in good condition and
 
 170
-00:10:30,296 --> 00:10:32,364
+00:10:27,296 --> 00:10:29,364
 the camera looks
 like it is still dry.
 
 171
-00:10:32,399 --> 00:10:33,734
+00:10:29,399 --> 00:10:30,734
 [Eric Stackpole] Yes!
 
 172
-00:10:33,765 --> 00:10:35,967
+00:10:30,765 --> 00:10:32,967
 <i> All right, great job guys.</i>
 
 173
-00:10:42,140 --> 00:10:43,443
+00:10:39,140 --> 00:10:40,443
 [Eric Stackpole]
 Should I cut this?
 
 174
-00:10:43,475 --> 00:10:45,077
+00:10:40,475 --> 00:10:42,077
 [Rui Prieto] Yes, please.
 
 175
-00:10:45,112 --> 00:10:49,815
+00:10:42,112 --> 00:10:46,815
 Now, it could be some water
 inside so we need to be careful.
 
 176
-00:10:49,849 --> 00:10:52,952
+00:10:46,849 --> 00:10:49,952
 Very slowly. Very carefully.
 
 177
-00:10:52,985 --> 00:10:54,286
+00:10:49,985 --> 00:10:51,286
 [Eric Stackpole] I'm like,
 excited and nervous
 
 178
-00:10:54,320 --> 00:10:55,787
+00:10:51,320 --> 00:10:52,787
 at the same time, you know,
 
 179
-00:10:55,822 --> 00:10:57,222
+00:10:52,822 --> 00:10:54,222
 like did everything
 work properly?
 
 180
-00:10:57,256 --> 00:10:58,358
+00:10:54,256 --> 00:10:55,358
 Did the batteries last?
 
 181
-00:10:58,390 --> 00:11:00,158
+00:10:55,390 --> 00:10:57,158
 [Rui Prieto] Yes. Yes.
 
 182
-00:11:00,193 --> 00:11:02,061
+00:10:57,193 --> 00:10:59,061
 -Got it?
 -Take it off.
 
 183
-00:11:02,094 --> 00:11:04,296
+00:10:59,094 --> 00:11:01,296
 [Rui Prieto] It's dry. Okay.
 
 184
-00:11:04,329 --> 00:11:06,032
+00:11:01,329 --> 00:11:03,032
 [Eric Stackpole] And
 then there's our SD card.
 
 185
-00:11:06,065 --> 00:11:07,900
+00:11:03,065 --> 00:11:04,900
 -You got it?
 -I, I got it.
 
 186
-00:11:07,932 --> 00:11:08,801
+00:11:04,932 --> 00:11:05,801
 [Rui Prieto] This is it.
 
 187
-00:11:09,069 --> 00:11:12,704
+00:11:06,069 --> 00:11:09,704
 This is what we've been
 working all this time for.
 
 188
-00:11:12,738 --> 00:11:15,042
+00:11:09,738 --> 00:11:12,042
 Let's plug this to
 the computer and see.
 
 189
-00:11:15,073 --> 00:11:16,809
+00:11:12,073 --> 00:11:13,809
 -Okay, yeah.
 -Okay.
 
 190
-00:11:19,145 --> 00:11:22,347
+00:11:16,145 --> 00:11:19,347
 [Rui Prieto] Anything that
 comes off this thing is new.
 
 191
-00:11:26,051 --> 00:11:27,319
+00:11:23,051 --> 00:11:24,319
 [gasps]
 
 192
-00:11:27,354 --> 00:11:28,787
+00:11:24,354 --> 00:11:25,787
 [Eric Stackpole] Oh my God!
 
 193
-00:11:28,822 --> 00:11:30,923
+00:11:25,822 --> 00:11:27,923
 [laughs]
 
 194
-00:11:34,060 --> 00:11:36,828
+00:11:31,060 --> 00:11:33,828
 [Rui Prieto] That's the, the
 blowhole and it's going down
 
 195
-00:11:36,863 --> 00:11:39,431
+00:11:33,863 --> 00:11:36,431
 because it's,
 it's getting darker.
 
 196
-00:11:40,099 --> 00:11:41,801
+00:11:37,099 --> 00:11:38,801
 [James Cameron] As
 they dive, sperm whales
 
 197
-00:11:41,835 --> 00:11:44,302
+00:11:38,835 --> 00:11:41,302
 undergo an
 incredible transformation.
 
 198
-00:11:46,872 --> 00:11:49,509
+00:11:43,872 --> 00:11:46,509
 The pressure of the water
 compresses their lungs and
 
 199
-00:11:49,542 --> 00:11:51,510
+00:11:46,542 --> 00:11:48,510
 with less volume inside,
 
 200
-00:11:51,545 --> 00:11:53,947
+00:11:48,545 --> 00:11:50,947
 they become less buoyant,
 
 201
-00:11:53,979 --> 00:11:57,349
+00:11:50,979 --> 00:11:54,349
 allowing them to dive
 faster with minimum effort.
 
 202
-00:11:59,784 --> 00:12:02,322
+00:11:56,784 --> 00:11:59,322
 As she dives faster, the
 force of the water pushes
 
 203
-00:12:02,354 --> 00:12:04,390
+00:11:59,354 --> 00:12:01,390
 the camera sideways.
 
 204
-00:12:06,259 --> 00:12:09,895
+00:12:03,259 --> 00:12:06,895
 At 450 feet it flips.
 
 205
-00:12:11,030 --> 00:12:14,167
+00:12:08,030 --> 00:12:11,167
 -It's pointing backward?
 -Yes, it's pointing backwards.
 
 206
-00:12:14,801 --> 00:12:18,904
+00:12:11,801 --> 00:12:15,904
 [Rui Prieto] We can
 actually see the flukes beating.
 
 207
-00:12:21,806 --> 00:12:24,243
+00:12:18,806 --> 00:12:21,243
 [James Cameron] Eric and Rui
 are the first people ever to see
 
 208
-00:12:24,277 --> 00:12:27,814
+00:12:21,277 --> 00:12:24,814
 a sperm whale use its
 body and tail flukes to dive
 
 209
-00:12:27,846 --> 00:12:29,515
+00:12:24,846 --> 00:12:26,515
 into the deep.
 
 210
-00:12:30,349 --> 00:12:32,853
+00:12:27,349 --> 00:12:29,853
 [Rui Prieto] I'm learning a
 lot about how they actually
 
 211
-00:12:32,885 --> 00:12:35,887
+00:12:29,885 --> 00:12:32,887
 flex their, their flukes.
 
 212
-00:12:35,921 --> 00:12:38,823
+00:12:32,921 --> 00:12:35,823
 It's very slow. It's very calm.
 
 213
-00:12:43,529 --> 00:12:47,932
+00:12:40,529 --> 00:12:44,932
 [James Cameron] Then at 900 feet
 the whale's behavior changes.
 
 214
-00:12:48,868 --> 00:12:50,337
+00:12:45,868 --> 00:12:47,337
 [Eric Stackpole] Look,
 the tail's stopped moving.
 
 215
-00:12:50,368 --> 00:12:52,470
+00:12:47,368 --> 00:12:49,470
 [Rui Prieto] Yeah it's,
 it, it's called gliding.
 
 216
-00:12:52,506 --> 00:12:55,375
+00:12:49,506 --> 00:12:52,375
 They use the, the, the
 momentum that they have
 
 217
-00:12:55,407 --> 00:12:57,408
+00:12:52,407 --> 00:12:54,408
 to glide and keep energy.
 
 218
-00:12:57,444 --> 00:12:59,546
+00:12:54,444 --> 00:12:56,546
 -I see.
 -And I've, I've never seen it.
 
 219
-00:12:59,578 --> 00:13:02,515
+00:12:56,578 --> 00:12:59,515
 [Rui Prieto] So it,
 it, it's just amazing.
 
 220
-00:13:05,184 --> 00:13:06,819
+00:13:02,184 --> 00:13:03,819
 [James Cameron] Its tail
 may have stopped moving but
 
 221
-00:13:06,853 --> 00:13:09,054
+00:13:03,853 --> 00:13:06,054
 this whale is still diving.
 
 222
-00:13:10,422 --> 00:13:12,958
+00:13:07,422 --> 00:13:09,958
 With gravity doing the work,
 
 223
-00:13:12,992 --> 00:13:16,229
+00:13:09,992 --> 00:13:13,229
 it can save energy and
 preserve precious oxygen.
 
 224
-00:13:16,261 --> 00:13:21,199
+00:13:13,261 --> 00:13:18,199
 [clicking]
 
 225
-00:13:21,234 --> 00:13:22,335
+00:13:18,234 --> 00:13:19,335
 [Rui Prieto] Listen.
 
 226
-00:13:22,368 --> 00:13:24,404
+00:13:19,368 --> 00:13:21,404
 [clicking]
 
 227
-00:13:24,436 --> 00:13:25,838
+00:13:21,436 --> 00:13:22,838
 [Eric Stackpole] It's hunting.
 This is the hunting sound.
 
 228
-00:13:25,871 --> 00:13:27,238
+00:13:22,871 --> 00:13:24,238
 [Rui Prieto] Yeah.
 
 229
-00:13:28,407 --> 00:13:31,409
+00:13:25,407 --> 00:13:28,409
 [James Cameron] Sperm whales
 use sound to hunt in the dark.
 
 230
-00:13:31,444 --> 00:13:34,947
+00:13:28,444 --> 00:13:31,947
 [clicking]
 
 231
-00:13:34,980 --> 00:13:38,484
+00:13:31,980 --> 00:13:35,484
 When their sonar clicks
 hit an object and bounce back,
 
 232
-00:13:38,516 --> 00:13:41,386
+00:13:35,516 --> 00:13:38,386
 the whale can locate a
 target over a mile away.
 
 233
-00:13:41,421 --> 00:13:48,260
+00:13:38,421 --> 00:13:45,260
 [clicking]
 
 234
-00:13:50,396 --> 00:13:51,463
+00:13:47,396 --> 00:13:48,463
 [Eric Stackpole] It's getting
 lighter in the background
 
 235
-00:13:51,497 --> 00:13:52,264
+00:13:48,497 --> 00:13:49,264
 you notice that?
 
 236
-00:13:52,798 --> 00:13:55,100
+00:13:49,798 --> 00:13:52,100
 [Rui Prieto] Yeah. Yeah. The,
 the water is becoming clearer.
 
 237
-00:13:55,135 --> 00:13:56,868
+00:13:52,135 --> 00:13:53,868
 [James Cameron]
 No luck this time,
 
 238
-00:13:56,903 --> 00:14:00,105
+00:13:53,903 --> 00:13:57,105
 so the whale begins its
 journey back to the surface.
 
 239
-00:14:00,139 --> 00:14:04,610
+00:13:57,139 --> 00:14:01,610
 [rapid clicking]
 
 240
-00:14:05,110 --> 00:14:06,479
+00:14:02,110 --> 00:14:03,479
 [Eric Stackpole]
 I hear a different,
 
 241
-00:14:06,511 --> 00:14:08,012
+00:14:03,511 --> 00:14:05,012
 a slightly higher
 pitched clicking.
 
 242
-00:14:08,047 --> 00:14:09,515
+00:14:05,047 --> 00:14:06,515
 [Rui Prieto] Yes. It was a coda.
 
 243
-00:14:09,548 --> 00:14:12,252
+00:14:06,548 --> 00:14:09,252
 [rapid clicking]
 
 244
-00:14:12,283 --> 00:14:13,551
+00:14:09,283 --> 00:14:10,551
 [Eric Stackpole] It's
 communicating with its family
 
 245
-00:14:13,587 --> 00:14:16,256
+00:14:10,587 --> 00:14:13,256
 just like morse code for whales!
 
 246
-00:14:16,287 --> 00:14:18,990
+00:14:13,287 --> 00:14:15,990
 [rapid clicking]
 
 247
-00:14:19,024 --> 00:14:20,292
+00:14:16,024 --> 00:14:17,292
 [Rui Prieto] Another one.
 
 248
-00:14:20,326 --> 00:14:22,895
+00:14:17,326 --> 00:14:19,895
 Someone is answering.
 
 249
-00:14:23,395 --> 00:14:26,166
+00:14:20,395 --> 00:14:23,166
 [James Cameron] Each family
 unit has a unique, "Coda,"
 
 250
-00:14:26,198 --> 00:14:28,467
+00:14:23,198 --> 00:14:25,467
 that can be heard
 from up to two miles away.
 
 251
-00:14:28,501 --> 00:14:29,603
+00:14:25,501 --> 00:14:26,603
 [clicking]
 
 252
-00:14:29,635 --> 00:14:32,605
+00:14:26,635 --> 00:14:29,605
 -Wow, two, two! Two.
 -Two! Another one!
 
 253
-00:14:33,773 --> 00:14:36,475
+00:14:30,773 --> 00:14:33,475
 [James Cameron] This is how
 a surfacing whale reconnects
 
 254
-00:14:36,509 --> 00:14:38,478
+00:14:33,509 --> 00:14:35,478
 with its family.
 
 255
-00:14:38,844 --> 00:14:41,412
+00:14:35,844 --> 00:14:38,412
 [clicking]
 
 256
-00:14:41,447 --> 00:14:43,048
+00:14:38,447 --> 00:14:40,048
 [Rui Prieto] So
 you hear the coda's,
 
 257
-00:14:43,082 --> 00:14:44,115
+00:14:40,082 --> 00:14:41,115
 and then the other one comes in.
 
 258
-00:14:44,350 --> 00:14:46,518
+00:14:41,350 --> 00:14:43,518
 [Eric Stackpole] Yeah. Yeah.
 Do we know that they do this?
 
 259
-00:14:46,551 --> 00:14:50,090
+00:14:43,551 --> 00:14:47,090
 [Rui Prieto] We know that they
 talk to each other using codas,
 
 260
-00:14:50,122 --> 00:14:53,057
+00:14:47,122 --> 00:14:50,057
 but I've never seen
 them come together.
 
 261
-00:14:53,658 --> 00:14:56,296
+00:14:50,658 --> 00:14:53,296
 [clicking]
 
 262
-00:15:01,734 --> 00:15:04,671
+00:14:58,734 --> 00:15:01,671
 [Eric Stackpole] Oh! I
 can't believe we got this all.
 
 263
-00:15:05,005 --> 00:15:09,442
+00:15:02,005 --> 00:15:06,442
 [clicking]
 
 264
-00:15:10,975 --> 00:15:14,046
+00:15:07,975 --> 00:15:11,046
 [Rui Prieto] They are
 completely interacting.
 
 265
-00:15:18,283 --> 00:15:21,488
+00:15:15,283 --> 00:15:18,488
 Nothing like that
 has ever been filmed.
 
 266
-00:15:25,625 --> 00:15:27,993
+00:15:22,625 --> 00:15:24,993
 It's just amazing.
 
 267
-00:15:34,432 --> 00:15:36,268
+00:15:31,432 --> 00:15:33,268
 [Eric Stackpole] We're
 seeing something that has
 
 268
-00:15:36,301 --> 00:15:38,470
+00:15:33,301 --> 00:15:35,470
 never been seen before.
 
 269
-00:15:38,505 --> 00:15:41,608
+00:15:35,505 --> 00:15:38,608
 These huge whales, going to a
 part of the world that we know
 
 270
-00:15:41,640 --> 00:15:45,010
+00:15:38,640 --> 00:15:42,010
 almost nothing about and
 we get a first person view.
 
 271
-00:15:45,045 --> 00:15:48,579
+00:15:42,045 --> 00:15:45,579
 I'm right next to Rui and he's
 spent his entire life trying to
 
 272
-00:15:48,613 --> 00:15:50,382
+00:15:45,613 --> 00:15:47,382
 understand these animals
 and this is something
 
 273
-00:15:50,417 --> 00:15:52,618
+00:15:47,417 --> 00:15:49,618
 he's never seen before.
 
 274
-00:16:08,134 --> 00:16:13,738
+00:16:05,134 --> 00:16:10,738
 [♪ whimsical music plays]
 
 275
-00:16:13,773 --> 00:16:16,074
+00:16:10,773 --> 00:16:13,074
 [James Cameron] Once back at
 the surface some sperm whales
 
 276
-00:16:16,109 --> 00:16:18,577
+00:16:13,109 --> 00:16:15,577
 spend their time socializing.
 
 277
-00:16:25,150 --> 00:16:28,087
+00:16:22,150 --> 00:16:25,087
 Re-establishing family bonds.
 
 278
-00:16:42,434 --> 00:16:46,072
+00:16:39,434 --> 00:16:43,072
 Others grab a quick power nap.
 
 279
-00:16:57,448 --> 00:17:00,452
+00:16:54,448 --> 00:16:57,452
 But their time
 together is brief.
 
 280
-00:17:04,757 --> 00:17:07,760
+00:17:01,757 --> 00:17:04,760
 After just 15 minutes,
 they'll dive again,
 
 281
-00:17:07,793 --> 00:17:11,497
+00:17:04,793 --> 00:17:08,497
 in their
 never-ending pursuit of prey.
 
 282
-00:17:21,106 --> 00:17:25,110
+00:17:18,106 --> 00:17:22,110
 Sperm whales eat up
 to a ton of squid a day.
 
 283
-00:17:26,613 --> 00:17:29,448
+00:17:23,613 --> 00:17:26,448
 And with nearly
 1,000 sperm whales here,
 
 284
-00:17:29,481 --> 00:17:31,783
+00:17:26,481 --> 00:17:28,783
 that's a lot of squid.
 
 285
-00:17:34,118 --> 00:17:37,189
+00:17:31,118 --> 00:17:34,189
 So what kind of squid are
 hiding down there in the depths
 
 286
-00:17:37,221 --> 00:17:40,426
+00:17:34,221 --> 00:17:37,426
 that could satisfy
 such voracious appetites?
 
 287
-00:17:40,460 --> 00:17:44,296
+00:17:37,460 --> 00:17:41,296
 To find out, the team need
 to get down there themselves.
 
 288
-00:17:51,671 --> 00:17:54,106
+00:17:48,671 --> 00:17:51,106
 [James Cameron] The
 mission will be led by Zoleka,
 
 289
-00:17:54,139 --> 00:17:56,809
+00:17:51,139 --> 00:17:53,809
 the <i>OceanXplorers'</i>
 deep sea researcher.
 
 290
-00:18:04,216 --> 00:18:05,617
+00:18:01,216 --> 00:18:02,617
 [Zoleka Filander]
 For this mission,
 
 291
-00:18:05,652 --> 00:18:08,453
+00:18:02,652 --> 00:18:05,453
 I'm partnering with Edie Widder,
 
 292
-00:18:08,488 --> 00:18:11,858
+00:18:05,488 --> 00:18:08,858
 one of the world's most
 experienced deep sea biologists.
 
 293
-00:18:12,859 --> 00:18:16,161
+00:18:09,859 --> 00:18:13,161
 -You ready to dive?
 -Yes!
 
 294
-00:18:18,797 --> 00:18:22,569
+00:18:15,797 --> 00:18:19,569
 [Pilot] <i>SO Neptune, we</i>
 <i> are ready to shut hatches.</i>
 
 295
-00:18:24,570 --> 00:18:27,774
+00:18:21,570 --> 00:18:24,774
 [Crew] <i>SO Bridge.</i>
 <i> You are clear to roll sub out.</i>
 
 296
-00:18:31,243 --> 00:18:32,779
+00:18:28,243 --> 00:18:29,779
 [James Cameron] Edie's
 been pushing the envelope in
 
 297
-00:18:32,811 --> 00:18:36,114
+00:18:29,811 --> 00:18:33,114
 ocean exploration
 for over 40 years.
 
 298
-00:18:36,748 --> 00:18:39,451
+00:18:33,748 --> 00:18:36,451
 [Pilot] That's
 <i> Neptune</i> in the water.
 
 299
-00:18:39,485 --> 00:18:41,421
+00:18:36,485 --> 00:18:38,421
 Venting now.
 
 300
-00:18:53,198 --> 00:18:56,635
+00:18:50,198 --> 00:18:53,635
 <i> Depth 2.0 meters.</i>
 <i> Vents secure, descending over.</i>
 
 301
-00:19:00,506 --> 00:19:02,908
+00:18:57,506 --> 00:18:59,908
 [Zoleka Filander] Every
 time we dive into the deep,
 
 302
-00:19:02,942 --> 00:19:05,377
+00:18:59,942 --> 00:19:02,377
 we are heading into the unknown.
 
 303
-00:19:08,648 --> 00:19:12,350
+00:19:05,648 --> 00:19:09,350
 [Edith Widder] We are explorers
 and this is our spaceship.
 
 304
-00:19:16,355 --> 00:19:17,623
+00:19:13,355 --> 00:19:14,623
 [James Cameron] 600 feet down
 
 305
-00:19:17,655 --> 00:19:20,292
+00:19:14,655 --> 00:19:17,292
 the team enters
 the twilight zone.
 
 306
-00:19:25,930 --> 00:19:28,635
+00:19:22,930 --> 00:19:25,635
 A world dominated by darkness,
 
 307
-00:19:30,770 --> 00:19:33,204
+00:19:27,770 --> 00:19:30,204
 and alien creatures.
 
 308
-00:19:38,978 --> 00:19:40,279
+00:19:35,978 --> 00:19:37,279
 [Edith Widder] Oh look at that.
 
 309
-00:19:40,313 --> 00:19:41,913
+00:19:37,313 --> 00:19:38,913
 Look at that.
 
 310
-00:19:42,280 --> 00:19:44,417
+00:19:39,280 --> 00:19:41,417
 [Zoleka Filander]
 What are you seeing?
 
 311
-00:19:45,617 --> 00:19:47,886
+00:19:42,617 --> 00:19:44,886
 [James Cameron]
 It's a glass squid.
 
 312
-00:19:47,921 --> 00:19:50,454
+00:19:44,921 --> 00:19:47,454
 A rare sighting.
 
 313
-00:20:03,268 --> 00:20:07,305
+00:20:00,268 --> 00:20:04,305
 [Edith Widder] Being transparent
 that's a defense mechanism.
 
 314
-00:20:08,841 --> 00:20:11,944
+00:20:05,841 --> 00:20:08,944
 It's such an amazing adaptation.
 
 315
-00:20:11,978 --> 00:20:13,779
+00:20:08,978 --> 00:20:10,779
 You see it a lot in the ocean,
 
 316
-00:20:13,813 --> 00:20:15,948
+00:20:10,813 --> 00:20:12,948
 but you don't
 see it much on land.
 
 317
-00:20:23,889 --> 00:20:25,556
+00:20:20,889 --> 00:20:22,556
 [James Cameron] At 1500 feet,
 
 318
-00:20:25,591 --> 00:20:28,228
+00:20:22,591 --> 00:20:25,228
 they find even
 more signs of life.
 
 319
-00:20:28,926 --> 00:20:30,828
+00:20:25,926 --> 00:20:27,828
 -What is that?
 -Where? Where?
 
 320
-00:20:30,863 --> 00:20:32,966
+00:20:27,863 --> 00:20:29,966
 [Edith Widder] Look, turn to
 the right, turn to the right.
 
 321
-00:20:32,998 --> 00:20:35,501
+00:20:29,998 --> 00:20:32,501
 [Zoleka Filander]
 It's ink. But it's so much.
 
 322
-00:20:35,533 --> 00:20:37,436
+00:20:32,533 --> 00:20:34,436
 [Edith Widder] Oh my God!
 
 323
-00:20:39,605 --> 00:20:42,341
+00:20:36,605 --> 00:20:39,341
 [Pilot] <i>Oh yeah. That's</i>
 <i> a massive plume of ink.</i>
 
 324
-00:20:43,641 --> 00:20:45,743
+00:20:40,641 --> 00:20:42,743
 [Zoleka Filander]
 Where is the squid though?
 
 325
-00:20:46,145 --> 00:20:48,447
+00:20:43,145 --> 00:20:45,447
 -Oh squid.
 -Squid!
 
 326
-00:20:48,913 --> 00:20:50,716
+00:20:45,913 --> 00:20:47,716
 [James Cameron] A bird squid.
 
 327
-00:20:50,750 --> 00:20:52,385
+00:20:47,750 --> 00:20:49,385
 -Hello.
 -Hello.
 
 328
-00:20:52,417 --> 00:20:53,618
+00:20:49,417 --> 00:20:50,618
 [James Cameron] And
 this one has attitude!
 
 329
-00:20:53,653 --> 00:20:56,421
+00:20:50,653 --> 00:20:53,421
 -Oh my gosh.
 -Beautiful. Oh look at it.
 
 330
-00:20:56,454 --> 00:20:58,489
+00:20:53,454 --> 00:20:55,489
 [laughter]
 
 331
-00:21:01,426 --> 00:21:02,927
+00:20:58,426 --> 00:20:59,927
 [Pilot] I think he's
 trying to eat Zoleka.
 
 332
-00:21:02,962 --> 00:21:05,998
+00:20:59,962 --> 00:21:02,998
 [Zoleka Filander]
 Yeah. I'm squid food.
 
 333
-00:21:16,009 --> 00:21:18,676
+00:21:13,009 --> 00:21:15,676
 [James Cameron] As the
 sub dives to 2500 feet,
 
 334
-00:21:18,711 --> 00:21:21,846
+00:21:15,711 --> 00:21:18,846
 Zoleka spots
 something extraordinary.
 
 335
-00:21:22,215 --> 00:21:24,484
+00:21:19,215 --> 00:21:21,484
 [Zoleka Filander] Oh my word.
 
 336
-00:21:24,515 --> 00:21:27,452
+00:21:21,515 --> 00:21:24,452
 Is that a whiplash squid?
 
 337
-00:21:31,090 --> 00:21:33,760
+00:21:28,090 --> 00:21:30,760
 Look how exquisite it is.
 
 338
-00:21:36,029 --> 00:21:37,896
+00:21:33,029 --> 00:21:34,896
 [James Cameron] All squid
 can change color by expanding
 
 339
-00:21:37,929 --> 00:21:42,367
+00:21:34,929 --> 00:21:39,367
 or contracting cells in their
 skin called chromatophores.
 
 340
-00:21:45,537 --> 00:21:47,006
+00:21:42,537 --> 00:21:44,006
 [Zoleka Filander] Do
 you think, do you think
 
 341
-00:21:47,038 --> 00:21:50,342
+00:21:44,038 --> 00:21:47,342
 it's signaling to other squid?
 
 342
-00:21:50,943 --> 00:21:52,911
+00:21:47,943 --> 00:21:49,911
 Yoo!
 
 343
-00:21:53,880 --> 00:21:56,716
+00:21:50,880 --> 00:21:53,716
 Is this an alarm signal?
 
 344
-00:21:57,817 --> 00:22:01,988
+00:21:54,817 --> 00:21:58,988
 How does one even decode
 what we're really seeing here?
 
 345
-00:22:06,693 --> 00:22:10,863
+00:22:03,693 --> 00:22:07,863
 I'd like to think I'm a
 level-headed scientist but wow.
 
 346
-00:22:10,896 --> 00:22:15,766
+00:22:07,896 --> 00:22:12,766
 When you come across
 an encounter like this,
 
 347
-00:22:15,801 --> 00:22:19,404
+00:22:12,801 --> 00:22:16,404
 it's absolutely
 stunning, absolutely stunning.
 
 348
-00:22:20,905 --> 00:22:23,775
+00:22:17,905 --> 00:22:20,775
 This is why we do it Edie.
 
 349
-00:22:24,643 --> 00:22:27,880
+00:22:21,643 --> 00:22:24,880
 [James Cameron] Sperm whales
 do prey on whiplash squid but
 
 350
-00:22:27,912 --> 00:22:31,818
+00:22:24,912 --> 00:22:28,818
 they're so small, they'd need
 to eat thousands every day.
 
 351
-00:22:37,856 --> 00:22:42,528
+00:22:34,856 --> 00:22:39,528
 At 3300 feet, they approach the
 boundary of the midnight zone.
 
 352
-00:22:46,864 --> 00:22:48,801
+00:22:43,864 --> 00:22:45,801
 [Zoleka Filander] The
 midnight zone is pitch black
 
 353
-00:22:48,835 --> 00:22:51,002
+00:22:45,835 --> 00:22:48,002
 and it's freezing.
 
 354
-00:22:51,036 --> 00:22:53,471
+00:22:48,036 --> 00:22:50,471
 But as hostile as this place is,
 
 355
-00:22:53,506 --> 00:22:56,073
+00:22:50,506 --> 00:22:53,073
 this is where the
 sperm whale finds its food.
 
 356
-00:22:56,109 --> 00:22:58,909
+00:22:53,109 --> 00:22:55,909
 So it's important that we
 go take a look down there.
 
 357
-00:23:00,578 --> 00:23:03,582
+00:22:57,578 --> 00:23:00,582
 [James Cameron] But the sub
 reaches its maximum dive depth.
 
 358
-00:23:03,614 --> 00:23:06,152
+00:23:00,614 --> 00:23:03,152
 It can't go any further.
 
 359
-00:23:13,492 --> 00:23:15,761
+00:23:10,492 --> 00:23:12,761
 [Pilot] Control,
 control, <i>Neptune</i>
 
 360
-00:23:15,795 --> 00:23:19,064
+00:23:12,795 --> 00:23:16,064
 passing five zero meters,
 clear to surface.
 
 361
-00:23:29,942 --> 00:23:31,944
+00:23:26,942 --> 00:23:28,944
 [James Cameron] If they want
 to search the midnight zone for
 
 362
-00:23:31,978 --> 00:23:35,180
+00:23:28,978 --> 00:23:32,180
 larger sperm whale prey
 the team will have to
 
 363
-00:23:35,213 --> 00:23:37,783
+00:23:32,213 --> 00:23:34,783
 mobilize the ship's ROV.
 
 364
-00:23:37,817 --> 00:23:40,520
+00:23:34,817 --> 00:23:37,520
 A remotely operated vehicle.
 
 365
-00:23:46,259 --> 00:23:48,493
+00:23:43,259 --> 00:23:45,493
 [Eric Stackpole] The ROV is
 capable of going to depths of
 
 366
-00:23:48,528 --> 00:23:50,061
+00:23:45,528 --> 00:23:47,061
 20,000 feet.
 
 367
-00:23:50,095 --> 00:23:52,863
+00:23:47,095 --> 00:23:49,863
 So getting to 5,000 feet where
 the sperm whales are going,
 
 368
-00:23:52,899 --> 00:23:54,932
+00:23:49,899 --> 00:23:51,932
 should be no problem at all.
 
 369
-00:24:00,672 --> 00:24:02,239
+00:23:57,672 --> 00:23:59,239
 [James Cameron]
 Melissa baits the ROV with
 
 370
-00:24:02,274 --> 00:24:05,176
+00:23:59,274 --> 00:24:02,176
 deep-water squid's
 favorite meal,
 
 371
-00:24:05,211 --> 00:24:07,046
+00:24:02,211 --> 00:24:04,046
 other squid.
 
 372
-00:24:07,078 --> 00:24:10,181
+00:24:04,078 --> 00:24:07,181
 [Melissa Márquez] And that
 is a squid ready to be lifelike
 
 373
-00:24:10,216 --> 00:24:12,516
+00:24:07,216 --> 00:24:09,516
 in the water column.
 
 374
-00:24:29,635 --> 00:24:31,503
+00:24:26,635 --> 00:24:28,503
 [James Cameron] Through
 its tether to the ship,
 
 375
-00:24:31,536 --> 00:24:34,006
+00:24:28,536 --> 00:24:31,006
 the ROV sends
 back a live picture.
 
 376
-00:24:39,311 --> 00:24:41,246
+00:24:36,311 --> 00:24:38,246
 [Eric Stackpole] Exploring
 the deep you often see something
 
 377
-00:24:41,279 --> 00:24:44,082
+00:24:38,279 --> 00:24:41,082
 that you have never seen before,
 but you hope that you're gonna
 
 378
-00:24:44,114 --> 00:24:46,618
+00:24:41,114 --> 00:24:43,618
 see something
 no-one has seen before.
 
 379
-00:24:52,657 --> 00:24:54,092
+00:24:49,657 --> 00:24:51,092
 [Pilot] Lights off.
 
 380
-00:25:01,667 --> 00:25:04,569
+00:24:58,667 --> 00:25:01,569
 [Eric Stackpole] Oh,
 incoming, incoming, here we go.
 
 381
-00:25:05,837 --> 00:25:07,006
+00:25:02,837 --> 00:25:04,006
 -Keep, whoa.
 -Whoa!
 
 382
-00:25:07,037 --> 00:25:08,573
+00:25:04,037 --> 00:25:05,573
 [Edith Widder] What is that?
 
 383
-00:25:12,778 --> 00:25:15,113
+00:25:09,778 --> 00:25:12,113
 [Zoleka Filander]
 Bingo. Kitefin shark.
 
 384
-00:25:17,582 --> 00:25:19,318
+00:25:14,582 --> 00:25:16,318
 [James Cameron] The squid
 lure has drawn in more than
 
 385
-00:25:19,350 --> 00:25:21,219
+00:25:16,350 --> 00:25:18,219
 the team bargained for.
 
 386
-00:25:21,854 --> 00:25:24,189
+00:25:18,854 --> 00:25:21,189
 [Zoleka Filander] He
 looks like a good size.
 
 387
-00:25:25,024 --> 00:25:28,225
+00:25:22,024 --> 00:25:25,225
 These guys can get up to
 like 30 pounds on average.
 
 388
-00:25:28,926 --> 00:25:32,030
+00:25:25,926 --> 00:25:29,030
 Sperm whales, yeah they do
 eat them but actually have
 
 389
-00:25:32,064 --> 00:25:34,099
+00:25:29,064 --> 00:25:31,099
 a preference for squid.
 
 390
-00:25:37,936 --> 00:25:40,704
+00:25:34,936 --> 00:25:37,704
 [James Cameron] After hours in
 the deep and just one encounter
 
 391
-00:25:40,738 --> 00:25:44,909
+00:25:37,738 --> 00:25:41,909
 with the kitefin, the
 team wonders if the noise from
 
 392
-00:25:44,944 --> 00:25:48,113
+00:25:41,944 --> 00:25:45,113
 the ROV could be
 scaring off the squid.
 
 393
-00:25:52,652 --> 00:25:55,287
+00:25:49,652 --> 00:25:52,287
 Time to try a
 different approach.
 
 394
-00:25:59,658 --> 00:26:03,229
+00:25:56,658 --> 00:26:00,229
 [James Cameron] Marine biologist
 Nathan Robinson has the perfect
 
 395
-00:26:03,261 --> 00:26:05,663
+00:26:00,261 --> 00:26:02,663
 camera rig for this mission.
 
 396
-00:26:08,801 --> 00:26:11,069
+00:26:05,801 --> 00:26:08,069
 [Nathan Robinson] The
 angler is a stealth camera,
 
 397
-00:26:11,103 --> 00:26:13,171
+00:26:08,103 --> 00:26:10,171
 makes no noise.
 
 398
-00:26:13,203 --> 00:26:16,609
+00:26:10,203 --> 00:26:13,609
 It's also very
 light sensitive so this
 
 399
-00:26:16,640 --> 00:26:20,578
+00:26:13,640 --> 00:26:17,578
 actually really is perfect for
 seeing animals in the deep sea.
 
 400
-00:26:39,331 --> 00:26:41,801
+00:26:36,331 --> 00:26:38,801
 Going down.
 
 401
-00:26:43,100 --> 00:26:45,770
+00:26:40,100 --> 00:26:42,770
 Okay, keep letting it go.
 
 402
-00:26:47,972 --> 00:26:50,908
+00:26:44,972 --> 00:26:47,908
 [Aldo Kane] Lowering the
 angler on a fishing line may
 
 403
-00:26:50,943 --> 00:26:54,345
+00:26:47,943 --> 00:26:51,345
 look low tech, but
 this is our secret weapon.
 
 404
-00:26:55,512 --> 00:27:02,253
+00:26:52,512 --> 00:26:59,253
 It can dive to 6,500 feet and
 then just sit there completely
 
 405
-00:27:02,287 --> 00:27:07,193
+00:26:59,287 --> 00:27:04,193
 silent and still, so as not
 to scare away any wildlife.
 
 406
-00:27:12,030 --> 00:27:15,001
+00:27:09,030 --> 00:27:12,001
 [James Cameron] The angler
 is armed with an E-Jelly.
 
 407
-00:27:15,033 --> 00:27:18,337
+00:27:12,033 --> 00:27:15,337
 An LED array that mimics
 the defense mechanism of
 
 408
-00:27:18,369 --> 00:27:22,841
+00:27:15,369 --> 00:27:19,841
 the Atolla jellyfish, which
 lights up when threatened to try
 
 409
-00:27:22,875 --> 00:27:25,143
+00:27:19,875 --> 00:27:22,143
 and attract an
 even larger predator in
 
 410
-00:27:25,176 --> 00:27:27,746
+00:27:22,176 --> 00:27:24,746
 the hope that it will
 scare off the attacker.
 
 411
-00:27:31,384 --> 00:27:35,654
+00:27:28,384 --> 00:27:32,654
 After hours in the deep, the
 rig is ready to be retrieved.
 
 412
-00:27:42,127 --> 00:27:44,162
+00:27:39,127 --> 00:27:41,162
 Only once back aboard,
 will the team discover if
 
 413
-00:27:44,195 --> 00:27:47,166
+00:27:41,195 --> 00:27:44,166
 their covert mission
 has been a success.
 
 414
-00:27:53,872 --> 00:27:55,974
+00:27:50,872 --> 00:27:52,974
 [Nathan Robinson] Right, you
 ready to bring it to the lab?
 
 415
-00:27:56,007 --> 00:27:58,243
+00:27:53,007 --> 00:27:55,243
 [Eric Stackpole] Yeah.
 
 416
-00:28:05,384 --> 00:28:08,087
+00:28:02,384 --> 00:28:05,087
 Okay. So now we're
 going down to the bottom.
 
 417
-00:28:15,528 --> 00:28:17,697
+00:28:12,528 --> 00:28:14,697
 Oh my God, what a catch.
 
 418
-00:28:19,965 --> 00:28:21,734
+00:28:16,965 --> 00:28:18,734
 [James Cameron] These
 flying squid are known
 
 419
-00:28:21,765 --> 00:28:23,335
+00:28:18,765 --> 00:28:20,335
 sperm whale prey.
 
 420
-00:28:26,136 --> 00:28:29,942
+00:28:23,136 --> 00:28:26,942
 [Nathan Robinson] We've
 been seeing a ton of squid,
 
 421
-00:28:29,974 --> 00:28:32,342
+00:28:26,974 --> 00:28:29,342
 conducting these hit
 and run attacks on the bait
 
 422
-00:28:32,377 --> 00:28:34,113
+00:28:29,377 --> 00:28:31,113
 and the E-Jelly.
 
 423
-00:28:38,484 --> 00:28:43,787
+00:28:35,484 --> 00:28:40,787
 They are large, very
 nutritious food items for
 
 424
-00:28:43,822 --> 00:28:45,489
+00:28:40,822 --> 00:28:42,489
 something like a sperm whale.
 
 425
-00:28:49,828 --> 00:28:51,229
+00:28:46,828 --> 00:28:48,229
 [James Cameron]
 Hours into the footage,
 
 426
-00:28:51,261 --> 00:28:54,332
+00:28:48,261 --> 00:28:51,332
 Nathan and Eric spot
 something even larger,
 
 427
-00:28:54,364 --> 00:28:56,935
+00:28:51,364 --> 00:28:53,935
 and they gather
 the rest of the team.
 
 428
-00:28:58,802 --> 00:29:00,805
+00:28:55,802 --> 00:28:57,805
 [Nathan Robinson]
 Just watch this.
 
 429
-00:29:03,408 --> 00:29:04,777
+00:29:00,408 --> 00:29:01,777
 [Eric Stackpole] What the heck!
 
 430
-00:29:04,809 --> 00:29:06,511
+00:29:01,809 --> 00:29:03,511
 [Edith Widder] That
 is a really big squid.
 
 431
-00:29:06,545 --> 00:29:08,780
+00:29:03,545 --> 00:29:05,780
 [Nathan Robinson] So this
 species is the third largest
 
 432
-00:29:08,814 --> 00:29:10,280
+00:29:05,814 --> 00:29:07,280
 in the oceans.
 
 433
-00:29:10,315 --> 00:29:13,184
+00:29:07,315 --> 00:29:10,184
 [Edith Widder] Dana octopus
 squid is the, the common name.
 
 434
-00:29:13,217 --> 00:29:15,886
+00:29:10,217 --> 00:29:12,886
 It's got light organs
 on the ends of its arms,
 
 435
-00:29:15,921 --> 00:29:17,822
+00:29:12,921 --> 00:29:14,822
 that are like
 the size of lemons.
 
 436
-00:29:17,856 --> 00:29:19,958
+00:29:14,856 --> 00:29:16,958
 Look at them!
 They're glowing so bright.
 
 437
-00:29:19,990 --> 00:29:22,228
+00:29:16,990 --> 00:29:19,228
 [Eric Stackpole] Why would you
 have such bright lights there?
 
 438
-00:29:22,260 --> 00:29:23,994
+00:29:19,260 --> 00:29:20,994
 -To blind you.
 -Oh!
 
 439
-00:29:24,029 --> 00:29:25,095
+00:29:21,029 --> 00:29:22,095
 [Nathan Robinson] It's like
 a deer in the headlights...
 
 440
-00:29:25,131 --> 00:29:25,898
+00:29:22,131 --> 00:29:22,898
 [Edith Widder] Yeah.
 
 441
-00:29:26,231 --> 00:29:26,764
+00:29:23,231 --> 00:29:23,764
 [Nathan Robinson] So
 you've got your little critter,
 
 442
-00:29:27,166 --> 00:29:27,899
+00:29:24,166 --> 00:29:24,899
 your crustacean
 that you want to eat,
 
 443
-00:29:28,399 --> 00:29:32,404
+00:29:25,399 --> 00:29:29,404
 you shine these big kinda
 lemon size lights right at it,
 
 444
-00:29:32,438 --> 00:29:35,038
+00:29:29,438 --> 00:29:32,038
 it can't see what's
 coming from what diretion
 
 445
-00:29:35,073 --> 00:29:37,208
+00:29:32,073 --> 00:29:34,208
 and then bam you take it down.
 
 446
-00:29:38,444 --> 00:29:42,079
+00:29:35,444 --> 00:29:39,079
 [James Cameron] Weighing as
 much as a full-grown gorilla,
 
 447
-00:29:42,113 --> 00:29:46,385
+00:29:39,113 --> 00:29:43,385
 a sperm whale only needs to
 hunt five of these giants a day.
 
 448
-00:29:46,417 --> 00:29:51,189
+00:29:43,417 --> 00:29:48,189
 [Nathan Robinson] This is
 actually the most common, uh,
 
 449
-00:29:51,221 --> 00:29:54,092
+00:29:48,221 --> 00:29:51,092
 species that sperm whales
 eat in terms of weight.
 
 450
-00:29:54,126 --> 00:29:56,060
+00:29:51,126 --> 00:29:53,060
 [Eric Stackpole] This is
 actually, this is staple food.
 
 451
-00:29:56,094 --> 00:29:56,927
+00:29:53,094 --> 00:29:53,927
 -This is, exactly.
 -This is number one.
 
 452
-00:29:57,261 --> 00:29:57,796
+00:29:54,261 --> 00:29:54,796
 [Nathan Robinson] This is
 what they're eating, yeah.
 
 453
-00:29:58,363 --> 00:29:59,297
+00:29:55,363 --> 00:29:56,297
 [Edith Widder] But
 they've hardly ever been seen.
 
 454
-00:29:59,497 --> 00:30:01,365
+00:29:56,497 --> 00:29:58,365
 [Nathan Robinson] I'm
 actually pretty sure this is
 
 455
-00:30:01,599 --> 00:30:04,069
+00:29:58,599 --> 00:30:01,069
 the first footage we
 have of dana ctopus squid,
 
 456
-00:30:04,103 --> 00:30:05,270
+00:30:01,103 --> 00:30:02,270
 in the Atlantic.
 
 457
-00:30:05,302 --> 00:30:07,037
+00:30:02,302 --> 00:30:04,037
 [Edith Widder] This is amazing.
 
 458
-00:30:09,306 --> 00:30:10,975
+00:30:06,306 --> 00:30:07,975
 [James Cameron] Thanks
 to the deep-water team,
 
 459
-00:30:11,010 --> 00:30:14,613
+00:30:08,010 --> 00:30:11,613
 we've seen squid down
 there large enough to feed this
 
 460
-00:30:14,646 --> 00:30:17,382
+00:30:11,646 --> 00:30:14,382
 huge population of sperm whales.
 
 461
-00:30:24,622 --> 00:30:28,359
+00:30:21,622 --> 00:30:25,359
 But what's fueling
 this rich ecosystem?
 
 462
-00:30:28,393 --> 00:30:32,131
+00:30:25,393 --> 00:30:29,131
 It's all down to the
 tiniest organisms in the ocean.
 
 463
-00:30:34,332 --> 00:30:37,502
+00:30:31,332 --> 00:30:34,502
 When deep ocean currents hit
 the island's underwater slopes,
 
 464
-00:30:37,534 --> 00:30:41,305
+00:30:34,534 --> 00:30:38,305
 nutrient rich water is
 forced up toward the surface.
 
 465
-00:30:41,774 --> 00:30:44,376
+00:30:38,774 --> 00:30:41,376
 These nutrients feed
 microorganisms that form
 
 466
-00:30:44,408 --> 00:30:46,979
+00:30:41,408 --> 00:30:43,979
 the base of the food web,
 
 467
-00:30:47,947 --> 00:30:49,447
+00:30:44,947 --> 00:30:46,447
 and the more there are,
 
 468
-00:30:49,480 --> 00:30:52,484
+00:30:46,480 --> 00:30:49,484
 the more life this
 ecosystem can support.
 
 469
-00:31:01,059 --> 00:31:05,230
+00:30:58,059 --> 00:31:02,230
 To find out just how rich
 these waters are Edie and Zoleka
 
 470
-00:31:05,262 --> 00:31:08,000
+00:31:02,262 --> 00:31:05,000
 once again take a
 dive into the deep.
 
 471
-00:31:23,716 --> 00:31:26,484
+00:31:20,716 --> 00:31:23,484
 The density of this
 microscopic life is difficult
 
 472
-00:31:26,516 --> 00:31:28,921
+00:31:23,516 --> 00:31:25,921
 to judge in these dark waters
 
 473
-00:31:30,287 --> 00:31:34,426
+00:31:27,287 --> 00:31:31,426
 but Edie has a
 magic trick to reveal it.
 
 474
-00:31:46,738 --> 00:31:49,440
+00:31:43,738 --> 00:31:46,440
 [Zoleka Filander] 600 meters.
 
 475
-00:31:52,211 --> 00:31:54,445
+00:31:49,211 --> 00:31:51,445
 [Edith Widder] Oh
 I hope this works.
 
 476
-00:31:55,447 --> 00:31:56,547
+00:31:52,447 --> 00:31:53,547
 [Pilot] Okay, you ready?
 
 477
-00:31:56,581 --> 00:31:58,082
+00:31:53,581 --> 00:31:55,082
 [Crew] <i>We're ready.</i>
 
 478
-00:31:58,115 --> 00:32:00,952
+00:31:55,115 --> 00:31:57,952
 [Pilot] Three, two, one.
 Lights coming on.
 
 479
-00:32:08,359 --> 00:32:10,462
+00:32:05,359 --> 00:32:07,462
 [Edith Widder] Nothing.
 
 480
-00:32:13,096 --> 00:32:15,400
+00:32:10,096 --> 00:32:12,400
 Let's drop down.
 
 481
-00:32:15,432 --> 00:32:18,337
+00:32:12,432 --> 00:32:15,337
 [Pilot] Control, <i>Neptune.</i>
 We are descending.
 
 482
-00:32:26,311 --> 00:32:29,381
+00:32:23,311 --> 00:32:26,381
 [Edith Widder] Okay
 let's try it again.
 
 483
-00:32:33,685 --> 00:32:37,454
+00:32:30,685 --> 00:32:34,454
 [Pilot] Okay three,
 two, one, lights coming on.
 
 484
-00:32:39,591 --> 00:32:40,759
+00:32:36,591 --> 00:32:37,759
 [gasps]
 
 485
-00:32:40,792 --> 00:32:42,627
+00:32:37,792 --> 00:32:39,627
 [cheering]
 
 486
-00:32:42,659 --> 00:32:44,128
+00:32:39,659 --> 00:32:41,128
 [Zoleka Filander] It worked!
 
 487
-00:32:44,162 --> 00:32:46,064
+00:32:41,162 --> 00:32:43,064
 [laughs]
 
 488
-00:32:46,096 --> 00:32:48,167
+00:32:43,096 --> 00:32:45,167
 Wow!
 
 489
-00:32:53,404 --> 00:32:56,675
+00:32:50,404 --> 00:32:53,675
 Bioluminescence in action.
 
 490
-00:33:02,146 --> 00:33:06,117
+00:32:59,146 --> 00:33:03,117
 It's like I'm wrapped
 in a blanket of stars.
 
 491
-00:33:09,787 --> 00:33:12,489
+00:33:06,787 --> 00:33:09,489
 This is the base
 of the food chain.
 
 492
-00:33:13,490 --> 00:33:18,796
+00:33:10,490 --> 00:33:15,796
 The fish eat the plankton
 and the squid eat the fish and
 
 493
-00:33:18,829 --> 00:33:21,599
+00:33:15,829 --> 00:33:18,599
 then the sperm whales
 are feeding on the squid.
 
 494
-00:33:22,134 --> 00:33:24,368
+00:33:19,134 --> 00:33:21,368
 This is where it all begins.
 
 495
-00:33:24,403 --> 00:33:27,471
+00:33:21,403 --> 00:33:24,471
 Smallest to the biggest.
 
 496
-00:33:32,510 --> 00:33:35,213
+00:33:29,510 --> 00:33:32,213
 [Edith Widder] That's fantastic.
 
 497
-00:33:35,881 --> 00:33:38,417
+00:33:32,881 --> 00:33:35,417
 [James Cameron] Edie's witnessed
 this bioluminescent phenomenon
 
 498
-00:33:38,448 --> 00:33:42,119
+00:33:35,448 --> 00:33:39,119
 her entire career, but has
 never had the technology to
 
 499
-00:33:42,154 --> 00:33:44,422
+00:33:39,154 --> 00:33:41,422
 share it with the world...
 
 500
-00:33:46,692 --> 00:33:48,793
+00:33:43,692 --> 00:33:45,793
 Until now.
 
 501
-00:33:51,863 --> 00:33:54,666
+00:33:48,863 --> 00:33:51,666
 [Zoleka Filander] Wow.
 Thanks Edie, we got it.
 
 502
-00:33:55,300 --> 00:33:57,569
+00:33:52,300 --> 00:33:54,569
 [Edith Widder] It's
 like having seen UFOs and
 
 503
-00:33:57,603 --> 00:33:59,636
+00:33:54,603 --> 00:33:56,636
 now suddenly there's evidence.
 
 504
-00:33:59,671 --> 00:34:02,206
+00:33:56,671 --> 00:33:59,206
 Okay. Can we do that again?
 
 505
-00:34:02,239 --> 00:34:03,708
+00:33:59,239 --> 00:34:00,708
 [Pilot] Absolutely.
 
 506
-00:34:06,779 --> 00:34:09,579
+00:34:03,779 --> 00:34:06,579
 [James Cameron] Without this
 abundance of tiny life,
 
 507
-00:34:09,613 --> 00:34:13,184
+00:34:06,613 --> 00:34:10,184
 the squid and the sperm whales
 couldn't survive here.
 
 508
-00:34:13,217 --> 00:34:16,255
+00:34:10,217 --> 00:34:13,255
 [Zoleka Filander] It's very,
 very humbling to think that
 
 509
-00:34:16,287 --> 00:34:20,725
+00:34:13,287 --> 00:34:17,725
 no matter how tiny you are
 you can do gigantic things.
 
 510
-00:34:31,202 --> 00:34:33,171
+00:34:28,202 --> 00:34:30,171
 [Pilot] Control, control.
 <i> Neptune's</i> ascending over.
 
 511
-00:34:33,203 --> 00:34:34,338
+00:34:30,203 --> 00:34:31,338
 [Crew] <i>Clear to surface.</i>
 
 512
-00:34:34,372 --> 00:34:35,640
+00:34:31,372 --> 00:34:32,640
 <i> Clear to surface.</i>
 
 513
-00:34:35,673 --> 00:34:37,275
+00:34:32,673 --> 00:34:34,275
 [Crew 2] <i>Welcome back Neptune.</i>
 
 514
-00:34:37,307 --> 00:34:39,211
+00:34:34,307 --> 00:34:36,211
 <i> Blow your tanks.</i>
 
 515
-00:34:42,146 --> 00:34:43,481
+00:34:39,146 --> 00:34:40,481
 [Pilot] Well did
 you enjoy that dive?
 
 516
-00:34:43,514 --> 00:34:44,817
+00:34:40,514 --> 00:34:41,817
 [Edith Widder]
 Oh. Are you kidding!
 
 517
-00:34:44,849 --> 00:34:47,319
+00:34:41,849 --> 00:34:44,319
 That was actually
 on my bucket list.
 
 518
-00:34:54,559 --> 00:34:56,895
+00:34:51,559 --> 00:34:53,895
 You know, as I get older,
 every expedition I go on,
 
 519
-00:34:56,927 --> 00:35:00,264
+00:34:53,927 --> 00:34:57,264
 I figure this might be the last
 
 520
-00:35:00,298 --> 00:35:02,734
+00:34:57,298 --> 00:34:59,734
 and if this is the
 last it's the best.
 
 521
-00:35:02,766 --> 00:35:05,737
+00:34:59,766 --> 00:35:02,737
 It's just been
 absolutely amazing.
 
 522
-00:35:14,378 --> 00:35:16,346
+00:35:11,378 --> 00:35:13,346
 [James Cameron] In their
 time here in the Azores,
 
 523
-00:35:16,381 --> 00:35:19,318
+00:35:13,381 --> 00:35:16,318
 the team has captured
 the first ever images of
 
 524
-00:35:19,350 --> 00:35:22,587
+00:35:16,350 --> 00:35:19,587
 a sperm whale diving
 into these deep waters.
 
 525
-00:35:29,293 --> 00:35:30,863
+00:35:26,293 --> 00:35:27,863
 [Eric Stackpole] This is the
 culmination of a huge amount of
 
 526
-00:35:30,895 --> 00:35:33,398
+00:35:27,895 --> 00:35:30,398
 effort and many
 sleepless nights,
 
 527
-00:35:33,430 --> 00:35:36,667
+00:35:30,430 --> 00:35:33,667
 but at the end of the day
 we got those few minutes of
 
 528
-00:35:36,701 --> 00:35:38,703
+00:35:33,701 --> 00:35:35,703
 incredibly priceless footage
 
 529
-00:35:38,737 --> 00:35:41,238
+00:35:35,737 --> 00:35:38,238
 that made the
 whole thing worth it.
 
 530
-00:35:41,273 --> 00:35:43,509
+00:35:38,273 --> 00:35:40,509
 It was awesome!
 
 531
-00:35:46,409 --> 00:35:48,613
+00:35:43,409 --> 00:35:45,613
 [James Cameron] They've
 added to the image catalogue of
 
 532
-00:35:48,646 --> 00:35:51,483
+00:35:45,646 --> 00:35:48,483
 the squid that
 feed the sperm whales.
 
 533
-00:35:53,217 --> 00:35:54,784
+00:35:50,217 --> 00:35:51,784
 [Melissa Márquez]
 Thanks to the <i>OceanXplorer,</i>
 
 534
-00:35:54,819 --> 00:35:57,355
+00:35:51,819 --> 00:35:54,355
 we've been able to dive deep
 into the world of sperm whales
 
 535
-00:35:57,387 --> 00:36:00,926
+00:35:54,387 --> 00:35:57,926
 here and discovered this
 interaction between them and
 
 536
-00:36:00,958 --> 00:36:03,628
+00:35:57,958 --> 00:36:00,628
 massive squid that's
 never really been observed
 
 537
-00:36:03,661 --> 00:36:06,596
+00:36:00,661 --> 00:36:03,596
 here before, which
 is pretty mind blowing.
 
 538
-00:36:09,902 --> 00:36:11,569
+00:36:06,902 --> 00:36:08,569
 [James Cameron] And
 they've documented the normally
 
 539
-00:36:11,603 --> 00:36:15,805
+00:36:08,603 --> 00:36:12,805
 invisible riches that
 fuel this entire ecosystem.
 
 540
-00:36:17,975 --> 00:36:20,411
+00:36:14,975 --> 00:36:17,411
 [Edith Widder] It's fabulous!
 
 541
-00:36:20,677 --> 00:36:22,412
+00:36:17,677 --> 00:36:19,412
 [Zoleka Filander] I am one
 of the few people to witness
 
 542
-00:36:22,447 --> 00:36:27,350
+00:36:19,447 --> 00:36:24,350
 a bioluminescence light show
 and I'm so excited to share
 
 543
-00:36:27,385 --> 00:36:29,386
+00:36:24,385 --> 00:36:26,386
 this with the world.
 
 544
-00:36:31,422 --> 00:36:33,591
+00:36:28,422 --> 00:36:30,591
 That is mind blowing.
 
 545
-00:36:43,502 --> 00:36:46,505
+00:36:40,502 --> 00:36:43,505
 [Aldo Kane] We've still got so
 much to learn about these whales
 
 546
-00:36:46,537 --> 00:36:50,474
+00:36:43,537 --> 00:36:47,474
 but seeing them live in
 harmony they could definitely
 
 547
-00:36:50,509 --> 00:36:51,944
+00:36:47,509 --> 00:36:48,944
 teach us a thing or two.
 
 548
-00:36:51,975 --> 00:36:54,279
+00:36:48,975 --> 00:36:51,279
 [Melissa Márquez] No, ho, oh!
 
 549
-00:36:54,645 --> 00:36:56,846
+00:36:51,645 --> 00:36:53,846
 [James Cameron]
 From the largest,
 
 550
-00:36:58,783 --> 00:37:01,686
+00:36:55,783 --> 00:36:58,686
 to the tiniest creatures.
 
 551
-00:37:03,921 --> 00:37:07,390
+00:37:00,921 --> 00:37:04,390
 The team has made significant
 discoveries here in the Azores.
 
 552
-00:37:07,426 --> 00:37:08,793
+00:37:04,426 --> 00:37:05,793
 [clicking]
 
 553
-00:37:08,826 --> 00:37:11,729
+00:37:05,826 --> 00:37:08,729
 [Rui Prieto] Nothing like
 that has ever been filmed.
 
 554
-00:37:11,761 --> 00:37:15,300
+00:37:08,761 --> 00:37:12,300
 [James Cameron] A rich hotspot
 for life in the Atlantic,
 
 555
-00:37:15,333 --> 00:37:19,703
+00:37:12,333 --> 00:37:16,703
 and a blueprint for
 healthy oceans everywhere.
 
