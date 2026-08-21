@@ -1,0 +1,3679 @@
+1
+00:00:03,320 --> 00:00:04,340
+Hey, folks.
+
+2
+00:00:04,340 --> 00:00:05,400
+I'm Ben O'Shea,
+
+3
+00:00:05,400 --> 00:00:09,740
+senior reporter at the West Australian
+and host of the Newsworthy podcast.
+
+4
+00:00:10,040 --> 00:00:11,400
+It's my great pleasure
+
+5
+00:00:11,400 --> 00:00:15,140
+to welcome you to the Western
+Australian Museum Boola Bardip.
+
+6
+00:00:15,500 --> 00:00:19,760
+I'd like to start by acknowledging that
+we meet today on the lands of the Whadjuk
+
+7
+00:00:19,820 --> 00:00:24,860
+people of the Nyoongar nation, and pay my respects
+to their elders, past and present.
+
+8
+00:00:25,200 --> 00:00:28,280
+Now, before we get started,
+just a bit of housekeeping.
+
+9
+00:00:28,520 --> 00:00:33,860
+In case you need the toilets,
+they just back out there and to my left.
+
+10
+00:00:34,040 --> 00:00:38,480
+There's also a water station at the back
+of the room in case anyone needs it.
+
+11
+00:00:38,780 --> 00:00:41,540
+And in the event of an emergency,
+
+12
+00:00:41,540 --> 00:00:44,820
+please
+follow the instructions of museum staff.
+
+13
+00:00:45,240 --> 00:00:49,980
+Okay, so today
+we have an extremely exciting opportunity
+
+14
+00:00:50,280 --> 00:00:54,560
+to collaborate with ocean exploration
+nonprofit OceanX.
+
+15
+00:00:55,020 --> 00:01:00,140
+And this includes an exclusive live feed
+from the research vessel OceanXplorer
+
+16
+00:01:00,360 --> 00:01:04,760
+while it's on a science mission in
+international waters off Java, Indonesia.
+
+17
+00:01:05,120 --> 00:01:08,640
+And they'll be beaming back to us here
+at the Museum.
+
+18
+00:01:08,960 --> 00:01:12,840
+It's truly
+an incredible floating science facility.
+
+19
+00:01:13,100 --> 00:01:13,980
+So let's take a look.
+
+20
+00:02:51,260 --> 00:02:52,220
+Wow. I think that's
+
+21
+00:02:52,220 --> 00:02:55,220
+worth a round of applause.
+
+22
+00:02:57,060 --> 00:02:58,760
+And now the Museum is
+
+23
+00:02:58,760 --> 00:03:02,580
+proud to be presenting
+the OceanXperience, an exhibition that
+
+24
+00:03:02,580 --> 00:03:07,700
+takes visitors on a journey to explore
+the unknown outer limits of our oceans
+
+25
+00:03:07,700 --> 00:03:11,840
+and experience what it's like to conduct
+mission critical science
+
+26
+00:03:11,840 --> 00:03:15,660
+aboard ocean access research vessel
+the OceanXplorer.
+
+27
+00:03:15,960 --> 00:03:18,960
+Hands up who has
+already been to the exhibition?
+
+28
+00:03:19,940 --> 00:03:21,440
+Okay, that's pretty good.
+
+29
+00:03:21,440 --> 00:03:25,100
+After this, I'm
+sure all of you will want to check it out.
+
+30
+00:03:25,860 --> 00:03:28,280
+It's an incredible, incredible exhibition.
+
+31
+00:03:28,280 --> 00:03:32,400
+It's also a significant moment
+for marine science,
+
+32
+00:03:32,400 --> 00:03:37,800
+with a strong contingent of West Aussie
+researchers aboard the OceanXplorer,
+
+33
+00:03:38,000 --> 00:03:42,080
+including researchers from the Museum,
+working alongside colleagues
+
+34
+00:03:42,080 --> 00:03:46,520
+from the University of WA and Minderoo
+Foundation's OceanOmics team.
+
+35
+00:03:46,860 --> 00:03:50,280
+We're also pleased
+to have the WA research team currently
+
+36
+00:03:50,280 --> 00:03:53,660
+working on Christmas Island,
+joining today's live stream.
+
+37
+00:03:53,820 --> 00:03:56,660
+So a shout out to everybody in
+Christmas Island.
+
+38
+00:03:56,660 --> 00:03:59,040
+It's great to have you with us today.
+
+39
+00:03:59,040 --> 00:04:03,200
+And just to give you all a heads up,
+a bit later, you'll get a chance to ask
+
+40
+00:04:03,200 --> 00:04:07,320
+the scientists onboard the OceanXplorer
+a question yourself.
+
+41
+00:04:07,580 --> 00:04:10,580
+But first,
+I think we need to introduce them.
+
+42
+00:04:10,860 --> 00:04:14,820
+Dialing in today with us, we have
+Dr Alexis Weinnig,
+
+43
+00:04:14,820 --> 00:04:17,820
+who is the science program manager
+at OceanX.
+
+44
+00:04:18,180 --> 00:04:21,880
+Alexis is a deep sea ecologist
+and marine scientist
+
+45
+00:04:21,880 --> 00:04:26,320
+with over a decade of experience
+with a PhD in biology.
+
+46
+00:04:26,320 --> 00:04:30,480
+She has participated
+in more than 20 oceanographic expeditions.
+
+47
+00:04:30,800 --> 00:04:34,000
+And also with us we have
+Dr Jen McIlwain.
+
+48
+00:04:34,220 --> 00:04:38,460
+Jen is a science and research leader
+with a PhD in marine
+
+49
+00:04:38,460 --> 00:04:42,560
+ecology as Director of Science at the Museum.
+
+50
+00:04:42,600 --> 00:04:47,600
+Jen leads strategic research initiatives
+and multi-disciplinary teams.
+
+51
+00:04:47,940 --> 00:04:48,360
+Folks.
+
+52
+00:04:48,360 --> 00:04:50,720
+Can we get a round of
+applause for Alexis and Jen?
+
+53
+00:04:56,660 --> 00:04:59,300
+We're very
+excited to have you both with us today.
+
+54
+00:04:59,300 --> 00:05:01,020
+Alexis, I want to start with you.
+
+55
+00:05:01,020 --> 00:05:05,220
+Can you tell us a little bit
+about the OceanXplorer whereabouts
+
+56
+00:05:05,220 --> 00:05:09,660
+on the vessel we are right now,
+and can you tell us what your role is?
+
+57
+00:05:11,240 --> 00:05:12,300
+Sure. Thanks, Ben.
+
+58
+00:05:12,300 --> 00:05:14,860
+It's really great to be here
+with everybody today.
+
+59
+00:05:14,860 --> 00:05:18,800
+We are in the sub
+hangar of the OceanXplorer.
+
+60
+00:05:18,800 --> 00:05:22,680
+So the OceanXplorer
+is our research vessel
+
+61
+00:05:22,920 --> 00:05:25,800
+that we operate and has multiple different
+types of assets.
+
+62
+00:05:25,800 --> 00:05:29,060
+So, our submersibles
+that people can get in and go down
+
+63
+00:05:29,060 --> 00:05:32,720
+to one thousand metres is one of our favorite ways
+to explore the deep ocean.
+
+64
+00:05:32,900 --> 00:05:36,060
+But we also have other assets
+like the ROV, which you're going to see
+
+65
+00:05:36,060 --> 00:05:36,860
+later today.
+
+66
+00:05:36,860 --> 00:05:40,140
+I am the science program manager
+for OceanX,
+
+67
+00:05:40,160 --> 00:05:43,220
+so I oversee all of the science
+that we do internally,
+
+68
+00:05:43,220 --> 00:05:47,060
+and then also bring partners together
+to be able to do these awesome projects
+
+69
+00:05:47,060 --> 00:05:48,180
+like we're doing with WAM.
+
+70
+00:05:49,120 --> 00:05:51,080
+Amazing and, Jen can you tell us
+
+71
+00:05:51,080 --> 00:05:55,040
+where exactly in the world
+the vessel is right now?
+
+72
+00:05:55,040 --> 00:05:57,720
+What is the significance of that location?
+
+73
+00:05:57,720 --> 00:06:00,720
+And then where is the expedition
+going to take you?
+
+74
+00:06:02,420 --> 00:06:04,620
+So we're currently approximately
+
+75
+00:06:04,620 --> 00:06:08,280
+700 kilometres east of Christmas Island,
+
+76
+00:06:08,280 --> 00:06:13,280
+and about a thousand kilometres north west of,
+the Northwest Cape in Australia.
+
+77
+00:06:13,700 --> 00:06:16,400
+Just for those of you
+just to give you some sort of perspective
+
+78
+00:06:16,400 --> 00:06:20,940
+about where we are,
+which is in the north-east Indian Ocean.
+
+79
+00:06:21,360 --> 00:06:24,900
+We're currently over
+some really interesting looking seamounts.
+
+80
+00:06:25,380 --> 00:06:28,220
+These are literally sort of mountains
+
+81
+00:06:28,220 --> 00:06:30,960
+in the ocean from the seafloor
+
+82
+00:06:30,960 --> 00:06:36,700
+rising up to about two and a half thousand metres,
+and they've never been mapped before.
+
+83
+00:06:36,720 --> 00:06:39,000
+They've never been explored before.
+
+84
+00:06:39,000 --> 00:06:42,800
+So this is a really exciting opportunity
+for the WA Museum
+
+85
+00:06:42,800 --> 00:06:47,300
+to partner with the OceanX
+and also other WA
+
+86
+00:06:47,840 --> 00:06:51,620
+institutions to explore
+this just incredible environment.
+
+87
+00:06:52,580 --> 00:06:53,820
+And Alexis, just quickly,
+
+88
+00:06:53,820 --> 00:06:56,820
+what is that behind you there?
+
+89
+00:06:56,840 --> 00:07:00,100
+This is our submersible named Neptune.
+
+90
+00:07:00,120 --> 00:07:04,040
+So we use this submersible to go down
+when we're working in places
+
+91
+00:07:04,040 --> 00:07:06,080
+a little more shallow
+than where we are today.
+
+92
+00:07:06,080 --> 00:07:08,260
+These can go down to about a thousand metres.
+
+93
+00:07:08,260 --> 00:07:12,420
+They allow us to collect video
+as well as physical samples.
+
+94
+00:07:12,420 --> 00:07:14,300
+So we have a suction sampler.
+
+95
+00:07:14,300 --> 00:07:17,300
+We have the arms that allows you
+to grab things.
+
+96
+00:07:17,420 --> 00:07:20,960
+And that way we can bring samples
+back to study them later.
+
+97
+00:07:21,380 --> 00:07:22,340
+Yeah. Fantastic.
+
+98
+00:07:22,340 --> 00:07:22,740
+Okay.
+
+99
+00:07:22,740 --> 00:07:25,560
+Who would like to see a bit
+more of the ship?
+
+100
+00:07:25,560 --> 00:07:25,880
+Yeah.
+
+101
+00:07:25,880 --> 00:07:28,880
+Oh, we get a lot of hands up down here
+at the WA Museum.
+
+102
+00:07:28,960 --> 00:07:33,840
+Alexis, any chance we could see the wet
+lab where a lot of the science happens?
+
+103
+00:07:34,400 --> 00:07:35,080
+Yeah, sure.
+
+104
+00:07:35,080 --> 00:07:38,100
+So we're going to go on a little journey
+to the wet lab.
+
+105
+00:07:38,360 --> 00:07:42,360
+So this is the space where,
+when the samples get
+
+106
+00:07:42,360 --> 00:07:46,560
+brought back on deck after an ROV dive
+or after a sub dive,
+
+107
+00:07:46,860 --> 00:07:49,860
+the samples get processed
+by the scientists onboard.
+
+108
+00:07:49,880 --> 00:07:53,560
+And so that means
+that they can be catalogued.
+
+109
+00:07:53,820 --> 00:07:56,760
+They can be preserved
+and made ready for once
+
+110
+00:07:56,760 --> 00:07:59,760
+we get off the ship
+to do a more in-depth analysis.
+
+111
+00:07:59,900 --> 00:08:01,640
+You'll see that we're walking around.
+
+112
+00:08:01,640 --> 00:08:03,540
+So this is within the sub hangar.
+
+113
+00:08:03,540 --> 00:08:07,220
+So we have both of our subs
+as well as some other machinery
+
+114
+00:08:07,640 --> 00:08:11,040
+that we operate
+throughout the different missions.
+
+115
+00:08:11,760 --> 00:08:15,080
+So over on this side we have our wet lab.
+
+116
+00:08:15,080 --> 00:08:18,260
+So this is where we would
+bring all of those samples
+
+117
+00:08:20,060 --> 00:08:23,360
+and start to work with them.
+
+118
+00:08:23,360 --> 00:08:26,360
+So we're going to move these
+right over here.
+
+119
+00:08:27,480 --> 00:08:29,720
+And so it's very exciting having
+
+120
+00:08:29,720 --> 00:08:32,760
+WA marine scientists from UWA
+and Minderoo Foundation's
+
+121
+00:08:33,000 --> 00:08:37,200
+OceanOmics, and our own scientists
+from the Western Australian Museum onboard
+
+122
+00:08:37,400 --> 00:08:41,760
+OceanXplorer
+to explore these deep sea ecosystems.
+
+123
+00:08:41,760 --> 00:08:44,940
+They've been on board
+since the 4th of July, undertaking
+
+124
+00:08:44,940 --> 00:08:49,460
+an ambitious research expedition
+spanning the Indo-West Pacific.
+
+125
+00:08:50,000 --> 00:08:54,520
+The expedition aims to document marine
+diversity across some of the region's most
+
+126
+00:08:54,520 --> 00:09:00,040
+remote and least studied ecosystems,
+using OceanXplorers advanced technology.
+
+127
+00:09:00,080 --> 00:09:03,120
+The team is undertaking
+careful deep sea specimen
+
+128
+00:09:03,120 --> 00:09:07,500
+collection with remotely operated
+vehicles or ROVs.
+
+129
+00:09:07,500 --> 00:09:11,240
+As the cool kids say, these ROVs, see
+
+130
+00:09:11,360 --> 00:09:12,680
+sounds pretty cool
+
+131
+00:09:12,680 --> 00:09:17,840
+use ultra high definition 4K image
+capture of sensitive marine habitats,
+
+132
+00:09:18,020 --> 00:09:21,900
+and they're conducting environmental DNA
+or eDNA sampling
+
+133
+00:09:21,900 --> 00:09:25,920
+to better understand species
+diversity and ecosystem health.
+
+134
+00:09:26,240 --> 00:09:30,500
+The expedition will also investigate
+a range of remarkable underwater features,
+
+135
+00:09:30,500 --> 00:09:34,760
+including seamounts, underwater mountains
+that rise thousands of metres
+
+136
+00:09:34,760 --> 00:09:38,640
+from the seafloor but still remain
+hidden beneath the ocean's surface.
+
+137
+00:09:38,960 --> 00:09:44,240
+These geological features can create
+unique habitats and act as biodiversity
+
+138
+00:09:44,240 --> 00:09:47,780
+hotspots, attracting a rich
+variety of marine life.
+
+139
+00:09:48,080 --> 00:09:52,220
+Despite their ecological importance,
+many of the seamounts and slopes in this
+
+140
+00:09:52,220 --> 00:09:56,760
+region have never been visually explored
+or scientifically sampled.
+
+141
+00:09:57,180 --> 00:09:59,760
+Okay, I can see now we're at the wet lab.
+
+142
+00:09:59,760 --> 00:10:04,440
+So, Alexis, can you take us through
+exactly what it is, what sort of work
+
+143
+00:10:04,440 --> 00:10:08,580
+you do there, and what role
+it plays in the broader mission?
+
+144
+00:10:10,200 --> 00:10:10,400
+Yeah.
+
+145
+00:10:10,400 --> 00:10:11,120
+So when we
+
+146
+00:10:11,120 --> 00:10:15,020
+come into the wet lab, it's a space
+that allows for bringing the samples,
+
+147
+00:10:15,020 --> 00:10:18,240
+whether they're still alive or they're
+or they're ready to be preserved.
+
+148
+00:10:18,440 --> 00:10:19,740
+And so similar to what
+
+149
+00:10:19,740 --> 00:10:22,740
+you see here, I'm going to kind of hold
+these up to the camera.
+
+150
+00:10:22,820 --> 00:10:28,280
+These are samples that have been brought
+up from the ROV as Ben was talking about.
+
+151
+00:10:28,280 --> 00:10:33,680
+So from deep on the seafloor,
+and by bringing these to the surface,
+
+152
+00:10:33,680 --> 00:10:37,460
+it allows the scientists to be able
+to better identify, to know exactly what
+
+153
+00:10:37,460 --> 00:10:41,040
+species it is, and also to take samples
+to sequence the DNA.
+
+154
+00:10:41,480 --> 00:10:46,020
+And that's important so that we can know
+exactly what is the community on that sea
+
+155
+00:10:46,340 --> 00:10:49,540
+mount made up of, and what are, kind of like
+the members of that neighborhood.
+
+156
+00:10:49,560 --> 00:10:52,560
+It allows us to really understand
+the ecosystem better.
+
+157
+00:10:52,560 --> 00:10:54,180
+The wet lab is important
+
+158
+00:10:54,180 --> 00:10:57,840
+because it's a place
+that all of the samples come to,
+
+159
+00:10:57,840 --> 00:11:01,080
+and they all get the expert attention
+that they need
+
+160
+00:11:01,320 --> 00:11:04,400
+before we can take them off the ship
+to bring them back to places
+
+161
+00:11:04,400 --> 00:11:08,600
+like the Western Australian Museum,
+so that they can be worked up and really,
+
+162
+00:11:08,840 --> 00:11:12,540
+the scientists can spend a lot more time,
+studying them.
+
+163
+00:11:13,160 --> 00:11:17,420
+Yeah, well, the museum's participation
+builds on its ongoing partnership
+
+164
+00:11:17,420 --> 00:11:20,420
+with Minderoo Foundation's OceanOmics program.
+
+165
+00:11:20,480 --> 00:11:22,940
+And together,
+the organizations are advancing
+
+166
+00:11:22,940 --> 00:11:25,940
+the use of eDNA technology
+through the collection
+
+167
+00:11:26,040 --> 00:11:29,840
+and analysis of water samples
+across Western Australia.
+
+168
+00:11:30,120 --> 00:11:34,500
+Jen, I'm hoping that you can tell us
+more about eDNA, how you're collecting it,
+
+169
+00:11:34,640 --> 00:11:37,020
+and what's the significance
+of this kind of research?
+
+170
+00:11:39,120 --> 00:11:41,100
+So we've got Lauren
+
+171
+00:11:41,100 --> 00:11:46,200
+here in the wet lab, and she's currently
+filtering water that's being collected
+
+172
+00:11:46,520 --> 00:11:51,000
+and the importance of this particular
+collaboration is that we're able to the
+
+173
+00:11:51,000 --> 00:11:54,840
+the OceanOmics team
+are able to collect water at the same time
+
+174
+00:11:54,840 --> 00:11:57,000
+as we're collecting our specimens.
+
+175
+00:11:57,000 --> 00:12:00,500
+And what they're doing is,
+eDNA is basically fragments.
+
+176
+00:12:00,500 --> 00:12:04,560
+All animals shed fragments of DNA
+into the water column,
+
+177
+00:12:04,940 --> 00:12:06,380
+marine organisms.
+
+178
+00:12:06,380 --> 00:12:07,580
+And what they do
+
+179
+00:12:07,580 --> 00:12:12,260
+is that they filter the water,
+collect those fragments, they amplify it,
+
+180
+00:12:12,860 --> 00:12:17,460
+and then they take the sequences of DNA,
+and then they go looking to see
+
+181
+00:12:17,460 --> 00:12:21,380
+what kind of species
+that, exist in the in the water column.
+
+182
+00:12:21,660 --> 00:12:23,040
+So this is really clever way
+
+183
+00:12:23,040 --> 00:12:26,660
+of identifying species
+without actually having to collect.
+
+184
+00:12:27,080 --> 00:12:30,080
+But what we do is we're sitting alongside
+
+185
+00:12:30,080 --> 00:12:32,520
+the OceanOmics team,
+and we're helping them
+
+186
+00:12:32,520 --> 00:12:37,160
+with the taxonomic identification
+of those of, of that DNA.
+
+187
+00:12:37,160 --> 00:12:40,160
+So it's a really critical partnership.
+
+188
+00:12:40,260 --> 00:12:44,000
+And it's, it's this is the first time
+we've been given the opportunity
+
+189
+00:12:44,280 --> 00:12:47,280
+to work together in these very deep
+water environments.
+
+190
+00:12:48,000 --> 00:12:51,420
+I hope some questions are percolating
+in everyone's minds here as you listen
+
+191
+00:12:51,420 --> 00:12:51,740
+to that.
+
+192
+00:12:51,740 --> 00:12:53,280
+It's absolutely fascinating.
+
+193
+00:12:53,280 --> 00:12:55,500
+Okay, so let's keep the tour rolling.
+
+194
+00:12:55,500 --> 00:12:59,820
+It would be amazing to see mission control
+on the OceanXplorer.
+
+195
+00:13:00,500 --> 00:13:03,260
+Alexis, would you care to
+give us the tour?
+
+196
+00:13:03,260 --> 00:13:05,060
+Yeah, absolutely. We'll head that way.
+
+197
+00:13:05,060 --> 00:13:09,600
+So it's going to take us
+a little bit of time to get there.
+
+198
+00:13:09,600 --> 00:13:15,440
+So it's just a, kind of back,
+back tour of part of the ship.
+
+199
+00:13:15,440 --> 00:13:19,280
+So you'll get to see a little bit
+more of where operations are happening.
+
+200
+00:13:24,500 --> 00:13:25,280
+So we mentioned
+
+201
+00:13:25,280 --> 00:13:29,120
+earlier about having an ROV
+or a remotely operated vehicle.
+
+202
+00:13:29,120 --> 00:13:33,680
+So our ROV is currently in the water
+doing an active dive.
+
+203
+00:13:34,640 --> 00:13:38,060
+And so as we come through this area,
+you'll be able to see
+
+204
+00:13:38,700 --> 00:13:42,140
+that the ROV is down
+over the side of the ship
+
+205
+00:13:42,140 --> 00:13:45,180
+and it is connected to that wire,
+that tether.
+
+206
+00:13:45,740 --> 00:13:47,700
+So you can see the ocean out there.
+
+207
+00:13:47,700 --> 00:13:49,440
+You can hopefully see the wire.
+
+208
+00:13:49,440 --> 00:13:53,420
+And then we're going to head into mission
+control, where you can see what
+
+209
+00:13:53,420 --> 00:13:57,260
+the pilots and the scientists are seeing
+while the ROV is exploring.
+
+210
+00:13:58,220 --> 00:13:59,520
+The weather looks pretty good today
+
+211
+00:13:59,520 --> 00:14:01,700
+Alexis?
+
+212
+00:14:01,700 --> 00:14:03,480
+Yeah, we're lucky today.
+
+213
+00:14:03,480 --> 00:14:04,560
+We have pretty good weather.
+
+214
+00:14:04,560 --> 00:14:08,580
+It can be a tough place to work
+the Indian Ocean, but it's
+
+215
+00:14:08,600 --> 00:14:10,680
+very much cooperating with us right now.
+
+216
+00:14:10,680 --> 00:14:12,480
+So we're really fortunate.
+
+217
+00:14:12,480 --> 00:14:13,680
+So we're going to head in
+
+218
+00:14:14,780 --> 00:14:16,560
+to mission control.
+
+219
+00:14:16,560 --> 00:14:21,240
+So as you go in, you can see that
+
+220
+00:14:21,240 --> 00:14:25,340
+we have lots of people
+working in here at the moment.
+
+221
+00:14:25,340 --> 00:14:28,340
+And so you can see in front of
+
+222
+00:14:28,940 --> 00:14:32,760
+these are all the screens
+that the ROV pilots and the scientists
+
+223
+00:14:32,760 --> 00:14:37,640
+are using to understand what's happening
+underwater with the ROV right now.
+
+224
+00:14:38,400 --> 00:14:41,540
+And then we're going
+to walk around this way to give you guys
+
+225
+00:14:41,540 --> 00:14:44,540
+just a little bit different view.
+
+226
+00:14:46,760 --> 00:14:50,040
+Alexis, can you tell us what,
+this the researchers
+
+227
+00:14:50,040 --> 00:14:53,580
+they are looking at on those screens,
+the role mission control plays?
+
+228
+00:14:53,860 --> 00:14:58,020
+And tell us a little bit more
+about how you use ROVs in your research?
+
+229
+00:14:58,740 --> 00:14:59,360
+Absolutely.
+
+230
+00:14:59,360 --> 00:15:02,720
+So first I'm going to kind of introduce
+who is here right now.
+
+231
+00:15:02,720 --> 00:15:05,040
+So you guys can see the people in action.
+
+232
+00:15:05,040 --> 00:15:07,260
+We have two ROV pilots.
+
+233
+00:15:07,260 --> 00:15:11,900
+So we have Colin waving at you
+and we have Ewan, our pilot,
+
+234
+00:15:11,900 --> 00:15:12,720
+over on the other side.
+
+235
+00:15:12,720 --> 00:15:17,840
+So their role is to make sure everything
+that happens with the ROV is happening well.
+
+236
+00:15:17,840 --> 00:15:20,060
+They're engineers, they're pilots.
+
+237
+00:15:20,060 --> 00:15:22,100
+They have multiple roles on board
+
+238
+00:15:22,100 --> 00:15:25,260
+to make sure
+that we're doing our operations safe.
+
+239
+00:15:25,260 --> 00:15:28,080
+And also like they're incredibly good
+at doing their job.
+
+240
+00:15:28,080 --> 00:15:31,520
+So making sure that we get great video
+and we get great samples.
+
+241
+00:15:32,280 --> 00:15:36,300
+And so what we're doing right now is
+the scientists are in the back row.
+
+242
+00:15:36,300 --> 00:15:39,300
+Here are scientists
+from the Western Australian Museum,
+
+243
+00:15:39,360 --> 00:15:40,980
+and they're leading in the dock
+
+244
+00:15:42,160 --> 00:15:43,920
+as meaning that they're helping,
+
+245
+00:15:43,920 --> 00:15:45,960
+they're telling the pilots
+what they'd like to do,
+
+246
+00:15:45,960 --> 00:15:48,440
+what they'd like to look at,
+and what they'd like to collect.
+
+247
+00:15:48,440 --> 00:15:51,360
+And that allows for them
+to get the samples
+
+248
+00:15:51,360 --> 00:15:54,660
+that they're interested in from eDNA,
+like Jen talked about, as well as
+
+249
+00:15:55,020 --> 00:15:58,100
+other collections that we bring back
+on board and into the wet lab.
+
+250
+00:15:58,700 --> 00:16:01,820
+And so what they're looking at right now
+
+251
+00:16:01,820 --> 00:16:04,820
+on the screens is
+
+252
+00:16:05,120 --> 00:16:07,900
+they're looking at a coral right now,
+which is my favorite topic.
+
+253
+00:16:07,900 --> 00:16:10,700
+And then they have
+some brittle stars on top.
+
+254
+00:16:10,700 --> 00:16:13,500
+And you can see there's
+a bunch of different screens
+
+255
+00:16:13,500 --> 00:16:17,480
+and that's so that they can see
+what's happening all around the ROV,
+
+256
+00:16:17,480 --> 00:16:22,140
+because it's a robot that's essentially
+at 3000m down on the seafloor right now.
+
+257
+00:16:22,460 --> 00:16:25,460
+And so we have six cameras
+that allow us to look
+
+258
+00:16:25,920 --> 00:16:28,260
+at what's in front of the ROV,
+what's underneath
+
+259
+00:16:28,260 --> 00:16:31,360
+the ROV, what's behind the ROV,
+and what's on the left
+
+260
+00:16:31,380 --> 00:16:32,760
+and the right of the RV.
+
+261
+00:16:32,760 --> 00:16:36,560
+And then we also have
+some other instruments and screens
+
+262
+00:16:36,580 --> 00:16:37,820
+that allow the pilots
+
+263
+00:16:37,820 --> 00:16:38,240
+to make sure
+
+264
+00:16:38,240 --> 00:16:40,080
+that all of the mechanics
+are working well,
+
+265
+00:16:40,080 --> 00:16:43,160
+and that we know exactly where
+the ROV is in relation to the ship.
+
+266
+00:16:43,720 --> 00:16:48,500
+So it's a it's a complicated, operation,
+but this team has it,
+
+267
+00:16:48,500 --> 00:16:51,540
+has it down really well to make it
+look easy and efficient.
+
+268
+00:16:52,280 --> 00:16:55,440
+And how does the ROV then
+collect specimens?
+
+269
+00:16:55,440 --> 00:16:58,140
+If you see something that you'd like
+to bring back to the vessel.
+
+270
+00:16:59,460 --> 00:17:01,980
+Yeah,
+we have a couple different mechanisms.
+
+271
+00:17:01,980 --> 00:17:04,580
+And actually they're doing one right now.
+
+272
+00:17:04,580 --> 00:17:09,900
+So you can see Colin right here
+has this up apparatus in his arms.
+
+273
+00:17:09,900 --> 00:17:11,300
+And so it is essentially
+
+274
+00:17:11,300 --> 00:17:15,380
+a small version of a large mechanical arm
+that's on the ROV.
+
+275
+00:17:15,820 --> 00:17:18,820
+And so he's using that to control how
+
+276
+00:17:19,640 --> 00:17:21,420
+he's using that to control how
+
+277
+00:17:21,420 --> 00:17:24,560
+he is moving that arm underwater.
+
+278
+00:17:24,800 --> 00:17:27,560
+And what he has grasped in the arm
+right now is what
+
+279
+00:17:27,560 --> 00:17:29,060
+we would call a suction sampler.
+
+280
+00:17:29,060 --> 00:17:34,300
+So it's a, it's a tube that will
+
+281
+00:17:34,600 --> 00:17:38,700
+we can use suction power to bring whatever
+animal they're interested in getting,
+
+282
+00:17:38,700 --> 00:17:42,060
+and it'll bring it back into a chamber
+that's located on the ROV.
+
+283
+00:17:43,160 --> 00:17:43,920
+Incredible.
+
+284
+00:17:43,920 --> 00:17:46,940
+And at that depth, at 3000m,
+can you give us an idea
+
+285
+00:17:46,940 --> 00:17:50,060
+of the sort of the pressure
+that the ROV would be under?
+
+286
+00:17:51,260 --> 00:17:52,600
+It's under immense pressure.
+
+287
+00:17:52,600 --> 00:17:56,320
+So one of the reasons that we use ROVs
+is it's very difficult
+
+288
+00:17:56,320 --> 00:17:57,740
+to work in these conditions.
+
+289
+00:17:57,740 --> 00:18:00,000
+There are submersibles that can do that.
+
+290
+00:18:00,000 --> 00:18:01,160
+But when we get down
+
+291
+00:18:01,160 --> 00:18:04,140
+this deep, the pressure is so intense
+that it requires
+
+292
+00:18:04,140 --> 00:18:07,020
+really, really specialized equipment
+in order to work there.
+
+293
+00:18:07,020 --> 00:18:10,940
+So the ROV is unmanned,
+meaning that it's a robot down there
+
+294
+00:18:10,940 --> 00:18:14,880
+operating from the guys doing it up
+here, on the surface.
+
+295
+00:18:14,880 --> 00:18:17,880
+But there's nobody
+physically in the, in the ROV.
+
+296
+00:18:18,140 --> 00:18:21,260
+Because what we're talking about here,
+folks, is the deep ocean.
+
+297
+00:18:21,260 --> 00:18:24,300
+It's its largest
+and least explored habitat.
+
+298
+00:18:24,560 --> 00:18:28,860
+More than seventy percent of it
+remains unmapped and unexplored.
+
+299
+00:18:29,040 --> 00:18:32,300
+And we know less
+about some deep sea environments
+
+300
+00:18:32,460 --> 00:18:35,460
+than we do about the surface of the moon.
+
+301
+00:18:35,460 --> 00:18:37,260
+How crazy is that?
+
+302
+00:18:37,260 --> 00:18:40,860
+Western Australia borders
+the eastern reaches of the Indian Ocean,
+
+303
+00:18:40,860 --> 00:18:44,000
+the world's third largest ocean basin
+and one of its
+
+304
+00:18:44,000 --> 00:18:47,000
+most environmentally diverse
+marine regions.
+
+305
+00:18:47,220 --> 00:18:50,780
+The Indian Ocean encompasses vast
+deep-sea landscapes,
+
+306
+00:18:50,780 --> 00:18:54,780
+including canyons,
+seamounts, abyssal plains, and trenches.
+
+307
+00:18:55,080 --> 00:18:59,880
+These remote environments provide habitats
+for remarkable species that have evolved
+
+308
+00:18:59,880 --> 00:19:03,960
+unique adaptations to survive
+in conditions of complete darkness,
+
+309
+00:19:04,160 --> 00:19:07,020
+intense pressure, and extreme cold.
+
+310
+00:19:07,020 --> 00:19:09,540
+Jen, I want to talk a bit more about
+
+311
+00:19:09,540 --> 00:19:13,320
+how ROVs have made deep-sea
+research possible.
+
+312
+00:19:13,600 --> 00:19:17,480
+Can you tell us about what it might see
+at the depths
+
+313
+00:19:17,480 --> 00:19:20,040
+it's at today,
+and what are you looking at?
+
+314
+00:19:22,320 --> 00:19:24,260
+So ROVs, of course, were
+
+315
+00:19:24,260 --> 00:19:28,040
+developed as part of the
+oil and gas industry.
+
+316
+00:19:28,040 --> 00:19:32,480
+They used extensively for laying cables,
+repairing of pipelines.
+
+317
+00:19:32,820 --> 00:19:36,120
+But in terms of science
+that they're not used that extensively out
+
+318
+00:19:36,120 --> 00:19:37,800
+well certainly not in Australia.
+
+319
+00:19:37,800 --> 00:19:41,600
+So this opportunity for us to access
+an ROV has been really,
+
+320
+00:19:41,640 --> 00:19:43,520
+you know, fantastic for us
+
+321
+00:19:43,520 --> 00:19:48,480
+because it gives us access
+to habitat like this sort of rocky
+
+322
+00:19:48,480 --> 00:19:52,080
+sort of basalt environment that we wouldn't
+otherwise be able to sample.
+
+323
+00:19:52,080 --> 00:19:55,080
+And you can see that...
+
+324
+00:19:59,220 --> 00:20:02,300
+Oh, I think we've lost, lost
+Jen there for a second.
+
+325
+00:20:02,300 --> 00:20:03,540
+I'm sure we'll get her back.
+
+326
+00:20:03,540 --> 00:20:07,680
+But we can see incredible footage,
+from the OceanXplorer
+
+327
+00:20:07,680 --> 00:20:11,340
+of how they get those samples
+using the ROV.
+
+328
+00:20:11,780 --> 00:20:14,820
+... Incredible community of hard corals.
+
+329
+00:20:15,200 --> 00:20:17,940
+What have you seen?
+You've seen something?
+
+330
+00:20:17,940 --> 00:20:22,340
+No? We saw a holothurian,
+a beautiful
+
+331
+00:20:22,340 --> 00:20:25,700
+sea cucumber that I don't think
+we've collected to date.
+
+332
+00:20:25,700 --> 00:20:28,940
+So I think, the staff were getting
+a little bit excited.
+
+333
+00:20:28,940 --> 00:20:34,940
+So, yeah, really interesting communities,
+that, we really weren't anticipating
+
+334
+00:20:34,940 --> 00:20:38,900
+a much more diverse and abundant
+that, that we would ever have hoped.
+
+335
+00:20:38,900 --> 00:20:43,080
+So it's been very, it's
+been incredibly fruitful for us
+
+336
+00:20:43,080 --> 00:20:47,060
+from a collections perspective
+and an ability to be able to, you know,
+
+337
+00:20:47,580 --> 00:20:51,600
+bring these samples back to the Museum
+for us to be able to study.
+
+338
+00:20:51,600 --> 00:20:54,720
+Jen, I can imagine
+everybody would gather around the screens
+
+339
+00:20:54,720 --> 00:20:57,900
+there to see, you know,
+what the ROV might discover.
+
+340
+00:20:58,080 --> 00:21:01,640
+Could you take us through
+what it feels like when you see something
+
+341
+00:21:01,640 --> 00:21:03,600
+that is unknown that you haven't
+
+342
+00:21:03,600 --> 00:21:06,720
+come across before,
+that might be completely new to science?
+
+343
+00:21:07,920 --> 00:21:08,220
+Yeah,
+
+344
+00:21:08,220 --> 00:21:11,360
+there's certainly that 'a-ha' moment you get
+when you see something
+
+345
+00:21:11,360 --> 00:21:15,620
+that has these never, you know, you
+know, is a is potentially a new species.
+
+346
+00:21:15,620 --> 00:21:19,500
+There is a little bit of whooping
+and jumping in the air.
+
+347
+00:21:19,500 --> 00:21:23,780
+And you know when, when someone like
+Alexis, who has got so much experience
+
+348
+00:21:23,780 --> 00:21:27,540
+working in the deep sea,
+when she gets excited and,
+
+349
+00:21:27,540 --> 00:21:32,300
+you know, we're onto something which,
+which we've seen around these seamounts
+
+350
+00:21:32,300 --> 00:21:33,320
+that we've been working on.
+
+351
+00:21:33,320 --> 00:21:36,020
+So to me, that's, that means a lot.
+
+352
+00:21:36,020 --> 00:21:40,400
+It means that, you know, we've
+really been in some very special places.
+
+353
+00:21:40,860 --> 00:21:44,480
+And now because of the quality
+of the camera work in this connection,
+
+354
+00:21:44,660 --> 00:21:48,780
+it looks like you could be in a,
+in a high tech office anywhere on land.
+
+355
+00:21:48,780 --> 00:21:50,780
+But of course, you're out
+on the high seas.
+
+356
+00:21:50,780 --> 00:21:53,160
+You're researching the deep ocean.
+
+357
+00:21:53,160 --> 00:21:57,300
+Alexis, can you give us an idea of
+of some of the biggest challenges
+
+358
+00:21:57,300 --> 00:22:00,360
+that you must face
+in the course of your work?
+
+359
+00:22:01,340 --> 00:22:02,040
+Yeah.
+
+360
+00:22:02,040 --> 00:22:05,360
+So we're really fortunate
+to have a really fantastic vessel.
+
+361
+00:22:05,360 --> 00:22:06,620
+And we have really good,
+
+362
+00:22:06,620 --> 00:22:10,640
+you know, internet connection
+now with kind of the development of,
+
+363
+00:22:10,640 --> 00:22:14,460
+better internet providers,
+Starlink and things like that.
+
+364
+00:22:14,460 --> 00:22:18,180
+But over the years of doing this,
+
+365
+00:22:18,180 --> 00:22:21,180
+there's always different challenges
+that come up with each mission.
+
+366
+00:22:21,200 --> 00:22:25,500
+One of them that is always out of our
+control is weather and ocean currents.
+
+367
+00:22:25,500 --> 00:22:30,180
+So, you know, we have a capacity
+to operate up to a certain weather window.
+
+368
+00:22:30,180 --> 00:22:32,720
+But sometimes
+Mother Nature has other ideas
+
+369
+00:22:32,720 --> 00:22:34,780
+and we just have to be okay with that.
+
+370
+00:22:34,780 --> 00:22:37,400
+There's also always the complications.
+
+371
+00:22:37,400 --> 00:22:39,380
+We're working with really
+high tech equipment.
+
+372
+00:22:39,380 --> 00:22:43,820
+So that requires having everybody on board
+that could handle any complication
+
+373
+00:22:43,820 --> 00:22:44,760
+that comes up.
+
+374
+00:22:44,760 --> 00:22:48,980
+And so what the ship does is
+it staffs in a way that we can repair
+
+375
+00:22:48,980 --> 00:22:51,980
+most anything, that we're to have an issue
+while we're out here.
+
+376
+00:22:51,980 --> 00:22:53,720
+But sometimes it's something
+
+377
+00:22:53,720 --> 00:22:56,760
+that requires a new part
+or we have to go back into port for.
+
+378
+00:22:56,760 --> 00:22:59,340
+So there's things like that
+that are out of our control,
+
+379
+00:22:59,340 --> 00:23:02,480
+but we really do our best to
+to come out with a team
+
+380
+00:23:02,480 --> 00:23:06,260
+that can kind of handle
+any of the challenges that come our way.
+
+381
+00:23:06,460 --> 00:23:09,740
+And normally we can make,
+we can make something work.
+
+382
+00:23:11,000 --> 00:23:11,660
+And now this
+
+383
+00:23:11,660 --> 00:23:15,540
+this might be a silly question, but
+as someone who gets queasy on the
+
+384
+00:23:15,540 --> 00:23:18,800
+Rotto ferry, is being a marine
+
+385
+00:23:18,800 --> 00:23:21,860
+scientist,
+does it sort of automatically self-select?
+
+386
+00:23:21,900 --> 00:23:23,340
+So if you get seasick,
+
+387
+00:23:23,340 --> 00:23:26,340
+you're probably just not going to be
+in this field of research?
+
+388
+00:23:27,420 --> 00:23:29,760
+Or you learn
+which medication works for you.
+
+389
+00:23:29,760 --> 00:23:33,780
+So there are there are folks
+that you know, they know, they've learned,
+
+390
+00:23:34,080 --> 00:23:37,520
+but that they don't agree well with the
+with the movement of the ship.
+
+391
+00:23:37,520 --> 00:23:40,040
+And so they figure out, you know,
+how do they combat that?
+
+392
+00:23:40,040 --> 00:23:43,160
+Or they decide that they're going to do
+the analysis on land,
+
+393
+00:23:43,320 --> 00:23:46,320
+so they send somebody else to come
+do the work on the ship.
+
+394
+00:23:46,500 --> 00:23:50,520
+But the other is that
+generally giving yourself three days or so
+
+395
+00:23:50,520 --> 00:23:53,600
+and you get your sea legs
+so most people can acclimate after
+
+396
+00:23:53,880 --> 00:23:55,820
+after
+just a little bit of time on the ship.
+
+397
+00:23:55,820 --> 00:23:57,400
+Oh, that's good to know.
+
+398
+00:23:57,400 --> 00:24:00,780
+And what's the what's the biggest swell
+that you've, you've encountered?
+
+399
+00:24:01,860 --> 00:24:05,280
+We have had
+maybe a couple metres on this expedition.
+
+400
+00:24:05,280 --> 00:24:08,280
+So nothing too crazy, but three metres
+
+401
+00:24:08,320 --> 00:24:11,120
+feels, you can feel it
+when you're on the ship.
+
+402
+00:24:11,120 --> 00:24:15,840
+But yeah, there's other folks
+that have been sailing for a long time,
+
+403
+00:24:15,840 --> 00:24:18,920
+and they could give you
+some serious stories about having
+
+404
+00:24:18,920 --> 00:24:21,920
+to strap yourself into your bed
+and things like that.
+
+405
+00:24:22,140 --> 00:24:23,160
+Oh my goodness.
+
+406
+00:24:23,160 --> 00:24:26,760
+Well, thank you
+both for this very insightful tour, folks.
+
+407
+00:24:26,760 --> 00:24:29,760
+Can you put your hands together
+for Jen and Alexis?
+
+408
+00:24:32,880 --> 00:24:33,200
+Okay.
+
+409
+00:24:33,200 --> 00:24:35,040
+So now I believe,
+
+410
+00:24:35,040 --> 00:24:38,340
+you're going to find somewhere comfortable
+to sit in mission control
+
+411
+00:24:38,340 --> 00:24:42,140
+because it's time for the audience,
+to ask the questions.
+
+412
+00:24:42,420 --> 00:24:46,380
+And so, folks, we're going to have
+a microphone that we'll bring around.
+
+413
+00:24:46,380 --> 00:24:48,740
+So if you put your hand up,
+we will come to you.
+
+414
+00:24:48,740 --> 00:24:50,300
+Wait till you've got the microphone.
+
+415
+00:24:50,300 --> 00:24:52,380
+So Jen and Alexis can hear you.
+
+416
+00:24:52,380 --> 00:24:56,280
+And, as a favor,
+could you please just avoid
+
+417
+00:24:56,280 --> 00:24:58,560
+making any statements before the question?
+
+418
+00:24:58,560 --> 00:25:02,780
+Just ask the question so we can get
+through as many questions as possible.
+
+419
+00:25:02,780 --> 00:25:06,860
+Because we do have a limited time,
+with the gang on the ship.
+
+420
+00:25:07,440 --> 00:25:10,460
+So who wants to go first, madam
+
+421
+00:25:10,460 --> 00:25:10,980
+in the front?
+
+422
+00:25:12,180 --> 00:25:15,740
+Q: I'm just wondering if it's possible
+to be a volunteer on such a
+
+423
+00:25:15,740 --> 00:25:19,220
+sort of scientific exploration vessel?
+
+424
+00:25:19,820 --> 00:25:22,260
+Volunteering
+
+425
+00:25:22,260 --> 00:25:25,160
+Wondering if it's possible?
+
+426
+00:25:25,160 --> 00:25:29,160
+So, because of our types of operations,
+our ship is staffed
+
+427
+00:25:29,160 --> 00:25:33,600
+really specifically to, be able to cover
+all of the different things that we do.
+
+428
+00:25:33,600 --> 00:25:38,420
+So we often don't have space, for anybody
+that's not got a really specific job
+
+429
+00:25:38,420 --> 00:25:39,240
+while we're out here.
+
+430
+00:25:39,240 --> 00:25:42,500
+So while we love for people
+to get involved however they can
+
+431
+00:25:42,780 --> 00:25:45,720
+normally on the vessel,
+it's, it's trained professionals
+
+432
+00:25:45,720 --> 00:25:48,480
+so that we can make sure
+we're utilizing our time well.
+
+433
+00:25:48,480 --> 00:25:51,480
+Q: Can you take a moment to explain what's going on behind you?
+
+434
+00:25:52,740 --> 00:25:53,360
+Okay. Yeah.
+
+435
+00:25:53,360 --> 00:25:55,160
+Somebody else quickly?
+
+436
+00:25:55,160 --> 00:25:58,140
+I'll say, Ben, behind us
+you can see this screen.
+
+437
+00:25:58,140 --> 00:26:00,060
+This is the ROV feed right now.
+
+438
+00:26:00,060 --> 00:26:03,120
+So this is what the pilots
+and the scientists are seeing.
+
+439
+00:26:03,120 --> 00:26:07,320
+So also, if people have questions
+about what's going on, please feel free to ask.
+
+440
+00:26:07,580 --> 00:26:10,320
+So we see if we see something
+that we think is
+
+441
+00:26:10,320 --> 00:26:13,320
+new to science behind you,
+we'll just like turn around.
+
+442
+00:26:14,000 --> 00:26:14,780
+Yes.
+
+443
+00:26:16,320 --> 00:26:16,620
+Okay.
+
+444
+00:26:16,620 --> 00:26:19,140
+We've got another question.
+
+445
+00:26:19,140 --> 00:26:22,140
+Q: What was your first discovery?
+
+446
+00:26:22,920 --> 00:26:25,340
+You want to go?
+
+447
+00:26:25,340 --> 00:26:28,320
+Oh, that's, that's tricky.
+
+448
+00:26:28,320 --> 00:26:30,200
+So my first discovery.
+
+449
+00:26:30,200 --> 00:26:34,500
+Well, I discovered a new
+species of fish in the,
+
+450
+00:26:34,560 --> 00:26:37,680
+in the Indian Ocean in the northwest
+Indian Ocean.
+
+451
+00:26:38,240 --> 00:26:41,240
+I haven't named it yet,
+but it's definitely a new species.
+
+452
+00:26:41,640 --> 00:26:45,600
+So that's very exciting to be able
+to, to be able to, you know,
+
+453
+00:26:45,920 --> 00:26:48,960
+put a name to a species
+that's very new to science.
+
+454
+00:26:49,920 --> 00:26:51,480
+Oh, Jen, I've got an idea for a name.
+
+455
+00:26:51,480 --> 00:26:52,220
+Why don't you call it
+
+456
+00:26:52,220 --> 00:26:54,780
+Ben, could you call it Ben?
+
+457
+00:26:54,780 --> 00:26:57,040
+Ben I.
+Oh, yeah. Of course.
+
+458
+00:26:57,040 --> 00:26:58,040
+Okay.
+
+459
+00:26:58,040 --> 00:27:01,040
+Now we've got somebody else. Yep.
+
+460
+00:27:03,260 --> 00:27:06,260
+Q: How many species have you discovered?
+
+461
+00:27:07,860 --> 00:27:09,000
+That's a really good question.
+
+462
+00:27:09,000 --> 00:27:12,740
+So a lot of the time,
+we don't know for certain
+
+463
+00:27:12,740 --> 00:27:17,160
+that something is new until a scientist
+like the curators at WAM can spend
+
+464
+00:27:17,160 --> 00:27:20,280
+a good amount of time looking at it
+and comparing it to other animals.
+
+465
+00:27:20,280 --> 00:27:23,940
+So we have discovered definitely,
+you know, in the order
+
+466
+00:27:23,940 --> 00:27:28,140
+in the magnitude of a hundred new species
+aboard the OceanXplorer.
+
+467
+00:27:28,140 --> 00:27:32,640
+But that number is always growing, as
+we continue to do exploration like this.
+
+468
+00:27:33,980 --> 00:27:34,400
+Amazing.
+
+469
+00:27:34,400 --> 00:27:37,220
+Oh, we've got another one.
+
+470
+00:27:37,220 --> 00:27:41,560
+Q: How many seaweed
+have you found in your explore
+
+471
+00:27:43,200 --> 00:27:43,920
+Seaweed?
+
+472
+00:27:43,920 --> 00:27:44,660
+Yeah.
+
+473
+00:27:44,660 --> 00:27:45,680
+Yeah. Seaweed.
+
+474
+00:27:45,680 --> 00:27:47,940
+We haven't seen a lot of seaweed.
+
+475
+00:27:47,940 --> 00:27:51,040
+You know, seaweed,
+of course, requires a lot.
+
+476
+00:27:51,360 --> 00:27:52,260
+of light in order to live.
+
+477
+00:27:52,260 --> 00:27:57,360
+And in these very,
+very deep environments, there is no light.
+
+478
+00:27:57,360 --> 00:27:59,060
+It's completely dark.
+
+479
+00:27:59,060 --> 00:28:04,100
+And so seaweed really
+can't grow at 2 or 3 or 4000m
+
+480
+00:28:04,100 --> 00:28:08,000
+where we like
+where we're working on board the ship.
+
+481
+00:28:08,000 --> 00:28:11,780
+So you'd have to you have to go up
+into the sort of the shallow,
+
+482
+00:28:12,440 --> 00:28:15,860
+environments
+in order to find and study seaweed.
+
+483
+00:28:17,400 --> 00:28:19,580
+Okay. Yeah. Somebody else?
+
+484
+00:28:19,580 --> 00:28:24,560
+Q: Hi, you said that you are taking samples
+from 3000m below the sea surface.
+
+485
+00:28:25,160 --> 00:28:28,020
+How does it affect the sample
+when you bring it up
+
+486
+00:28:28,020 --> 00:28:31,920
+the current air
+pressure that we have here up on land?
+
+487
+00:28:32,900 --> 00:28:34,760
+Yeah, that's also a really great question.
+
+488
+00:28:34,760 --> 00:28:38,040
+So, there, like I said, there's immense
+pressure down there.
+
+489
+00:28:38,040 --> 00:28:39,240
+But most of the sampling
+
+490
+00:28:39,240 --> 00:28:43,860
+that we do is of either
+sediments, water or invertebrate animals.
+
+491
+00:28:43,860 --> 00:28:46,460
+And so they don't actually
+have much,
+
+492
+00:28:46,460 --> 00:28:50,460
+the pressure doesn't impact them because
+they have no air within their bodies.
+
+493
+00:28:51,000 --> 00:28:54,320
+And so when you bring them up, they
+they still look the same.
+
+494
+00:28:54,320 --> 00:28:56,300
+They still have the same structure.
+
+495
+00:28:56,300 --> 00:28:59,360
+But when we work with fish,
+that can be a different story.
+
+496
+00:28:59,360 --> 00:29:02,420
+So the fish, we want to make sure
+we bring them up in a humane way,
+
+497
+00:29:02,420 --> 00:29:04,940
+and we work with them
+so that when we preserve them,
+
+498
+00:29:04,940 --> 00:29:09,200
+they are going through a process
+that, that isn't harmful to the fish.
+
+499
+00:29:09,900 --> 00:29:13,680
+And also, the other thing I'd like to add
+is that the nature of this
+
+500
+00:29:13,680 --> 00:29:17,160
+and the beauty about working with an RV
+is it's highly selective.
+
+501
+00:29:17,160 --> 00:29:22,340
+And, it means that we take
+only a very few number
+
+502
+00:29:22,520 --> 00:29:25,520
+of samples of the species
+that we're interested in.
+
+503
+00:29:25,700 --> 00:29:28,520
+And, and that's really important to us.
+
+504
+00:29:28,520 --> 00:29:32,340
+So we're not harming the environment
+in any way because we're taking
+
+505
+00:29:32,340 --> 00:29:33,420
+and you can see
+
+506
+00:29:33,420 --> 00:29:37,500
+just how many animals, you know,
+we'll often just take a photograph.
+
+507
+00:29:38,420 --> 00:29:42,720
+And so you can see just how abundant
+a lot of these animals are.
+
+508
+00:29:42,720 --> 00:29:45,800
+And we've taken just very few samples
+on this particular dive.
+
+509
+00:29:46,380 --> 00:29:46,720
+Yeah.
+
+510
+00:29:46,720 --> 00:29:50,780
+It's helpful just for context with
+what Jen's saying, is that, like the camera,
+
+511
+00:29:51,180 --> 00:29:54,800
+as Ben said earlier, are so high quality
+and so high resolution
+
+512
+00:29:54,800 --> 00:29:59,040
+that if we get one,
+one representative of the physical sample,
+
+513
+00:29:59,040 --> 00:30:00,860
+that means that we can
+then look at the video
+
+514
+00:30:00,860 --> 00:30:02,840
+and compare it
+to the other ones that we see,
+
+515
+00:30:02,840 --> 00:30:05,840
+and it allows us to identify them
+just on the imagery.
+
+516
+00:30:06,360 --> 00:30:08,900
+I hope you guys are comfortable,
+because there's a lot of kids here, and I
+
+517
+00:30:08,900 --> 00:30:12,340
+can see a lot of hands up in the audience,
+some in the front row as well.
+
+518
+00:30:12,360 --> 00:30:14,300
+Alicia, you've got
+somebody else with a question.
+
+519
+00:30:15,300 --> 00:30:17,200
+Q: Hi. I have two questions.
+
+520
+00:30:17,200 --> 00:30:20,840
+The first one,
+have you found any DNA samples of,
+
+521
+00:30:20,840 --> 00:30:24,320
+species that you thought were,
+that we think had gone extinct?
+
+522
+00:30:25,220 --> 00:30:28,020
+And the second question is,
+
+523
+00:30:28,020 --> 00:30:31,020
+do you have an onboard medic?
+
+524
+00:30:31,320 --> 00:30:33,320
+Yeah, yeah. So I'll start with number two.
+
+525
+00:30:33,320 --> 00:30:34,520
+We do have an onboard medic.
+
+526
+00:30:34,520 --> 00:30:38,700
+So we always sail with,
+somebody who sails as a medical officer.
+
+527
+00:30:38,700 --> 00:30:42,300
+So they're trained, to handle
+anything that might happen.
+
+528
+00:30:42,600 --> 00:30:45,600
+And then for discovering things
+that might be extinct.
+
+529
+00:30:46,020 --> 00:30:50,600
+We have had some studies where we detect
+really interesting DNA that I can't quite
+
+530
+00:30:51,800 --> 00:30:56,600
+speak about, but we definitely are often
+finding kind of the unexpected
+
+531
+00:30:56,600 --> 00:31:00,860
+in the DNA samples that we, that we sequence.
+Yeah.
+
+532
+00:31:00,860 --> 00:31:05,220
+So the eDNA, the water samples
+would certainly pick up DNA of things
+
+533
+00:31:05,220 --> 00:31:10,920
+like whales, big marine mammals, dolphins,
+so that's the beauty about it.
+
+534
+00:31:10,920 --> 00:31:16,340
+It can it can detect DNA without having
+to harm those animals in any way.
+
+535
+00:31:17,340 --> 00:31:18,720
+And so when you collect
+
+536
+00:31:18,720 --> 00:31:22,700
+this DNA,
+you're comparing it to existing samples
+
+537
+00:31:22,940 --> 00:31:25,940
+that are, say, in the WA Museum's collection,
+
+538
+00:31:26,520 --> 00:31:28,800
+what happens if you come across something
+that isn't
+
+539
+00:31:28,800 --> 00:31:31,800
+in the collection?
+
+540
+00:31:33,740 --> 00:31:34,460
+Yeah.
+
+541
+00:31:34,460 --> 00:31:37,140
+That's a, that's a
+that's a really good question.
+
+542
+00:31:37,140 --> 00:31:40,820
+That doesn't happen very often because we
+we have a we have a pretty extensive,
+
+543
+00:31:41,360 --> 00:31:44,140
+collection to that end.
+
+544
+00:31:44,140 --> 00:31:49,160
+And so it what would what would happen
+in that particular instance
+
+545
+00:31:49,160 --> 00:31:54,960
+is that the geneticists
+would then go and look at a global library
+
+546
+00:31:54,960 --> 00:31:59,040
+of DNA sequences to try and track it down,
+to see if they can actually,
+
+547
+00:31:59,600 --> 00:32:04,740
+you know, so there are these global
+databases that they can tap into and,
+
+548
+00:32:04,740 --> 00:32:10,180
+and use and screen for, for the animals
+that they're detecting with DNA.
+
+549
+00:32:10,200 --> 00:32:13,200
+If in fact, you know,
+we're unable to help them.
+
+550
+00:32:13,640 --> 00:32:13,880
+Yeah.
+
+551
+00:32:13,880 --> 00:32:17,300
+And one of the things that is
+is interesting with eDNA,
+
+552
+00:32:17,300 --> 00:32:21,500
+especially in the oceans,
+is that when you create the sequences
+
+553
+00:32:21,500 --> 00:32:24,800
+and you're looking at and trying
+to match them back to those databases,
+
+554
+00:32:24,800 --> 00:32:29,660
+so what are known sequences and have,
+a species identified with them?
+
+555
+00:32:30,260 --> 00:32:33,180
+There's actually
+a high percentage of that total DNA
+
+556
+00:32:33,180 --> 00:32:36,180
+that has no match, because we haven't
+
+557
+00:32:36,740 --> 00:32:39,320
+collected a sample of it
+somewhere in the world before.
+
+558
+00:32:39,320 --> 00:32:39,840
+So that's
+
+559
+00:32:39,840 --> 00:32:44,360
+where continuing to do the collections
+alongside the eDNA is really important,
+
+560
+00:32:44,360 --> 00:32:47,960
+because every collection
+we make improves that detection ability.
+
+561
+00:32:48,020 --> 00:32:52,520
+And with our folks from OceanOmics,
+they were talking about before that,
+
+562
+00:32:52,880 --> 00:32:55,620
+you know,
+they've done comparative studies to
+
+563
+00:32:55,620 --> 00:32:58,760
+if they're just sequencing
+based on global data and comparing
+
+564
+00:32:58,760 --> 00:33:03,060
+to global databases versus this type
+of pairing situation where we bring
+
+565
+00:33:04,020 --> 00:33:05,100
+samples back
+
+566
+00:33:05,100 --> 00:33:08,100
+from the area
+that they're collecting their water eDNA,
+
+567
+00:33:08,280 --> 00:33:12,320
+they have a much higher rate
+of those detections,
+
+568
+00:33:12,320 --> 00:33:15,600
+matching something
+that they were collecting in that time.
+
+569
+00:33:16,100 --> 00:33:19,520
+Now we've got someone in the front row
+who's been waiting to ask a question.
+
+570
+00:33:19,760 --> 00:33:21,380
+Take it away.
+
+571
+00:33:21,380 --> 00:33:24,360
+Q: How many, how much pollution
+
+572
+00:33:24,360 --> 00:33:27,360
+and microplastics have you seen since
+you started your expedition?
+
+573
+00:33:29,240 --> 00:33:30,460
+That's a really good question.
+
+574
+00:33:30,460 --> 00:33:33,680
+We actually haven't seen a ton of
+of plastic
+
+575
+00:33:33,680 --> 00:33:37,040
+or anything that's large
+enough for us to see on the seafloor.
+
+576
+00:33:37,040 --> 00:33:40,800
+But there have been a number of studies
+that show that unfortunately,
+
+577
+00:33:40,800 --> 00:33:44,580
+there is a lot of microplastic,
+kind of all over the ocean at this point.
+
+578
+00:33:44,580 --> 00:33:48,360
+So we are always keeping an eye out
+and we try and document that,
+
+579
+00:33:48,520 --> 00:33:50,700
+those types of observations
+when we see them,
+
+580
+00:33:50,700 --> 00:33:55,220
+so we can have an understanding
+of how people are impacting these systems.
+
+581
+00:33:56,840 --> 00:33:57,180
+Okay.
+
+582
+00:33:57,180 --> 00:34:01,800
+>> Next?
+>> Q: Have you ever been in the submersible
+
+583
+00:34:01,800 --> 00:34:04,800
+and if so, how scary is it?
+
+584
+00:34:06,020 --> 00:34:07,680
+I have had the chance to go
+
+585
+00:34:07,680 --> 00:34:10,920
+in our submersible
+and then and in a couple others also.
+
+586
+00:34:10,920 --> 00:34:13,340
+And I for me, it's not scary.
+
+587
+00:34:13,340 --> 00:34:16,360
+For me, it's probably the most exciting
+moment of my life.
+
+588
+00:34:16,380 --> 00:34:19,380
+It's the really amazing experience
+to get to go down
+
+589
+00:34:19,640 --> 00:34:22,640
+and observe the deep sea in real time.
+
+590
+00:34:22,720 --> 00:34:25,920
+ROVs are really useful for their utility,
+but there's kind of
+
+591
+00:34:25,920 --> 00:34:29,820
+nothing like the experience
+of being in the, in the space yourself.
+
+592
+00:34:29,880 --> 00:34:33,600
+Gives you a whole different perspective
+for what these habitats
+
+593
+00:34:33,600 --> 00:34:35,200
+and ecosystems look like.
+
+594
+00:34:35,200 --> 00:34:39,260
+And, and there are two submarine,
+technicians on board
+
+595
+00:34:39,300 --> 00:34:43,680
+OceanX, the incredibly
+well trained, the,
+
+596
+00:34:43,780 --> 00:34:48,160
+the submersibles are
+maintained to a very high standard.
+
+597
+00:34:48,500 --> 00:34:52,080
+And so they're very, very safe to that and,
+
+598
+00:34:52,080 --> 00:34:55,920
+and they have a maximum depth range of down
+to about 1000m.
+
+599
+00:34:55,920 --> 00:34:58,860
+So no deeper than that.
+
+600
+00:34:58,860 --> 00:35:00,540
+And now I've got a question
+from a little girl
+
+601
+00:35:00,540 --> 00:35:03,600
+who's had her arm up so high
+and so straight,
+
+602
+00:35:03,600 --> 00:35:06,600
+I think she's going to need a physio
+after she asks this question.
+
+603
+00:35:06,720 --> 00:35:07,800
+What's your question?
+
+604
+00:35:08,960 --> 00:35:10,920
+Q: My question is
+
+605
+00:35:10,920 --> 00:35:13,920
+how many sea animals have you seen?
+
+606
+00:35:14,880 --> 00:35:18,260
+That's a really good question because
+we've seen a lot of sea animals.
+
+607
+00:35:18,380 --> 00:35:23,400
+So we are doing these ROV dives
+for about a whole day at a time.
+
+608
+00:35:23,400 --> 00:35:27,500
+So we'll, we will send the ROV
+down to the seafloor in the morning.
+
+609
+00:35:27,500 --> 00:35:28,980
+And then it explores all day.
+
+610
+00:35:28,980 --> 00:35:31,980
+So even today, we've probably seen,
+
+611
+00:35:31,980 --> 00:35:36,160
+thousands of sea animals
+that are on the seafloor.
+
+612
+00:35:36,160 --> 00:35:39,920
+And, and then we also
+are looking at plankton.
+
+613
+00:35:39,920 --> 00:35:42,920
+So really small sea animals
+that are in the water.
+
+614
+00:35:43,000 --> 00:35:47,420
+When that we're looking at what's
+in the surface of the water too.
+
+615
+00:35:47,420 --> 00:35:50,600
+While we're just looking at the screen there
+and seeing the ROV.
+
+616
+00:35:50,600 --> 00:35:52,400
+I've actually got a question
+that's come in
+
+617
+00:35:52,400 --> 00:35:55,760
+from Christmas Island,
+from the audience dialing in from there,
+
+618
+00:35:55,960 --> 00:36:01,800
+their question is, did deep sea creatures
+ever show interest in the ROV?
+
+619
+00:36:01,800 --> 00:36:04,560
+Do they swim up to it?
+Have they ever attacked it?
+
+620
+00:36:06,960 --> 00:36:08,400
+Do they? Often they're
+
+621
+00:36:08,400 --> 00:36:09,500
+actually, they're not...
+
+622
+00:36:09,500 --> 00:36:12,000
+They're normally
+not that interested in us.
+
+623
+00:36:12,000 --> 00:36:14,100
+So one of the things that is on the ROV
+
+624
+00:36:14,100 --> 00:36:15,960
+that we didn't talk about
+are a lot of lights.
+
+625
+00:36:15,960 --> 00:36:19,040
+So as Jen said earlier,
+this is an area of the ocean
+
+626
+00:36:19,040 --> 00:36:20,760
+that normally is in complete darkness.
+
+627
+00:36:20,760 --> 00:36:24,560
+So things like fish that do have eyes,
+they don't love that
+
+628
+00:36:24,560 --> 00:36:27,700
+we're shining bright lights on them,
+so they tend to kind of go the other way.
+
+629
+00:36:28,180 --> 00:36:33,020
+But we sometimes see crabs and squat
+lobsters like this little guy right here,
+
+630
+00:36:33,540 --> 00:36:35,660
+and they will definitely
+put their claws up
+
+631
+00:36:35,660 --> 00:36:38,660
+and tell us to stay away
+if we get too close.
+
+632
+00:36:39,860 --> 00:36:42,140
+Yeah.
+
+633
+00:36:42,140 --> 00:36:44,480
+Oh, and then we have ...
+
+634
+00:36:44,480 --> 00:36:47,840
+Ewan our ROV
+pilot is hearing the questions and chiming
+
+635
+00:36:47,840 --> 00:36:53,400
+in that the ROV has been attacked
+or approached by a swordfish before.
+
+636
+00:36:53,400 --> 00:36:56,120
+>> Three different swordfish.
+>> So. three different swordfish.
+
+637
+00:36:56,120 --> 00:36:58,340
+Oh, that's exciting because I think
+the people in Christmas Island,
+
+638
+00:36:58,340 --> 00:37:02,700
+maybe they've seen a Jason Statham movie,
+The giant The Meg.
+
+639
+00:37:02,900 --> 00:37:05,340
+If there's one of those down there,
+I don't know?
+
+640
+00:37:05,340 --> 00:37:08,480
+And we have a question here
+in the audience with us at the Museum.
+
+641
+00:37:09,920 --> 00:37:12,920
+Q: Have you ever seen a live oarfish before?
+
+642
+00:37:13,860 --> 00:37:15,360
+A live oarfish?
+
+643
+00:37:15,360 --> 00:37:18,980
+>> No, I have not.
+>> I have not, and I would be
+
+644
+00:37:19,020 --> 00:37:21,720
+I would love to see one,
+but I have never seen one.
+
+645
+00:37:21,720 --> 00:37:24,720
+Oarfish?
+
+646
+00:37:25,700 --> 00:37:26,120
+Okay?
+
+647
+00:37:26,120 --> 00:37:29,500
+>> Ewan has, to know that it
+>> A juvenile.
+
+648
+00:37:29,600 --> 00:37:32,180
+He's seen a juvenile oarfish.
+
+649
+00:37:32,180 --> 00:37:35,180
+When you think about
+who has the most experience looking at
+
+650
+00:37:35,420 --> 00:37:39,440
+what's in the ocean, it's our ROV pilots
+because they do this every mission.
+
+651
+00:37:39,620 --> 00:37:40,500
+Yeah.
+
+652
+00:37:40,500 --> 00:37:40,980
+Amazing.
+
+653
+00:37:40,980 --> 00:37:43,040
+Okay, another question from the audience.
+
+654
+00:37:43,040 --> 00:37:46,080
+Q: What is the weirdest looking species
+you've ever seen?
+
+655
+00:37:48,900 --> 00:37:49,620
+What do you think?
+
+656
+00:37:49,620 --> 00:37:54,260
+I, I think some of the, some of the fish
+that we're seeing on this
+
+657
+00:37:54,620 --> 00:37:58,980
+on this expedition, because they're
+so unusual that they're often long bodied,
+
+658
+00:37:58,980 --> 00:38:02,960
+they look eel-like, the conger the,
+the,
+
+659
+00:38:03,480 --> 00:38:07,400
+conger eels and yeah,
+they're extraordinary looking animals
+
+660
+00:38:07,760 --> 00:38:11,400
+that live in very cold,
+very dark environments.
+
+661
+00:38:11,400 --> 00:38:13,740
+So they're probably my favorite, I think.
+
+662
+00:38:13,740 --> 00:38:16,740
+But that's I'm a bit biased
+because I'm a fish person, so
+
+663
+00:38:16,980 --> 00:38:19,980
+I think one of mine is
+we saw one today earlier,
+
+664
+00:38:19,980 --> 00:38:23,580
+which is it's known as a 'sea spider',
+but it's called a pycnogonid.
+
+665
+00:38:23,580 --> 00:38:26,580
+So it's a type of crustacean,
+actually, that
+
+666
+00:38:26,700 --> 00:38:30,260
+looks like a spider with its long legs
+and it creeps around.
+
+667
+00:38:30,480 --> 00:38:34,220
+But they're quite, they're quite strange.
+
+668
+00:38:35,060 --> 00:38:35,820
+Oh, wow. There's something.
+
+669
+00:38:35,820 --> 00:38:36,200
+What is that?
+
+670
+00:38:36,200 --> 00:38:38,960
+What is that?
+Is that what's behind you right now?
+
+671
+00:38:38,960 --> 00:38:40,980
+That is a squat lobster.
+
+672
+00:38:40,980 --> 00:38:43,640
+So that's it's related to a crab.
+
+673
+00:38:43,640 --> 00:38:47,220
+And these ones are, we've been
+seeing them kind of in this region
+
+674
+00:38:47,580 --> 00:38:51,260
+and quite a bit where they're
+white like that and they have two claws,
+
+675
+00:38:51,480 --> 00:38:54,900
+and then they have a tail, kind of
+like a shrimp, but it tucks it under.
+
+676
+00:38:54,900 --> 00:38:58,680
+So, when they swim,
+they actually swim backwards.
+
+677
+00:38:58,680 --> 00:39:01,440
+If we, you might see it,
+if they end up spooking it.
+
+678
+00:39:01,440 --> 00:39:03,140
+That's a, and that's a glass sponge.
+
+679
+00:39:03,140 --> 00:39:05,660
+Yeah. That, that they're living on.
+
+680
+00:39:05,660 --> 00:39:07,100
+Yeah. Wow. Okay. Next?
+
+681
+00:39:08,940 --> 00:39:11,940
+Q: Will you ever go to them Ariana Trench?
+
+682
+00:39:14,400 --> 00:39:16,500
+The, the Marianas Trench?
+
+683
+00:39:16,500 --> 00:39:17,460
+Yes? No.
+
+684
+00:39:17,460 --> 00:39:21,660
+>> Oh no. Have, has OceanX?
+>> I have not, I, I don't think OceanX has.
+
+685
+00:39:21,660 --> 00:39:23,340
+I personally have not,
+
+686
+00:39:23,340 --> 00:39:27,300
+but there is other, there are other groups
+doing exploration in that area right now.
+
+687
+00:39:27,300 --> 00:39:29,520
+Yeah. Yeah.
+
+688
+00:39:29,520 --> 00:39:30,100
+Okay. Next.
+
+689
+00:39:36,480 --> 00:39:38,520
+Q: How long does it take
+
+690
+00:39:38,520 --> 00:39:41,520
+to get to the bottom of the ocean?
+
+691
+00:39:41,540 --> 00:39:42,720
+Yeah that's a really good question.
+
+692
+00:39:42,720 --> 00:39:47,220
+So the ROV descends at a certain speed.
+
+693
+00:39:47,220 --> 00:39:50,760
+And so for us to get down to about 28,
+
+694
+00:39:50,760 --> 00:39:54,600
+2800, 2900m ... Hey, Ewan?
+
+695
+00:39:54,600 --> 00:39:59,700
+>> So to get to a full operating
+depth of 6000m
+
+696
+00:39:59,700 --> 00:40:02,700
+takes about two and a half
+to two and three quarter hours.
+
+697
+00:40:03,540 --> 00:40:08,040
+So if we were going down to as deep
+as we are, we could go, which is 6000m.
+
+698
+00:40:08,040 --> 00:40:09,860
+So double where we're at today.
+
+699
+00:40:09,860 --> 00:40:12,500
+It takes about three hours to get there.
+
+700
+00:40:12,500 --> 00:40:13,200
+So for us,
+
+701
+00:40:13,200 --> 00:40:14,360
+it took us about an hour and a half
+
+702
+00:40:14,360 --> 00:40:17,360
+for the ROV
+to get to this depth this morning.
+
+703
+00:40:17,540 --> 00:40:18,180
+Yeah. Wow.
+
+704
+00:40:18,180 --> 00:40:20,640
+I've got another question
+from Christmas Island.
+
+705
+00:40:20,640 --> 00:40:23,640
+They want to know more about seamounts
+in the ocean,
+
+706
+00:40:23,640 --> 00:40:26,180
+why they have such biodiversity?
+
+707
+00:40:28,020 --> 00:40:28,260
+Yeah.
+
+708
+00:40:28,260 --> 00:40:31,260
+So seamounts
+are essentially underwater mountains.
+
+709
+00:40:31,260 --> 00:40:34,920
+And so if you think about the terrain
+of the seafloor,
+
+710
+00:40:35,000 --> 00:40:39,080
+those mountains are made up of hard rock
+or a hard surface.
+
+711
+00:40:39,080 --> 00:40:42,860
+And so the areas in between the mountains
+are what we call abyssal plain.
+
+712
+00:40:42,860 --> 00:40:44,340
+And that's often soft sediment.
+
+713
+00:40:44,340 --> 00:40:47,400
+So that's where all of that
+debris has fallen down.
+
+714
+00:40:48,060 --> 00:40:52,340
+And what we found is that most of these,
+like what we call benthic communities
+
+715
+00:40:52,340 --> 00:40:56,120
+or animals that live
+kind of on the surface of rocks,
+
+716
+00:40:56,120 --> 00:40:59,280
+they really like seamounts
+because they provide that habitat,
+
+717
+00:40:59,280 --> 00:41:01,140
+which is a place that they settle
+
+718
+00:41:01,140 --> 00:41:04,140
+and then they grow
+because they're not moving around.
+
+719
+00:41:04,400 --> 00:41:07,460
+And so what we've,
+what the scientific community
+
+720
+00:41:07,460 --> 00:41:10,800
+has kind of started to understand
+is that seamounts provide
+
+721
+00:41:10,800 --> 00:41:16,140
+these kind of hotspots across the world's
+oceans for these communities to exist.
+
+722
+00:41:17,840 --> 00:41:18,560
+Even if there's
+
+723
+00:41:18,560 --> 00:41:21,560
+not land nearby
+or other, other types of input.
+
+724
+00:41:22,400 --> 00:41:25,400
+I've got another question
+from someone here at the Museum.
+
+725
+00:41:25,940 --> 00:41:29,040
+Q: What is your favorite species of coral?
+
+726
+00:41:29,720 --> 00:41:32,580
+>> Oh, there we go.
+>> That's my favourite question.
+
+727
+00:41:32,580 --> 00:41:36,120
+I wish I could show you a picture.
+My favorite species
+
+728
+00:41:36,140 --> 00:41:40,260
+or group of coral are called bubblegum
+corals because they're bright pink
+
+729
+00:41:40,260 --> 00:41:42,500
+and they're very beautiful.
+>> Really pretty.
+
+730
+00:41:42,500 --> 00:41:46,520
+But they can live really deep
+in, in the ocean as well as
+
+731
+00:41:46,520 --> 00:41:47,840
+and they're very old, right?
+
+732
+00:41:47,840 --> 00:41:48,060
+Yeah.
+
+733
+00:41:48,060 --> 00:41:52,220
+They can grow, most of the species that
+live in the deep ocean grow very slowly.
+
+734
+00:41:52,220 --> 00:41:53,840
+And they live to be very old.
+
+735
+00:41:53,840 --> 00:41:59,280
+So the oldest coral ever age-dated
+is over 4000 years old.
+
+736
+00:41:59,280 --> 00:42:03,600
+So, these are quite, quite ancient
+
+737
+00:42:04,740 --> 00:42:05,420
+animals.
+
+738
+00:42:05,420 --> 00:42:07,080
+Well, this might be a question for you, Jen.
+
+739
+00:42:07,080 --> 00:42:09,120
+It's come
+all the way from Christmas Island.
+
+740
+00:42:09,120 --> 00:42:13,500
+Q: How long does it take to train
+as a taxonomist to do the works
+
+741
+00:42:13,500 --> 00:42:17,600
+that, the staff at the museum
+and scientists are doing?
+
+742
+00:42:19,560 --> 00:42:21,440
+So, most of our curators,
+
+743
+00:42:21,440 --> 00:42:25,200
+have PhDs,
+so they usually do an undergraduate degree
+
+744
+00:42:25,200 --> 00:42:29,480
+in marine science, and then they'll go on
+and either doing an honours or a master's.
+
+745
+00:42:29,480 --> 00:42:32,480
+So that's sort of anywhere
+from 4 to 5 years.
+
+746
+00:42:32,820 --> 00:42:33,540
+And then they'll go on
+
+747
+00:42:33,540 --> 00:42:37,080
+and do a PhD, which usually takes anywhere
+from 3 to 4 years.
+
+748
+00:42:37,440 --> 00:42:38,460
+And then they might do what
+
+749
+00:42:38,460 --> 00:42:42,080
+we call a postdoctoral fellowship,
+which is another year or two after that.
+
+750
+00:42:42,500 --> 00:42:45,840
+So yeah, a fair chunk of time,
+
+751
+00:42:45,840 --> 00:42:49,580
+I would say, anywhere
+from sort of 7 to 9 years.
+
+752
+00:42:50,760 --> 00:42:51,540
+Yeah. Wow.
+
+753
+00:42:51,540 --> 00:42:54,080
+And we've got a question here
+from the kids at the front.
+
+754
+00:42:54,080 --> 00:42:57,960
+Q: How long has OceanX been
+an exploring company?
+
+755
+00:42:59,040 --> 00:43:00,360
+Yeah, that's a good question.
+
+756
+00:43:00,360 --> 00:43:03,980
+So the ship started exploring in 2021.
+
+757
+00:43:03,980 --> 00:43:07,920
+So we have been kind of
+continuously exploring different parts
+
+758
+00:43:07,920 --> 00:43:11,660
+of the world's oceans,
+for the last five years or so.
+
+759
+00:43:13,620 --> 00:43:14,180
+I think we have time
+
+760
+00:43:14,180 --> 00:43:17,180
+for maybe one more question.
+
+761
+00:43:18,080 --> 00:43:22,740
+Q: How many ammonite fossils
+have you found starting from?
+
+762
+00:43:22,740 --> 00:43:25,740
+today?
+
+763
+00:43:27,080 --> 00:43:29,640
+We haven't,
+so we haven't found any ammonite fossils.
+
+764
+00:43:29,640 --> 00:43:34,920
+But on a previous expedition we did see
+when we were around the waters of Palau,
+
+765
+00:43:34,940 --> 00:43:38,040
+which is in the Pacific,
+we saw live Nautilus,
+
+766
+00:43:38,040 --> 00:43:40,760
+which are essentially
+the descendants of ammonites.
+
+767
+00:43:40,760 --> 00:43:42,200
+Yeah,
+
+768
+00:43:42,200 --> 00:43:42,960
+yeah. Wow.
+
+769
+00:43:42,960 --> 00:43:46,020
+Okay, folks, sadly,
+that's all we have time for today.
+
+770
+00:43:46,100 --> 00:43:49,560
+Can you please put your hands together
+and thank our scientists
+
+771
+00:43:49,560 --> 00:43:52,560
+Dr Alexis Weinnig and Dr Jen McIlwain?
+
+772
+00:43:55,400 --> 00:43:56,120
+Thanks you guys.
+
+773
+00:43:56,120 --> 00:43:57,300
+Thanks.
+
+774
+00:43:57,300 --> 00:43:58,080
+Thanks, Jen
+
+775
+00:43:58,080 --> 00:44:01,680
+and Alexis. It's been so great to
+to hear from you and hear about your work.
+
+776
+00:44:01,680 --> 00:44:03,500
+Really appreciate your time today.
+
+777
+00:44:03,500 --> 00:44:05,160
+Thank you so much.
+
+778
+00:44:05,160 --> 00:44:09,060
+And on behalf of all of us here
+at the WA Museum Boola Bardip
+
+779
+00:44:09,200 --> 00:44:12,860
+I'd like to thank everybody who joined us
+for this special event today.
+
+780
+00:44:13,220 --> 00:44:14,300
+From those who dialed
+
+781
+00:44:14,300 --> 00:44:17,760
+in from Christmas Island
+and the audience here in Hackett Hall.
+
+782
+00:44:18,080 --> 00:44:22,740
+Just a reminder that the OceanXperience
+exhibition is running through to October 11
+
+783
+00:44:22,740 --> 00:44:23,840
+this year.
+
+784
+00:44:23,840 --> 00:44:25,740
+So make sure you check it out.
+
+785
+00:44:25,740 --> 00:44:28,680
+And if you've already seen it,
+tell your friends.
+
+786
+00:44:28,680 --> 00:44:32,480
+Make sure they come down and see it too,
+because we'd love to welcome them.
+
+787
+00:44:32,840 --> 00:44:35,360
+Okay, folks,
+that's it. It's goodbye from us.
+
+788
+00:44:35,360 --> 00:44:37,080
+Please make sure you get home safe.
+
+789
+00:44:38,300 --> 00:44:38,660
+Okay?
+
+790
+00:44:38,660 --> 00:44:41,660
+Bye bye.
+
+791
+00:44:50,720 --> 00:46:45,100
+#music plays
+
